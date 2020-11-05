@@ -1,6 +1,8 @@
 # hey-bro-check-log
 
-[![Build Status](https://travis-ci.org/ligh7s/hey-bro-check-log.svg?branch=master)](https://travis-ci.org/ligh7s/hey-bro-check-log)
+[![Come on Join us!](https://img.shields.io/badge/Discord-Come%20on%20Join%20us!-7289da)](https://discord.gg/mC4Yp6J)
+
+This version of hey-bro-check-log is maintained by doujin music discord community.
 
 A python tool which analyzes and verifies good ripping practices and potential inaccuracies
 in CD ripping logs.
