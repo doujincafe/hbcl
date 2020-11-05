@@ -1,0 +1,212 @@
+X Lossless Decoder version <span class="log1">20090320</span> (<span class="log1">105.1</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2009-05-08 18:00:06 -0400</span></span>
+
+<span class="log4">Tram / Heavy Black Frame</span>
+
+<span class="log5">Used Drive </span>: <span class="badish">PIONEER DVD-RW  DVR-111D (revision 1.19) (not found in database)</span>
+
+<span class="log5">Use cdparanoia mode     </span>: <span class="bad">YES (CDParanoia III 10.2 engine)</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with cache less than 2750KB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="bad">YES</span>
+<span class="log5">Read offset correction  </span>: <span class="good">48</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">04:33:30</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">20504</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">04:33:30</span> <strong>|</strong> <span class="log1">06:03:28</span> <strong>|</strong>     <span class="log1">20505</span>    <strong>|</strong>    <span class="log1">47757</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">10:36:58</span> <strong>|</strong> <span class="log1">03:33:14</span> <strong>|</strong>     <span class="log1">47758</span>    <strong>|</strong>    <span class="log1">63746</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">14:09:72</span> <strong>|</strong> <span class="log1">03:56:11</span> <strong>|</strong>     <span class="log1">63747</span>    <strong>|</strong>    <span class="log1">81457</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">18:06:08</span> <strong>|</strong> <span class="log1">03:48:41</span> <strong>|</strong>     <span class="log1">81458</span>    <strong>|</strong>    <span class="log1">98598</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">21:54:49</span> <strong>|</strong> <span class="log1">03:43:37</span> <strong>|</strong>     <span class="log1">98599</span>    <strong>|</strong>   <span class="log1">115360</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">25:38:11</span> <strong>|</strong> <span class="log1">04:21:35</span> <strong>|</strong>    <span class="log1">115361</span>    <strong>|</strong>   <span class="log1">134970</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">29:59:46</span> <strong>|</strong> <span class="log1">04:31:04</span> <strong>|</strong>    <span class="log1">134971</span>    <strong>|</strong>   <span class="log1">155299</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">34:30:50</span> <strong>|</strong> <span class="log1">05:49:42</span> <strong>|</strong>    <span class="log1">155300</span>    <strong>|</strong>   <span class="log1">181516</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">40:20:17</span> <strong>|</strong> <span class="log1">03:28:70</span> <strong>|</strong>    <span class="log1">181517</span>    <strong>|</strong>   <span class="log1">197186</span>   
+
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/01 Tram - Nothing Left To Say.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">6753193C</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">6753193C</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">FB110822</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">B1D50FB7</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/02 Tram - Expectations.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">9CC834A9</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">9CC834A9</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">A311B87C</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">BFD0591D</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/03 Tram - Too Scared To Sleep.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">2C4D534C</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">2C4D534C</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">E5175733</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">7B609EE7</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/04 Tram - Like Clockwork.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">BB270521</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">BB270521</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">542603F4</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">FC96437C</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/05 Tram - Home.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">BBF90090</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">BBF90090</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">049DAA94</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">873FF51D</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/06 Tram - I&#x27;ve Been Here Once Before.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">E595D578</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">E595D578</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">2C5A34A3</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">9E38E6DE</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">07</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/07 Tram - High Ground.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">FF0E7DAD</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">FF0E7DAD</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">8E985271</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">E839C730</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">08</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/08 Tram - When Its All Over.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">3F1A4030</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">3F1A4030</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">967CC2CA</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">DC1CDE99</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">09</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/09 Tram - Reason Why.flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">903D79E7</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">903D79E7</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">2C1005B4</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">9B15CDF1</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/10 Tram - You Can Go Now (if you want).flac</span>
+
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">6F30BF8E</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">6F30BF8E</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">86ECA8E4</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">AD6E1659</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

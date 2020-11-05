@@ -1,0 +1,103 @@
+<span class="good">EAC <span class="log5">extraction logfile from 19. January 2008, 14:21 for CD</span></span>
+<span class="log4">Dead Can Dance / Spleen and Ideal</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVDRAM GSA-H44L   Adapter: 2  ID: 0 (not found in database)</span>
+<span class="log5">Read mode   </span>: <span class="log4">Burst</span>
+<span class="log5">Read offset correction </span>: <span class="good">0</span>
+<span class="log5">Overread into Lead-In and Lead-Out </span>: <span class="log4">No</span>
+
+<span class="log5">Used output format </span>: <span class="log4">C:\Program Files\Exact Audio Copy\lame.exe   (User Defined Encoder)</span>
+                     320 kBit/s
+                     <span class="log5">Additional command line options </span>: <span class="log4">-V 0 --vbr-new --add-id3v2 --ignore-tag-errors --ta &quot;%a&quot; --tt &quot;%t&quot; --tg &quot;%m&quot; --tl &quot;%g&quot; --ty &quot;%y&quot; --tn &quot;%n&quot; %s %d</span>
+
+<span class="log4"></span><span class="log5">Other options      </span>: 
+    <span class="log5">Fill up missing offset samples with silence </span>: <span class="log4">Yes</span>
+    <span class="log5">Delete leading and trailing silent blocks </span>: <span class="log4">No</span>
+    Installed external ASPI interface
+
+
+<sp<span class="log5">an class="log4 log5">Track  <span class="log4 log1">1</span></span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\01 - Dead Can Dance - De Profundis (Out of the Depths of Sorrow).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.42</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">3020F329</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\02 - Dead Can Dance - Ascension.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.76</span></span>
+
+     <span class="log4">Peak level <span class="log3">68.8 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">0EDCDE6F</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\03 - Dead Can Dance - Circumradiant Dawn.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.29</span></span>
+
+     <span class="log4">Peak level <span class="log3">52.5 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">91FE3362</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\04 - Dead Can Dance - The Cardinal Sin.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.80</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.2 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">1FCEA6F2</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\05 - Dead Can Dance - Mesmerism.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.52</span></span>
+
+     <span class="log4">Peak level <span class="log3">94.1 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">03CBB5FF</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\06 - Dead Can Dance - Enigma of the Absolute.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.66</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.6 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">547EB52F</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\07 - Dead Can Dance - Advent.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.02</span></span>
+
+     <span class="log4">Peak level <span class="log3">91.6 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">AE2F16AD</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\08 - Dead Can Dance - Avatar.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:03.82</span></span>
+
+     <span class="log4">Peak level <span class="log3">81.1 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">AFB0AD01</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+     <span class="log4">Filename <span class="log3">C:\EAC Rips\09 - Dead Can Dance - Indoctrination (A Design for Living).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.29</span></span>
+
+     <span class="log4">Peak level <span class="log3">87.1 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">0204D7DC</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occured</span>
+
+
+<span class="good">End of status report</span>

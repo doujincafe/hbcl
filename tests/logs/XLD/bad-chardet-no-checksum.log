@@ -1,0 +1,202 @@
+X Lossless Decoder version 20130407 (143.0)
+
+XLD extraction logfile from 2013-04-20 16:31:01 -0700
+
+!!! / Thr!!!Er
+
+Used drive : HL-DT-ST DVDRAM GE24LU20 (revision OL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:47:68 |         0    |    17092   
+        2  | 03:47:68 | 05:05:70 |     17093    |    40037   
+        3  | 08:53:63 | 04:03:47 |     40038    |    58309   
+        4  | 12:57:35 | 03:54:23 |     58310    |    75882   
+        5  | 16:51:58 | 04:14:69 |     75883    |    95001   
+        6  | 21:06:52 | 04:34:01 |     95002    |   115552   
+        7  | 25:40:53 | 04:37:00 |    115553    |   136327   
+        8  | 30:17:53 | 05:37:03 |    136328    |   161605   
+        9  | 35:54:56 | 03:54:71 |    161606    |   179226   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -8.96 dB
+    Peak                     : 0.999207
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/chuckp/Downloads/THR!!!ER/01 !!! - Even When The Water's Cold.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -8.73 dB
+    Peak                     : 0.989014
+    CRC32 hash (test run)    : B8DCFA71
+    CRC32 hash               : B8DCFA71
+    CRC32 hash (skip zero)   : 1DF305BC
+    AccurateRip v1 signature : 930EC284
+    AccurateRip v2 signature : E6B5F33B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/chuckp/Downloads/THR!!!ER/02 !!! - Get That Rhythm Right.flac
+
+    Track gain               : -9.32 dB
+    Peak                     : 0.999207
+    CRC32 hash (test run)    : 2102FC27
+    CRC32 hash               : 2102FC27
+    CRC32 hash (skip zero)   : 8102DD2B
+    AccurateRip v1 signature : 78F31D8A
+    AccurateRip v2 signature : A07FBB60
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/chuckp/Downloads/THR!!!ER/03 !!! - One Girl ／ One Boy.flac
+    Pre-gap length : 00:01:03
+
+    Track gain               : -8.00 dB
+    Peak                     : 0.989075
+    CRC32 hash (test run)    : 8118159C
+    CRC32 hash               : 8118159C
+    CRC32 hash (skip zero)   : 08B5F4FF
+    AccurateRip v1 signature : 71FD22E4
+    AccurateRip v2 signature : 3F4A0DF4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/chuckp/Downloads/THR!!!ER/04 !!! - Fine Fine Fine.flac
+    Pre-gap length : 00:00:45
+
+    Track gain               : -9.34 dB
+    Peak                     : 0.989014
+    CRC32 hash (test run)    : 584AE6FC
+    CRC32 hash               : 584AE6FC
+    CRC32 hash (skip zero)   : D660C676
+    AccurateRip v1 signature : C912E0AC
+    AccurateRip v2 signature : E13EAADE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/chuckp/Downloads/THR!!!ER/05 !!! - Slyd.flac
+
+    Track gain               : -7.73 dB
+    Peak                     : 0.999115
+    CRC32 hash (test run)    : 581AAFFD
+    CRC32 hash               : 581AAFFD
+    CRC32 hash (skip zero)   : FAA49D6F
+    AccurateRip v1 signature : DC1D64D0
+    AccurateRip v2 signature : 7634FB13
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/chuckp/Downloads/THR!!!ER/06 !!! - Californiyeah.flac
+    Pre-gap length : 00:01:16
+
+    Track gain               : -6.60 dB
+    Peak                     : 0.988953
+    CRC32 hash (test run)    : 833C1553
+    CRC32 hash               : 833C1553
+    CRC32 hash (skip zero)   : C9C2EF6F
+    AccurateRip v1 signature : 79B3DADB
+    AccurateRip v2 signature : 2340AFCF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/chuckp/Downloads/THR!!!ER/07 !!! - Except Death.flac
+
+    Track gain               : -7.79 dB
+    Peak                     : 0.989105
+    CRC32 hash (test run)    : 3B2217B6
+    CRC32 hash               : 3B2217B6
+    CRC32 hash (skip zero)   : A89C4F12
+    AccurateRip v1 signature : 114012BF
+    AccurateRip v2 signature : F8EFC435
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/chuckp/Downloads/THR!!!ER/08 !!! - Careful.flac
+
+    Track gain               : -7.70 dB
+    Peak                     : 0.988983
+    CRC32 hash (test run)    : C95EB55E
+    CRC32 hash               : C95EB55E
+    CRC32 hash (skip zero)   : BD6FD96C
+    AccurateRip v1 signature : F6B03378
+    AccurateRip v2 signature : FFBC803F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/chuckp/Downloads/THR!!!ER/09 !!! - Station (Meet Me At The).flac
+    Pre-gap length : 00:00:04
+
+    Track gain               : -10.31 dB
+    Peak                     : 0.989044
+    CRC32 hash (test run)    : D41835D6
+    CRC32 hash               : D41835D6
+    CRC32 hash (skip zero)   : A9E82FB6
+    AccurateRip v1 signature : AD583C0C
+    AccurateRip v2 signature : EBC38276
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

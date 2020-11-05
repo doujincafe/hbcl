@@ -1,0 +1,99 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 15. February 2013, 19:20
+
+ABBA / Waterloo
+
+Used drive  : Optiarc BD RW BD-5300S   Adapter: 3  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "Date=%year%" -T "Genre=%genre%" -T "COMMENT=ripped by 
+bvstudio®" %source%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.33 |  2:44.25 |        33    |    12357   
+        2  |  2:44.58 |  3:36.62 |     12358    |    28619   
+        3  |  6:21.45 |  3:11.25 |     28620    |    42969   
+        4  |  9:32.70 |  3:09.13 |     42970    |    57157   
+        5  | 12:42.08 |  3:13.12 |     57158    |    71644   
+        6  | 15:55.20 |  3:12.50 |     71645    |    86094   
+        7  | 19:07.70 |  2:55.38 |     86095    |    99257   
+        8  | 22:03.33 |  2:55.37 |     99258    |   112419   
+        9  | 24:58.70 |  3:48.13 |    112420    |   129532   
+       10  | 28:47.08 |  3:41.00 |    129533    |   146107   
+       11  | 32:28.08 |  3:10.25 |    146108    |   160382   
+
+
+Range status and errors
+
+Selected range
+
+     Filename F:\ABBA®\1974 - Waterloo (1990 - Polydor - 843 643-2)\ABBA - Waterloo.wav
+
+     Peak level 97.7 %
+     Extraction speed 2.8 X
+     Range quality 99.9 %
+     Test CRC 4199FFCA
+     Copy CRC 4199FFCA
+     Copy OK
+
+No errors occurred
+
+ 
+AccurateRip summary
+ 
+Track  1  accurately ripped (confidence 7)  [63DA46C4]  (AR v2)
+Track  2  accurately ripped (confidence 7)  [4334B581]  (AR v2)
+Track  3  accurately ripped (confidence 7)  [BC9D2EB3]  (AR v2)
+Track  4  accurately ripped (confidence 7)  [CA198833]  (AR v2)
+Track  5  accurately ripped (confidence 7)  [EB74FD25]  (AR v2)
+Track  6  accurately ripped (confidence 7)  [042E1875]  (AR v2)
+Track  7  accurately ripped (confidence 7)  [1B18C99B]  (AR v2)
+Track  8  accurately ripped (confidence 7)  [704684FF]  (AR v2)
+Track  9  accurately ripped (confidence 7)  [7FBE3435]  (AR v2)
+Track 10  accurately ripped (confidence 7)  [6D20FD41]  (AR v2)
+Track 11  accurately ripped (confidence 7)  [0B021200]  (AR v2)
+ 
+All tracks accurately ripped
+
+End of status report
+
+---- CUETools DB Plugin V2.1.4
+
+[CTDB TOCID: KhAHhDj3XzY_7wr53p8OrhbqZD0-] found
+Submit result: already submitted
+Track | CTDB Status
+  1   | (3/3) Accurately ripped
+  2   | (3/3) Accurately ripped
+  3   | (3/3) Accurately ripped
+  4   | (3/3) Accurately ripped
+  5   | (3/3) Accurately ripped
+  6   | (3/3) Accurately ripped
+  7   | (3/3) Accurately ripped
+  8   | (3/3) Accurately ripped
+  9   | (3/3) Accurately ripped
+ 10   | (3/3) Accurately ripped
+ 11   | (3/3) Accurately ripped
+
+
+==== Log checksum 56FE14AFBBBB6D7A1267A708835A821133E15CC20911599A7B0AEF54B9C55DFD ====

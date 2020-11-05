@@ -1,0 +1,94 @@
+Exact Audio Copy <span class="log1">V1.1</span> from <span class="log1">23. June 2015</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 15. March 2018, 19:05</span></span>
+
+<span class="log4">Alice / CHOICE</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">ASUS    SBC-06D2X-U   Adapter: 1  ID: 2 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">667</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">5:16.35</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">23734</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">5:16.35</span> <strong>|</strong>  <span class="log1">2:57.14</span> <strong>|</strong>     <span class="log1">23735</span>    <strong>|</strong>    <span class="log1">37023</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">8:13.49</span> <strong>|</strong>  <span class="log1">4:26.71</span> <strong>|</strong>     <span class="log1">37024</span>    <strong>|</strong>    <span class="log1">57044</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC rips\01. CHOICE.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9B6CDC62</span></span>
+     <span class="log4">Copy CRC <span class="good">9B6CDC62</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC rips\02. Can&amp;#x27;t Wait.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.9 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0CAB6AA7</span></span>
+     <span class="log4">Copy CRC <span class="good">0CAB6AA7</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC rips\03. Clock.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.9 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">1896E620</span></span>
+     <span class="log4">Copy CRC <span class="good">1896E620</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">None of the tracks are present in the AccurateRip database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: cljPK5E11RHTwep_jXNr7GNVxhA-] disk not present in database
+Submit result: cljPK5E11RHTwep_jXNr7GNVxhA- has been uploaded
+
+
+==== Log checksum 1AD3B8CE83AC8573CB7354EFF39310F97C325EBE47EAD7E226C3FB1E2960551E ====

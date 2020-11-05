@@ -1,0 +1,61 @@
+X Lossless Decoder version <span class="log1">20170729</span> (<span class="log1">150.3</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2017-08-28 03:03:05 +0100</span></span>
+
+<span class="log4">Quinoline Yellow / Uchel001</span>
+
+<span class="log5">Used drive </span>: <span class="badish">TSSTcorp CDDVDW SE-S084C (revision TS01) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="badish">CD-Recordable</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">6</span>
+<span class="log5">Max retry count         </span>: <span class="log4">20</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">01:01:17</span> <strong>|</strong> <span class="log1">03:48:58</span> <strong>|</strong>      <span class="log1">4592</span>    <strong>|</strong>    <span class="log1">21749</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">04:50:00</span> <strong>|</strong> <span class="log1">04:27:22</span> <strong>|</strong>     <span class="log1">21750</span>    <strong>|</strong>    <span class="log1">41796</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">09:17:22</span> <strong>|</strong> <span class="log1">04:10:59</span> <strong>|</strong>     <span class="log1">41797</span>    <strong>|</strong>    <span class="log1">60605</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">13:28:06</span> <strong>|</strong> <span class="log1">01:52:71</span> <strong>|</strong>     <span class="log1">60606</span>    <strong>|</strong>    <span class="log1">69076</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:21:02</span> <strong>|</strong> <span class="log1">03:49:53</span> <strong>|</strong>     <span class="log1">69077</span>    <strong>|</strong>    <span class="log1">86304</span>   
+
+<span class="log4 log5">AccurateRip Summary</span> (DiscID: 000455df-00138492-40044105)
+    <span class="good">Track 01 : OK (v1, confidence 1/2)</span>
+        -&gt;All tracks accurately ripped.
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [WAV]/00 - Untitled.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">01:03:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.47 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">7AEE75EC</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">7AEE75EC</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">FA6488BC</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">7F906C67</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">DCC30E8E</span>
+        <span class="good">-&gt;Accurately ripped (v1, confidence 1/2)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+<span class="good">-----BEGIN XLD SIGNATURE-----
+1wzdA1lWBzTfsDeL6AHIRV5sF.wWMjtFSNR_NAn172OFxMJTyc7P7ns0oSToGxA1bTXZcOJruRXqkid.PtKaEjoHVfhsjla64FKsDV0
+-----END XLD SIGNATURE-----</span>

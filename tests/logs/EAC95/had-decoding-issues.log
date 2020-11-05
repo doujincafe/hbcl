@@ -1,0 +1,198 @@
+EAC extraction logfile from 6. July 2009, 21:34 for CD
+Various / You Don't Know: Ninja Cuts (Disc 1)
+
+Used drive  : TSSTcorpCDDVDW SH-S202J   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 6
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Program Files\FLAC\FLAC 1.1.4.exe   (User Defined Encoder)
+                     192 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename 01 - Ghislain Poirier Ft. Face-T - Blazin' (Modeselektor Remix).wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.9 %
+     Track quality 100.0 %
+     Test CRC DCF12794
+     Copy CRC DCF12794
+     Copy OK
+
+Track  2
+     Filename 02 - Roots Manuva Ft. Ricky Ranking - Seat Yourself.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 76.3 %
+     Track quality 100.0 %
+     Test CRC 7A0A4DAD
+     Copy CRC 7A0A4DAD
+     Copy OK
+
+Track  3
+     Filename 03 - Bonobo Ft. Bajka - Nightlite (Zero dB Reconstruction).wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 81.4 %
+     Track quality 100.0 %
+     Test CRC B1D63427
+     Copy CRC B1D63427
+     Copy OK
+
+Track  4
+     Filename 04 - Daedelus - Fair Weather Friends.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 33278AB4
+     Copy CRC 33278AB4
+     Copy OK
+
+Track  5
+     Filename 05 - Mr Scruff & Quantic - Donkey Ride.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 78.5 %
+     Track quality 100.0 %
+     Test CRC 4BC65A67
+     Copy CRC 4BC65A67
+     Copy OK
+
+Track  6
+     Filename 06 - Pop Levi - Dita Dimoné.wav
+
+     Pre-gap length  0:00:01.57
+
+     Peak level 84.6 %
+     Track quality 100.0 %
+     Test CRC D5560445
+     Copy CRC D5560445
+     Copy OK
+
+Track  7
+     Filename 07 - The Herbaliser - Gadget Funk.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 75.8 %
+     Track quality 100.0 %
+     Test CRC BCF97297
+     Copy CRC BCF97297
+     Copy OK
+
+Track  8
+     Filename 08 - Cadence Weapon - Getting Dumb.wav
+
+     Pre-gap length  0:00:00.49
+
+     Peak level 80.0 %
+     Track quality 100.0 %
+     Test CRC 21AC06BE
+     Copy CRC 21AC06BE
+     Copy OK
+
+Track  9
+     Filename 09 - Spank Rock - Bump (Switch Remix).wav
+
+     Pre-gap length  0:00:01.45
+
+     Peak level 68.9 %
+     Track quality 100.0 %
+     Test CRC EEA0847A
+     Copy CRC EEA0847A
+     Copy OK
+
+Track 10
+     Filename 10 - The Heavy - Coleen.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 84.6 %
+     Track quality 100.0 %
+     Test CRC 93A661B3
+     Copy CRC 93A661B3
+     Copy OK
+
+Track 11
+     Filename 11 - Diplo - Epistemology Suite 1- Don't Fall.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 37BF2B96
+     Copy CRC 37BF2B96
+     Copy OK
+
+Track 12
+     Filename 12 - King Geedorah - Next Levels.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 89.6 %
+     Track quality 100.0 %
+     Test CRC 618A710F
+     Copy CRC 618A710F
+     Copy OK
+
+Track 13
+     Filename 13 - Fink - Pretty Little Thing.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 84.7 %
+     Track quality 100.0 %
+     Test CRC 7EA09C94
+     Copy CRC 7EA09C94
+     Copy OK
+
+Track 14
+     Filename 14 - The Cinematic Orchestra - To Build A Home (Radio Version).wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 87.7 %
+     Track quality 100.0 %
+     Test CRC 0C19B425
+     Copy CRC 0C19B425
+     Copy OK
+
+Track 15
+     Filename 15 - Amon Tobin - Bloodstone.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 93.1 %
+     Track quality 100.0 %
+     Test CRC E51BB5FE
+     Copy CRC E51BB5FE
+     Copy OK
+
+Track 16
+     Filename 16 - John Matthias - Evermore.wav
+
+     Pre-gap length  0:00:01.58
+
+     Peak level 89.2 %
+     Track quality 100.0 %
+     Test CRC 220E97BD
+     Copy CRC 220E97BD
+     Copy OK
+
+No errors occured
+
+
+End of status report

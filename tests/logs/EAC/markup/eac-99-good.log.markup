@@ -1,0 +1,111 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 5</span> from <span class="log1">4. May 2009</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 15. May 2009, 22:21</span></span>
+
+<span class="log4">Above &amp; Beyond  / Far From In Love</span>
+
+<span class="log5">Used drive  </span>: <span class="good">Optiarc DVD RW AD-7191A   Adapter: 1  ID: 1</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">6</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">128 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=ripped by Leontiou&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:20.28</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">33027</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:20.28</span> <strong>|</strong>  <span class="log1">8:14.72</span> <strong>|</strong>     <span class="log1">33028</span>    <strong>|</strong>    <span class="log1">70149</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">15:35.25</span> <strong>|</strong> <span class="log1">10:02.07</span> <strong>|</strong>     <span class="log1">70150</span>    <strong>|</strong>   <span class="log1">115306</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">25:37.32</span> <strong>|</strong>  <span class="log1">6:49.34</span> <strong>|</strong>    <span class="log1">115307</span>    <strong>|</strong>   <span class="log1">146015</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">32:26.66</span> <strong>|</strong>  <span class="log1">5:27.49</span> <strong>|</strong>    <span class="log1">146016</span>    <strong>|</strong>   <span class="log1">170589</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\Music\01. Far From In Love [original mix].wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0DDFDEF3</span></span>
+     <span class="log4">Copy CRC <span class="good">0DDFDEF3</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\Music\02. Far From In Love [san francisco mix].wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EE2A86D2</span></span>
+     <span class="log4">Copy CRC <span class="good">EE2A86D2</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\Music\03. Far From In Love [shane54 on spec remix].wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9493C6AF</span></span>
+     <span class="log4">Copy CRC <span class="good">9493C6AF</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\Music\04. Far From In Love [airbase remix].wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">D6E0F8AE</span></span>
+     <span class="log4">Copy CRC <span class="good">D6E0F8AE</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\Music\05. Far From In Love [complexz remix].wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">5B05B9F5</span></span>
+     <span class="log4">Copy CRC <span class="good">5B05B9F5</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">None of the tracks are present in the AccurateRip database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

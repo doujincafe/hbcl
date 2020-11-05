@@ -1,0 +1,202 @@
+X Lossless Decoder version <span class="log1">20130407</span> (<span class="log1">143.0</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2013-04-20 16:31:01 -0700</span></span>
+
+<span class="log4">!!! / Thr!!!Er</span>
+
+<span class="log5">Used drive </span>: <span class="badish">HL-DT-ST DVDRAM GE24LU20 (revision OL00) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="good">Pressed CD</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">667</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended (except HTOA)</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">03:47:68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">17092</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">03:47:68</span> <strong>|</strong> <span class="log1">05:05:70</span> <strong>|</strong>     <span class="log1">17093</span>    <strong>|</strong>    <span class="log1">40037</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">08:53:63</span> <strong>|</strong> <span class="log1">04:03:47</span> <strong>|</strong>     <span class="log1">40038</span>    <strong>|</strong>    <span class="log1">58309</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">12:57:35</span> <strong>|</strong> <span class="log1">03:54:23</span> <strong>|</strong>     <span class="log1">58310</span>    <strong>|</strong>    <span class="log1">75882</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">16:51:58</span> <strong>|</strong> <span class="log1">04:14:69</span> <strong>|</strong>     <span class="log1">75883</span>    <strong>|</strong>    <span class="log1">95001</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">21:06:52</span> <strong>|</strong> <span class="log1">04:34:01</span> <strong>|</strong>     <span class="log1">95002</span>    <strong>|</strong>   <span class="log1">115552</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">25:40:53</span> <strong>|</strong> <span class="log1">04:37:00</span> <strong>|</strong>    <span class="log1">115553</span>    <strong>|</strong>   <span class="log1">136327</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">30:17:53</span> <strong>|</strong> <span class="log1">05:37:03</span> <strong>|</strong>    <span class="log1">136328</span>    <strong>|</strong>   <span class="log1">161605</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">35:54:56</span> <strong>|</strong> <span class="log1">03:54:71</span> <strong>|</strong>    <span class="log1">161606</span>    <strong>|</strong>   <span class="log1">179226</span>   
+
+<span class="log4 log5">AccurateRip Summary</span>
+    <span class="badish">Disc not found in AccurateRip DB</span>.
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Album gain               :</span> <span class="log3">-8.96 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.999207</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/01 !!! - Even When The Water&#x27;s Cold.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-8.73 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.989014</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">B8DCFA71</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">B8DCFA71</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">1DF305BC</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">930EC284</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">E6B5F33B</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/02 !!! - Get That Rhythm Right.flac</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.32 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.999207</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">2102FC27</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">2102FC27</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8102DD2B</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">78F31D8A</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">A07FBB60</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/03 !!! - One Girl ／ One Boy.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:03</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-8.00 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.989075</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">8118159C</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">8118159C</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">08B5F4FF</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">71FD22E4</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">3F4A0DF4</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/04 !!! - Fine Fine Fine.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:00:45</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.34 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.989014</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">584AE6FC</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">584AE6FC</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">D660C676</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">C912E0AC</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">E13EAADE</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/05 !!! - Slyd.flac</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-7.73 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.999115</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">581AAFFD</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">581AAFFD</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">FAA49D6F</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">DC1D64D0</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">7634FB13</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/06 !!! - Californiyeah.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:16</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-6.60 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.988953</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">833C1553</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">833C1553</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">C9C2EF6F</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">79B3DADB</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">2340AFCF</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">07</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/07 !!! - Except Death.flac</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-7.79 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.989105</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">3B2217B6</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">3B2217B6</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">A89C4F12</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">114012BF</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">F8EFC435</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">08</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/08 !!! - Careful.flac</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-7.70 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.988983</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">C95EB55E</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">C95EB55E</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">BD6FD96C</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">F6B03378</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">FFBC803F</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">09</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/chuckp/Downloads/THR!!!ER/09 !!! - Station (Meet Me At The).flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:00:04</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-10.31 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.989044</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">D41835D6</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">D41835D6</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">A9E82FB6</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">AD583C0C</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">EBC38276</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

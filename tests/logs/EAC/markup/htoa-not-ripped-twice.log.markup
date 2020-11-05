@@ -1,0 +1,66 @@
+Exact Audio Copy <span class="log1">V1.3</span> from <span class="log1">2. September 2016</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 9. April 2017, 15:43</span></span>
+
+<span class="log4">Arcade Fire / Reflektor</span>
+
+<span class="log5">Used Drive  </span>: <span class="good">ASUS    DRW-24B1ST   a   Adapter: 1  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">6</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">10:02.00</span> <strong>|</strong>  <span class="log1">7:33.71</span> <strong>|</strong>     <span class="log1">45150</span>    <strong>|</strong>    <span class="log1">79195</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">17:35.71</span> <strong>|</strong>  <span class="log1">5:43.59</span> <strong>|</strong>     <span class="log1">79196</span>    <strong>|</strong>   <span class="log1">104979</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">23:19.55</span> <strong>|</strong>  <span class="log1">2:42.15</span> <strong>|</strong>    <span class="log1">104980</span>    <strong>|</strong>   <span class="log1">117144</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">26:01.70</span> <strong>|</strong>  <span class="log1">6:30.61</span> <strong>|</strong>    <span class="log1">117145</span>    <strong>|</strong>   <span class="log1">146455</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">32:32.56</span> <strong>|</strong>  <span class="log1">4:22.27</span> <strong>|</strong>    <span class="log1">146456</span>    <strong>|</strong>   <span class="log1">166132</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">36:55.08</span> <strong>|</strong>  <span class="log1">3:59.05</span> <strong>|</strong>    <span class="log1">166133</span>    <strong>|</strong>   <span class="log1">184062</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:54.13</span> <strong>|</strong>  <span class="log1">5:28.39</span> <strong>|</strong>    <span class="log1">184063</span>    <strong>|</strong>   <span class="log1">208701</span>   
+
+
+R<span class="log5">ange status and errors</span>
+
+<span class="badish">Selected range   (Sectors 0-45149)</span>
+
+     <span class="log4">Filename <span class="log3">C:\Users\thomas\Desktop\Arcade Fire - Reflektor (MRG485B) [FLAC]\Vol. 1\00 - Untitled.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">14.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.7 X</span></span>
+     <span class="log4">Range quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">255229CD</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+ 
+<span class="log4 log5">AccurateRip summary</span>
+ 
+ 
+
+<span class="badish">No tracks could be verified as accurate</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum F679AD2B4CC812E305ADBE5E015246D3FEB36D44FD57F1E143FDE317AD070555 ====

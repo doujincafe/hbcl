@@ -1,0 +1,219 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 13. October 2014, 14:55
+
+Nick Brignola / Poinciana
+
+Used drive  : ATAPI   iHAS124   Y   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 896 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  6:20.00 |         0    |    28499   
+        2  |  6:20.00 |  8:22.00 |     28500    |    66149   
+        3  | 14:42.00 |  5:39.00 |     66150    |    91574   
+        4  | 20:21.00 |  5:13.00 |     91575    |   115049   
+        5  | 25:34.00 |  6:16.00 |    115050    |   143249   
+        6  | 31:50.00 |  8:21.00 |    143250    |   180824   
+        7  | 40:11.00 |  8:02.00 |    180825    |   216974   
+        8  | 48:13.00 |  5:58.00 |    216975    |   243824   
+        9  | 54:11.00 |  4:35.00 |    243825    |   264449   
+       10  | 58:46.00 |  6:39.30 |    264450    |   294404   
+
+
+Track  1
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\01 - Poinciana.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 97.9 %
+     Extraction speed 2.7 X
+     Track quality 100.0 %
+     Test CRC 43E07BBB
+     Copy CRC 43E07BBB
+     Accurately ripped (confidence 1)  [2B132006]  (AR v1)
+     Copy OK
+
+Track  2
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\02 - Well You Needn't.wav
+
+     Pre-gap length  0:00:01.60
+
+     Peak level 97.9 %
+     Extraction speed 3.1 X
+     Track quality 99.9 %
+     Test CRC CD0E49E1
+     Copy CRC CD0E49E1
+     Accurately ripped (confidence 1)  [D496DA48]  (AR v1)
+     Copy OK
+
+Track  3
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\03 - Sign Post.wav
+
+     Pre-gap length  0:00:01.60
+
+     Peak level 97.9 %
+     Extraction speed 3.2 X
+     Track quality 99.9 %
+     Test CRC AA24AE2E
+     Copy CRC AA24AE2E
+     Accurately ripped (confidence 1)  [31AFAEA5]  (AR v1)
+     Copy OK
+
+Track  4
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\04 - What'll I Do.wav
+
+     Pre-gap length  0:00:02.60
+
+     Suspicious position 0:01:53 - 0:01:54
+     Suspicious position 0:01:58
+     Suspicious position 0:02:00
+     Suspicious position 0:02:02
+     Suspicious position 0:02:51
+     Suspicious position 0:02:55 - 0:02:56
+     Suspicious position 0:03:00 - 0:03:01
+     Suspicious position 0:03:11 - 0:03:12
+     Suspicious position 0:03:15
+
+     Peak level 97.9 %
+     Extraction speed 0.0 X
+     Track quality 97.3 %
+     Test CRC CE3DA5DB
+     Copy CRC B5BCAF5F
+     Cannot be verified as accurate (confidence 1)  [34C07EB2], AccurateRip returned [5359A3A7]  (AR v2)
+     Copy finished
+
+Track  5
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\05 - April Mist.wav
+
+     Pre-gap length  0:00:02.60
+
+     Peak level 97.9 %
+     Extraction speed 4.1 X
+     Track quality 100.0 %
+     Test CRC 5C7C0596
+     Copy CRC 5C7C0596
+     Accurately ripped (confidence 1)  [7DD05FF7]  (AR v1)
+     Copy OK
+
+Track  6
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\06 - Ghost of a Chance.wav
+
+     Pre-gap length  0:00:02.58
+
+     Peak level 97.9 %
+     Extraction speed 4.2 X
+     Track quality 99.9 %
+     Test CRC 559A85B9
+     Copy CRC 559A85B9
+     Accurately ripped (confidence 1)  [4E6056B3]  (AR v1)
+     Copy OK
+
+Track  7
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\07 - Upper Manhattan Medical Group.wav
+
+     Pre-gap length  0:00:02.60
+
+     Suspicious position 0:02:09
+     Suspicious position 0:07:27
+
+     Peak level 97.9 %
+     Extraction speed 1.4 X
+     Track quality 99.5 %
+     Test CRC 6E2BCC06
+     Copy CRC A1E4DF9E
+     Cannot be verified as accurate (confidence 1)  [3586A7CB], AccurateRip returned [ECF4856A]  (AR v2)
+     Copy finished
+
+Track  8
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\08 - Airegin.wav
+
+     Pre-gap length  0:00:02.60
+
+     Peak level 97.9 %
+     Extraction speed 3.4 X
+     Track quality 99.9 %
+     Test CRC 42AC472C
+     Copy CRC 42AC472C
+     Accurately ripped (confidence 1)  [5A454EA1]  (AR v1)
+     Copy OK
+
+Track  9
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\09 - When You Wish Upon a Star.wav
+
+     Pre-gap length  0:00:02.60
+
+     Peak level 97.9 %
+     Extraction speed 2.3 X
+     Track quality 99.7 %
+     Test CRC C45E0DB9
+     Copy CRC C45E0DB9
+     Accurately ripped (confidence 1)  [56E43E08]  (AR v1)
+     Copy OK
+
+Track 10
+
+     Filename H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\10 - Outside In.wav
+
+     Pre-gap length  0:00:01.60
+
+     Suspicious position 0:01:45 - 0:01:46
+     Suspicious position 0:02:53
+     Suspicious position 0:02:56
+
+     Peak level 97.9 %
+     Extraction speed 0.2 X
+     Track quality 98.3 %
+     Test CRC FBC8E81E
+     Copy CRC B2A0B89E
+     Cannot be verified as accurate (confidence 1)  [14B16726], AccurateRip returned [50F55C9F]  (AR v2)
+     Copy finished
+
+
+ 7 track(s) accurately ripped
+ 3 track(s) could not be verified as accurate
+
+Some tracks could not be verified as accurate
+
+There were errors
+
+End of status report
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: V9HsJ2q31O_YP2vn2ZebFaeP8vQ-] disk not present in database, Submit result: insufficient quality
+
+
+==== Log checksum 1391E059BBBAB16B8AE639B2DC72FE13270675E326C9867745ADDF2C3B9D2B6A ====

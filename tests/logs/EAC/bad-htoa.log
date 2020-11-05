@@ -1,0 +1,406 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 25. September 2013, 11:18
+
+Angelo Badalamenti and David Lynch / Twin Peaks: Season Two Music and More
+
+Used Drive  : PLEXTOR CD-R   PREMIUM   Adapter: 5  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 30
+Overread into Lead-In and Lead-Out          : Yes
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  4:19.44 |  2:21.66 |     19469    |    30109   
+        2  |  6:41.35 |  2:17.44 |     30110    |    40428   
+        3  |  8:59.04 |  3:47.69 |     40429    |    57522   
+        4  | 12:46.73 |  1:51.45 |     57523    |    65892   
+        5  | 14:38.43 |  2:16.27 |     65893    |    76119   
+        6  | 16:54.70 |  5:12.07 |     76120    |    99526   
+        7  | 22:07.02 |  2:10.43 |     99527    |   109319   
+        8  | 24:17.45 |  2:31.06 |    109320    |   120650   
+        9  | 26:48.51 |  1:56.01 |    120651    |   129351   
+       10  | 28:44.52 |  1:42.70 |    129352    |   137071   
+       11  | 30:27.47 |  1:25.67 |    137072    |   143513   
+       12  | 31:53.39 |  2:47.14 |    143514    |   156052   
+       13  | 34:40.53 |  3:36.00 |    156053    |   172252   
+       14  | 38:16.53 |  3:08.08 |    172253    |   186360   
+       15  | 41:24.61 |  2:27.05 |    186361    |   197390   
+       16  | 43:51.66 |  4:31.69 |    197391    |   217784   
+       17  | 48:23.60 |  2:24.55 |    217785    |   228639   
+       18  | 50:48.40 |  2:39.17 |    228640    |   240581   
+       19  | 53:27.57 |  5:31.18 |    240582    |   265424   
+       20  | 58:59.00 |  5:01.56 |    265425    |   288055   
+       21  | 64:00.56 |  9:01.02 |    288056    |   328632   
+       22  | 73:01.58 |  2:34.51 |    328633    |   340233   
+
+
+Range status and errors
+
+Selected range   (Sectors 0-29468)
+
+     Filename C:\rip\Range.wav
+
+     Peak level 37.0 %
+     Extraction speed 6.3 X
+     Range quality 99.9 %
+     Copy CRC 2C3607B0
+     Copy OK
+
+No errors occurred
+
+ 
+AccurateRip summary
+ 
+ 
+
+No tracks could be verified as accurate
+
+End of status report
+
+==== Log checksum 666905F6CD6B7B6DDB2D7D8AB1463B659DC915D3B6FD7B3E9317B544664B8E07 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 25. September 2013, 11:36
+
+Angelo Badalamenti and David Lynch / Twin Peaks: Season Two Music and More
+
+Used Drive  : PLEXTOR CD-R   PREMIUM   Adapter: 5  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 30
+Overread into Lead-In and Lead-Out          : Yes
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  4:19.44 |  2:21.66 |     19469    |    30109   
+        2  |  6:41.35 |  2:17.44 |     30110    |    40428   
+        3  |  8:59.04 |  3:47.69 |     40429    |    57522   
+        4  | 12:46.73 |  1:51.45 |     57523    |    65892   
+        5  | 14:38.43 |  2:16.27 |     65893    |    76119   
+        6  | 16:54.70 |  5:12.07 |     76120    |    99526   
+        7  | 22:07.02 |  2:10.43 |     99527    |   109319   
+        8  | 24:17.45 |  2:31.06 |    109320    |   120650   
+        9  | 26:48.51 |  1:56.01 |    120651    |   129351   
+       10  | 28:44.52 |  1:42.70 |    129352    |   137071   
+       11  | 30:27.47 |  1:25.67 |    137072    |   143513   
+       12  | 31:53.39 |  2:47.14 |    143514    |   156052   
+       13  | 34:40.53 |  3:36.00 |    156053    |   172252   
+       14  | 38:16.53 |  3:08.08 |    172253    |   186360   
+       15  | 41:24.61 |  2:27.05 |    186361    |   197390   
+       16  | 43:51.66 |  4:31.69 |    197391    |   217784   
+       17  | 48:23.60 |  2:24.55 |    217785    |   228639   
+       18  | 50:48.40 |  2:39.17 |    228640    |   240581   
+       19  | 53:27.57 |  5:31.18 |    240582    |   265424   
+       20  | 58:59.00 |  5:01.56 |    265425    |   288055   
+       21  | 64:00.56 |  9:01.02 |    288056    |   328632   
+       22  | 73:01.58 |  2:34.51 |    328633    |   340233   
+
+
+Track  1
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\01-Angelo Badalamenti-Love Theme Intro.wav
+
+     Pre-gap length  0:04:21.44
+
+     Peak level 88.4 %
+     Extraction speed 7.4 X
+     Track quality 100.0 %
+     Test CRC A2E44ED9
+     Copy CRC A2E44ED9
+     Accurately ripped (confidence 12)  [F629A108]  (AR v2)
+     Copy OK
+
+Track  2
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\02-Angelo Badalamenti-Shelly.wav
+
+     Peak level 87.9 %
+     Extraction speed 7.7 X
+     Track quality 100.0 %
+     Test CRC F6D7DCEC
+     Copy CRC F6D7DCEC
+     Accurately ripped (confidence 12)  [8D433B3E]  (AR v2)
+     Copy OK
+
+Track  3
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\03-Angelo Badalamenti-New Shoes.wav
+
+     Peak level 93.6 %
+     Extraction speed 8.4 X
+     Track quality 100.0 %
+     Test CRC E220B637
+     Copy CRC E220B637
+     Accurately ripped (confidence 11)  [3B416E69]  (AR v2)
+     Copy OK
+
+Track  4
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\04-Angelo Badalamenti-High School Swing.wav
+
+     Peak level 100.0 %
+     Extraction speed 8.3 X
+     Track quality 100.0 %
+     Test CRC 577567DC
+     Copy CRC 577567DC
+     Accurately ripped (confidence 12)  [C6DEE6A1]  (AR v2)
+     Copy OK
+
+Track  5
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\05-Angelo Badalamenti-Hayward Boogie.wav
+
+     Peak level 100.0 %
+     Extraction speed 8.8 X
+     Track quality 100.0 %
+     Test CRC 110F8FCD
+     Copy CRC 110F8FCD
+     Accurately ripped (confidence 12)  [6DF2AA3C]  (AR v2)
+     Copy OK
+
+Track  6
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\06-David Lynch-Blue Frank.wav
+
+     Peak level 100.0 %
+     Extraction speed 8.7 X
+     Track quality 99.9 %
+     Test CRC B99DD310
+     Copy CRC B99DD310
+     Accurately ripped (confidence 11)  [D6DC44F3]  (AR v2)
+     Copy OK
+
+Track  7
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\07-Angelo Badalamenti-Audrey's Prayer.wav
+
+     Peak level 69.4 %
+     Extraction speed 9.5 X
+     Track quality 100.0 %
+     Test CRC 770005A0
+     Copy CRC 770005A0
+     Accurately ripped (confidence 12)  [258A6447]  (AR v2)
+     Copy OK
+
+Track  8
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\08-Angelo Badalamenti-I'm Hurt Bad.wav
+
+     Peak level 96.2 %
+     Extraction speed 8.1 X
+     Track quality 99.9 %
+     Test CRC C81CCE68
+     Copy CRC C81CCE68
+     Accurately ripped (confidence 11)  [48E00043]  (AR v2)
+     Copy OK
+
+Track  9
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\09-Angelo Badalamenti-Cop Beat.wav
+
+     Peak level 73.2 %
+     Extraction speed 10.0 X
+     Track quality 100.0 %
+     Test CRC DDDAA992
+     Copy CRC DDDAA992
+     Accurately ripped (confidence 11)  [4FDAE54F]  (AR v2)
+     Copy OK
+
+Track 10
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\10-Angelo Badalamenti-Harold's Theme.wav
+
+     Peak level 69.1 %
+     Extraction speed 7.5 X
+     Track quality 99.8 %
+     Test CRC 3EA5127A
+     Copy CRC 3EA5127A
+     Accurately ripped (confidence 11)  [AA5C5F7B]  (AR v2)
+     Copy OK
+
+Track 11
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\11-Angelo Badalamenti-Barbershop.wav
+
+     Peak level 62.3 %
+     Extraction speed 9.8 X
+     Track quality 100.0 %
+     Test CRC A8EA6DCF
+     Copy CRC A8EA6DCF
+     Accurately ripped (confidence 11)  [B7888AD9]  (AR v2)
+     Copy OK
+
+Track 12
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\12-Angelo Badalamenti-Night Bells.wav
+
+     Peak level 88.9 %
+     Extraction speed 10.8 X
+     Track quality 100.0 %
+     Test CRC 7D0EEC65
+     Copy CRC 7D0EEC65
+     Accurately ripped (confidence 12)  [9A0E9FAF]  (AR v2)
+     Copy OK
+
+Track 13
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\13-Angelo Badalamenti-Just You.wav
+
+     Peak level 79.4 %
+     Extraction speed 11.4 X
+     Track quality 100.0 %
+     Test CRC DE0F71A1
+     Copy CRC DE0F71A1
+     Accurately ripped (confidence 11)  [960F38B4]  (AR v2)
+     Copy OK
+
+Track 14
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\14-Angelo Badalamenti-Drug Deal Blues.wav
+
+     Peak level 100.0 %
+     Extraction speed 11.5 X
+     Track quality 100.0 %
+     Test CRC 53E58F41
+     Copy CRC 53E58F41
+     Accurately ripped (confidence 12)  [1CC99206]  (AR v2)
+     Copy OK
+
+Track 15
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\15-Angelo Badalamenti-Audrey.wav
+
+     Peak level 100.0 %
+     Extraction speed 9.0 X
+     Track quality 99.9 %
+     Test CRC 4B7FCD2C
+     Copy CRC 4B7FCD2C
+     Accurately ripped (confidence 12)  [7DDD2723]  (AR v2)
+     Copy OK
+
+Track 16
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\16-Angelo Badalamenti-Josie and Truman.wav
+
+     Peak level 100.0 %
+     Extraction speed 10.8 X
+     Track quality 99.9 %
+     Test CRC 1686FF37
+     Copy CRC 1686FF37
+     Accurately ripped (confidence 12)  [28E0FDBD]  (AR v2)
+     Copy OK
+
+Track 17
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\17-Angelo Badalamenti-Hook Rug Dance.wav
+
+     Peak level 100.0 %
+     Extraction speed 9.4 X
+     Track quality 99.9 %
+     Test CRC DBB457CB
+     Copy CRC DBB457CB
+     Accurately ripped (confidence 12)  [56E7CC1A]  (AR v2)
+     Copy OK
+
+Track 18
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\18-Angelo Badalamenti-Packards' Vibration.wav
+
+     Peak level 98.3 %
+     Extraction speed 12.3 X
+     Track quality 100.0 %
+     Test CRC 9A601A09
+     Copy CRC 9A601A09
+     Accurately ripped (confidence 12)  [29BE9BAB]  (AR v2)
+     Copy OK
+
+Track 19
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\19-Angelo Badalamenti-Half Heart.wav
+
+     Peak level 98.5 %
+     Extraction speed 13.4 X
+     Track quality 100.0 %
+     Test CRC 4142DA77
+     Copy CRC 4142DA77
+     Accurately ripped (confidence 12)  [16F58E81]  (AR v2)
+     Copy OK
+
+Track 20
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\20-Angelo Badalamenti-Laura's Dark Boogie.wav
+
+     Peak level 90.1 %
+     Extraction speed 12.0 X
+     Track quality 99.9 %
+     Test CRC 99DB8705
+     Copy CRC 99DB8705
+     Accurately ripped (confidence 11)  [3E6F6D72]  (AR v2)
+     Copy OK
+
+Track 21
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\21-Angelo Badalamenti-Dark Mood Woods - The Red Room.wav
+
+     Peak level 100.0 %
+     Extraction speed 14.8 X
+     Track quality 100.0 %
+     Test CRC DA49C143
+     Copy CRC DA49C143
+     Accurately ripped (confidence 11)  [26B9DA6B]  (AR v2)
+     Copy OK
+
+Track 22
+
+     Filename C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\22-Angelo Badalamenti-Love Theme Farewell.wav
+
+     Peak level 77.4 %
+     Extraction speed 11.8 X
+     Track quality 99.9 %
+     Test CRC 6972BE59
+     Copy CRC 6972BE59
+     Accurately ripped (confidence 12)  [8F3D87F1]  (AR v2)
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report
+
+==== Log checksum E9C7EB0868A158CE633494070AB27A2034989DFD0C14A25819CCE8AF3B22037A ====

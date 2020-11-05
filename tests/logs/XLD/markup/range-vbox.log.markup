@@ -1,0 +1,98 @@
+X Lossless Decoder version <span class="log1">20170729</span> (<span class="log1">150.3</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2017-08-01 14:56:16 -0300</span></span>
+
+<span class="log4">KARA / ジャンピン</span>
+
+<span class="log5">Used drive </span>: <span class="badish">VBOX CD-ROM (revision 1.0) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="good">Pressed CD</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">6</span>
+<span class="log5">Max retry count         </span>: <span class="log4">20</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">03:00:27</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">13526</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">03:00:27</span> <strong>|</strong> <span class="log1">03:32:48</span> <strong>|</strong>     <span class="log1">13527</span>    <strong>|</strong>    <span class="log1">29474</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">06:33:00</span> <strong>|</strong> <span class="log1">02:59:05</span> <strong>|</strong>     <span class="log1">29475</span>    <strong>|</strong>    <span class="log1">42904</span>   
+
+<span class="log4 log5">AccurateRip Summary</span> (DiscID: 00014f93-0004617c-1e023c03)
+    <span class="good">Track 01 : OK (v1+v2, confidence 11/11)</span>
+    <span class="good">Track 02 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 03 : OK (v1+v2, confidence 9/9)</span>
+        -&gt;All tracks accurately ripped.
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/dubious/xld rips/01. ジャンピン.flac</span>
+    <span class="log4">Album gain               :</span> <span class="log3">-11.92 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="log3">F55D3134</span>
+    <span class="log4">CRC32 hash               :</span> <span class="log3">F55D3134</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">2154552F</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-11.95 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">0248840B</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">0248840B</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8DAB64A0</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">AB11CF3F</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">0021EFA8</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 5+6/11)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-12.51 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">DB57CD66</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">DB57CD66</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">15D163C0</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">D627D9F5</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">689E1528</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 3+6/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.38 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">07AB8339</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">07AB8339</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">73FCDD4A</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">A61A5EA8</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">7081171C</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 4+5/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+<span class="good">-----BEGIN XLD SIGNATURE-----
+9NvFdxRPNWm8G8dJyzLLbEkLcpVqzExZwC1NJ6OKyjUQNpvIZZ24MD3aoglPsjyU28tRYNsxO11FjHIvl3E1vavNwxiVZ1gT_RhqPDq
+-----END XLD SIGNATURE-----</span>

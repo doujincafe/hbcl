@@ -1,0 +1,63 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 31. August 2014, 9:42
+
+Genesis / Abacab [19313-2 800044-2]
+
+Used drive : HL-DT-STBD-RE WH14NS40 Adapter: 3 ID: 0
+
+Read mode : Fast
+
+Read offset correction : 6
+Overread into Lead-In and Lead-Out : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations : Yes
+Used interface : Native Win32 interface for Win NT & 2000
+
+Used output format : Internal WAV Routines
+Sample format : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+Track | Start | Length | Start sector | End sector
+---------------------------------------------------------
+	1 | 0:00.37 | 6:58.70 | 37 | 31456 
+	2 | 6:59.32 | 4:39.23 | 31457 | 52404 
+	3 | 11:38.55 | 5:59.62 | 52405 | 79391 
+	4 | 17:38.42 | 4:31.25 | 79392 | 99741 
+	5 | 22:09.67 | 7:29.43 | 99742 | 133459 
+	6 | 29:39.35 | 3:24.52 | 133460 | 148811 
+	7 | 33:04.12 | 4:25.13 | 148812 | 168699 
+	8 | 37:29.25 | 4:52.52 | 168700 | 190651 
+	9 | 42:22.02 | 4:21.63 | 190652 | 210289 
+
+
+Range status and errors
+
+Selected range
+
+    Filename C:\EAC\Genesis - Abacab [19313-2 800044-2]\Genesis - Abacab [19313-2 800044-2].wav
+
+    Peak level 100.0 %
+    Extraction speed 5.5 X
+    Copy CRC A4C47653
+    Copy OK
+
+No errors occurred
+
+AccurateRip summary
+Track 1 cannot be verified as accurate (confidence 23) [68C1C10C], AccurateRip returned [42B8A10C] (AR v2)
+Track 2 cannot be verified as accurate (confidence 22) [C0181E28], AccurateRip returned [9A24A648] (AR v2)
+Track 3 cannot be verified as accurate (confidence 22) [5C0A99E8], AccurateRip returned [AFAF005C] (AR v2)
+Track 4 cannot be verified as accurate (confidence 21) [6C1A7CE6], AccurateRip returned [F1085052] (AR v2)
+Track 5 cannot be verified as accurate (confidence 20) [C6FB5E67], AccurateRip returned [ED9EB427] (AR v2)
+Track 6 cannot be verified as accurate (confidence 20) [1200A9FB], AccurateRip returned [022E57DB] (AR v2)
+Track 7 cannot be verified as accurate (confidence 19) [55E9D57F], AccurateRip returned [79DAD723] (AR v2)
+Track 8 cannot be verified as accurate (confidence 19) [3E2AF80F], AccurateRip returned [450721D5] (AR v2)
+Track 9 cannot be verified as accurate (confidence 21) [369B26AF], AccurateRip returned [8515378B] (AR v2)
+No tracks could be verified as accurate
+You may have a different pressing from the one(s) in the database
+
+End of status report

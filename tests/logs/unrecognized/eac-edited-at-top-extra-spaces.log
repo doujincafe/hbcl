@@ -1,0 +1,175 @@
+
+
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 18. July 2010, 3:47
+
+!!! / Strange Weather, Isn't It?
+
+Used drive  : HL-DT-STDVDRAM GSA-U10N   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 192 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:55.13 |         0    |    22137   
+        2  |  4:55.13 |  5:39.06 |     22138    |    47568   
+        3  | 10:34.19 |  3:49.72 |     47569    |    64815   
+        4  | 14:24.16 |  5:06.33 |     64816    |    87798   
+        5  | 19:30.49 |  4:25.11 |     87799    |   107684   
+        6  | 23:55.60 |  2:48.10 |    107685    |   120294   
+        7  | 26:43.70 |  3:20.73 |    120295    |   135367   
+        8  | 30:04.68 |  5:45.07 |    135368    |   161249   
+        9  | 35:50.00 |  4:58.67 |    161250    |   183666   
+       10  | 40:48.67 |  3:06.70 |    183667    |   197686   
+
+
+Track  1
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\01 - AM,FM.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC 2C5C8621
+     Copy CRC 2C5C8621
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\02 - The Most Certain Sure.wav
+
+     Pre-gap length  0:00:02.25
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 78BA3F79
+     Copy CRC 78BA3F79
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\03 - Wannagain Wannagain.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC EEDD73B4
+     Copy CRC EEDD73B4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\04 - Jamie, My Intentions Are Bass.wav
+
+     Pre-gap length  0:00:00.92
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC CBAC60E6
+     Copy CRC CBAC60E6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\05 - Steady As The Sidewalk Cracks.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 9199CEAD
+     Copy CRC 9199CEAD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\06 - Hollow.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC B985034C
+     Copy CRC B985034C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\07 - Jump Back.wav
+
+     Peak level 100.0 %
+     Track quality 99.8 %
+     Test CRC 449F14E8
+     Copy CRC 449F14E8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\08 - Even Judas Gave Jesus A Kiss.wav
+
+     Pre-gap length  0:00:00.46
+
+     Peak level 100.0 %
+     Track quality 99.6 %
+     Test CRC 4D67E03D
+     Copy CRC 4D67E03D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\09 - The Hammer.wav
+
+     Pre-gap length  0:00:00.38
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC E81E4969
+     Copy CRC E81E4969
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\elleven\Desktop\!!! - Strange Weather, Isn't It  () [FLAC]\10 - Made Of Money.wav
+
+     Pre-gap length  0:00:06.92
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 9726E3C1
+     Copy CRC 9726E3C1
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,11 @@
+__pycache__
+
+.*
+!.gitignore
+!.flake8
+!.travis.yml
+
+translation-files
+build/
+dist/
+*.egg-info

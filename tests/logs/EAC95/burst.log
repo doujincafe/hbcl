@@ -1,0 +1,103 @@
+EAC extraction logfile from 19. January 2008, 14:21 for CD
+Dead Can Dance / Spleen and Ideal
+
+Used drive  : HL-DT-STDVDRAM GSA-H44L   Adapter: 2  ID: 0
+Read mode   : Burst
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Program Files\Exact Audio Copy\lame.exe   (User Defined Encoder)
+                     320 kBit/s
+                     Additional command line options : -V 0 --vbr-new --add-id3v2 --ignore-tag-errors --ta "%a" --tt "%t" --tg "%m" --tl "%g" --ty "%y" --tn "%n" %s %d
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\EAC Rips\01 - Dead Can Dance - De Profundis (Out of the Depths of Sorrow).wav
+
+     Pre-gap length  0:00:02.42
+
+     Peak level 97.7 %
+     Copy CRC 3020F329
+     Copy OK
+
+Track  2
+     Filename C:\EAC Rips\02 - Dead Can Dance - Ascension.wav
+
+     Pre-gap length  0:00:02.76
+
+     Peak level 68.8 %
+     Copy CRC 0EDCDE6F
+     Copy OK
+
+Track  3
+     Filename C:\EAC Rips\03 - Dead Can Dance - Circumradiant Dawn.wav
+
+     Pre-gap length  0:00:01.29
+
+     Peak level 52.5 %
+     Copy CRC 91FE3362
+     Copy OK
+
+Track  4
+     Filename C:\EAC Rips\04 - Dead Can Dance - The Cardinal Sin.wav
+
+     Pre-gap length  0:00:00.80
+
+     Peak level 88.2 %
+     Copy CRC 1FCEA6F2
+     Copy OK
+
+Track  5
+     Filename C:\EAC Rips\05 - Dead Can Dance - Mesmerism.wav
+
+     Pre-gap length  0:00:00.52
+
+     Peak level 94.1 %
+     Copy CRC 03CBB5FF
+     Copy OK
+
+Track  6
+     Filename C:\EAC Rips\06 - Dead Can Dance - Enigma of the Absolute.wav
+
+     Pre-gap length  0:00:02.66
+
+     Peak level 97.6 %
+     Copy CRC 547EB52F
+     Copy OK
+
+Track  7
+     Filename C:\EAC Rips\07 - Dead Can Dance - Advent.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 91.6 %
+     Copy CRC AE2F16AD
+     Copy OK
+
+Track  8
+     Filename C:\EAC Rips\08 - Dead Can Dance - Avatar.wav
+
+     Pre-gap length  0:00:03.82
+
+     Peak level 81.1 %
+     Copy CRC AFB0AD01
+     Copy OK
+
+Track  9
+     Filename C:\EAC Rips\09 - Dead Can Dance - Indoctrination (A Design for Living).wav
+
+     Pre-gap length  0:00:01.29
+
+     Peak level 87.1 %
+     Copy CRC 0204D7DC
+     Copy OK
+
+No errors occured
+
+
+End of status report

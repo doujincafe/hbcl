@@ -1,0 +1,260 @@
+X Lossless Decoder version <span class="log1">20170729</span> (<span class="log1">150.3</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2018-02-12 10:17:48 -0800</span></span>
+
+<span class="log4">Peter Allen / The Best of Peter Allen: 20th Century Masters - The Millennium Collection</span>
+
+<span class="log5">Used drive </span>: <span class="badish">TSSTcorp BDDVDW SE-506BB (revision TS00) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="good">Pressed CD</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">6</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended (except HTOA)</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">04:21:32</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">19606</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">04:21:32</span> <strong>|</strong> <span class="log1">03:56:20</span> <strong>|</strong>     <span class="log1">19607</span>    <strong>|</strong>    <span class="log1">37326</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">08:17:52</span> <strong>|</strong> <span class="log1">03:23:23</span> <strong>|</strong>     <span class="log1">37327</span>    <strong>|</strong>    <span class="log1">52574</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">11:41:00</span> <strong>|</strong> <span class="log1">04:06:12</span> <strong>|</strong>     <span class="log1">52575</span>    <strong>|</strong>    <span class="log1">71036</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:47:12</span> <strong>|</strong> <span class="log1">02:34:33</span> <strong>|</strong>     <span class="log1">71037</span>    <strong>|</strong>    <span class="log1">82619</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">18:21:45</span> <strong>|</strong> <span class="log1">03:34:17</span> <strong>|</strong>     <span class="log1">82620</span>    <strong>|</strong>    <span class="log1">98686</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">21:55:62</span> <strong>|</strong> <span class="log1">03:31:05</span> <strong>|</strong>     <span class="log1">98687</span>    <strong>|</strong>   <span class="log1">114516</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">25:26:67</span> <strong>|</strong> <span class="log1">03:53:40</span> <strong>|</strong>    <span class="log1">114517</span>    <strong>|</strong>   <span class="log1">132031</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">29:20:32</span> <strong>|</strong> <span class="log1">05:13:13</span> <strong>|</strong>    <span class="log1">132032</span>    <strong>|</strong>   <span class="log1">155519</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">34:33:45</span> <strong>|</strong> <span class="log1">03:37:65</span> <strong>|</strong>    <span class="log1">155520</span>    <strong>|</strong>   <span class="log1">171859</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">38:11:35</span> <strong>|</strong> <span class="log1">03:13:35</span> <strong>|</strong>    <span class="log1">171860</span>    <strong>|</strong>   <span class="log1">186369</span>   
+
+<span class="log4 log5">AccurateRip Summary</span> (DiscID: 00111f68-0093da86-9209b40b)
+    <span class="good">Track 01 : OK (v2, confidence 7/7)</span>
+    <span class="good">Track 02 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 03 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 04 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 05 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 06 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 07 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 08 : OK (v1+v2, confidence 9/9)</span>
+    <span class="badish">Track 09 : NG (total 9 submissions)</span>
+    <span class="good">Track 10 : OK (v1+v2, confidence 9/9)</span>
+    <span class="good">Track 11 : OK (v1+v2, confidence 9/9)</span>
+        <span class="badish">-&gt;10 tracks accurately ripped, 1 track not</span>
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Album gain               :</span> <span class="log3">-4.76 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.992004</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="badish">38</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/01 Bi-Coastal.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.56 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.854431</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">02DA8576</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">02DA8576</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">D6689D68</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">994BB782</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">67D387BC</span>
+        <span class="good">-&gt;Accurately ripped (v2, confidence 7/7)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/02 Fly Away.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-4.84 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.937897</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">2A85343C</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">2A85343C</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">C81ADE37</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">3E3CA281</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">93743C0E</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/03 I Go to Rio.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.66 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.963867</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">4694C37E</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">4694C37E</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">C71990E8</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">7018156B</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">0A268EFE</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/04 Don&#x27;t Cry Out Loud.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:18</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-4.63 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.956879</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">11C19756</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">11C19756</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">1762676C</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">B553CF4A</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">B6145D16</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/05 Everything Old Is New Again.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.74 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.805573</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">1322AE9B</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">1322AE9B</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">DB6D2144</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">7C6DCB17</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">198262B3</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/06 The More I See You.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:18</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.55 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.975250</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">65438C39</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">65438C39</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8174A46E</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">58695420</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">0CE896CB</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">07</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/07 I Honestly Love You.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.80 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.872162</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">6F693601</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">6F693601</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">2E242B85</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">DD7674C3</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">4D6E8AF3</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">08</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/08 I Could Have Been a Sailor.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-4.02 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.953796</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">65441D03</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">65441D03</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8CD4C01B</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">760BEFCA</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">FD8A8236</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">09</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/09 Quiet Please There&#x27;s a Lady on Stage.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:17</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-4.49 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.992004</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="bad">606C50E6</span>
+    <span class="log4">CRC32 hash               :</span> <span class="bad">5076879F</span>
+        <span class="bad">-&gt;Rip may not be accurate.</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">3D1B5124</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">FA7E69B0</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">48F27154</span>
+        <span class="bad">-&gt;Rip may not be accurate (total 9 submissions).</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="badish">38</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/10 I&#x27;d Rather Leave While I&#x27;m in Love.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:18</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-2.57 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.922577</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">4B1787D7</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">4B1787D7</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">BB61A7FC</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">64985F59</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">A1878DE6</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/11 Just a Gigolo (Schöner Gigolo).flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:20</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-6.79 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.838959</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">636F3621</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">636F3621</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">D81130D3</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">5AC65FA9</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">863444BC</span>
+        <span class="good">-&gt;Accurately ripped (v1+v2, confidence 2+7/9)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="badish">Some inconsistencies found</span>
+
+<span class="good">End of status report</span>
+
+<span class="good">-----BEGIN XLD SIGNATURE-----
+UuTRz9M_H0dV6Qf.txp4WkeFXP_xsIOZn7ASZqXjpKL6Qolgs5h.i8iifZ04P01d1P5_JmjNwXNu9ugIpIAQogVhhQ4WNnHuT02sqHq
+-----END XLD SIGNATURE-----</span>

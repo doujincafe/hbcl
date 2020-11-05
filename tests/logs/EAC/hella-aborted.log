@@ -1,0 +1,545 @@
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:23
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  1
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\01-Coldcut - Atomic Moog (Cornelius Mix) - Coldcut - Atomic Moog (Cornelius Mix).wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC 100AAB73
+     Track not fully ripped for AccurateRip lookup
+     Copy OK
+
+Track  2
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\02-DJ Food - Scratch Yer Head (Squarepusher Mix) - DJ Food - Scratch Yer Head (Squarepusher Mix).w
+
+     Pre-gap length  0:00:00.05
+
+     Peak level 98.8 %
+     Track quality 99.9 %
+     Copy CRC 58AFF984
+     Accurately ripped (confidence 5)  [86B01960]
+     Copy OK
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S
+
+     Copy aborted
+
+Track  4
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\04-Bonobo - Pick Up (Fourtet Mix) - Bonobo - Pick Up (Fourtet Mix).wav
+
+     Peak level 95.7 %
+     Track quality 100.0 %
+     Copy CRC 200A15D0
+     Track not fully ripped for AccurateRip lookup
+     Copy OK
+
+Track  5
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\05-2 Player - Extreme Possibilities (Wagon Christ Mix) - 2 Player - Extreme Possibilities (Wagon C
+
+     Pre-gap length  0:00:50.04
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC BADDAEA3
+     Accurately ripped (confidence 5)  [EF9310E9]
+     Copy OK
+
+Track  6
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\06-Mr Scruff - Sweetsmoke (Manitoba Mix) - Mr Scruff - Sweetsmoke (Manitoba Mix).wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC CA5AEE8B
+     Accurately ripped (confidence 5)  [95C5056F]
+     Copy OK
+
+Track  7
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\07-DJ Vadim - USSR Reconstruction (Jamie Hodge Mix) - DJ Vadim - USSR Reconstruction (Jamie Hodge 
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC 89D7E619
+     Track not fully ripped for AccurateRip lookup
+     Copy OK
+
+Track  8
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\08-DJ Food - Turtle Soup (Luke Vibert Mix) - DJ Food - Turtle Soup (Luke Vibert Mix).wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC 3EE835D5
+     Accurately ripped (confidence 5)  [816B18C4]
+     Copy OK
+
+Track  9
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\09-Fog - Pneumonia (Coldcut Mix) - Fog - Pneumonia (Coldcut Mix).wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Copy CRC A6471493
+     Track not fully ripped for AccurateRip lookup
+     Copy OK
+
+Track 10
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-Cinematic Orchestra - All That You Give (Dr Rockit Mix) - Cinematic Orchestra - All That You Gi
+
+     Pre-gap length  0:00:00.01
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:27
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:28
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track 10
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-Cinematic Orchestra - All That You Give (Dr Rockit Mix) - Cinematic Orchestra - All That You Gi
+
+     Pre-gap length  0:00:00.01
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:28
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:29
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:29
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S
+
+     Copy aborted
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:33
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track  3
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-3 - 3.wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC 5D5E2C00
+     Accurately ripped (confidence 5)  [61E1D9D2]
+     Copy OK
+
+No errors occurred
+
+End of status report
+
+------------------------------------------------------------
+
+Exact Audio Copy V0.99 prebeta 1 from 25. May 2007
+
+EAC extraction logfile from 7. January 2008, 15:34
+
+Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)
+
+Used drive  : HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Left out
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:\Program Files\Exact Audio Copy\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:19.68 |         0    |    32992   
+        2  |  7:19.68 |  7:17.25 |     32993    |    65792   
+        3  | 14:37.18 |  2:56.29 |     65793    |    79021   
+        4  | 17:33.47 |  7:11.57 |     79022    |   111403   
+        5  | 24:45.29 |  7:01.73 |    111404    |   143051   
+        6  | 31:47.27 |  8:24.23 |    143052    |   180874   
+        7  | 40:11.50 |  3:16.10 |    180875    |   195584   
+        8  | 43:27.60 |  7:54.36 |    195585    |   231170   
+        9  | 51:22.21 |  4:45.54 |    231171    |   252599   
+       10  | 56:08.00 |  6:07.12 |    252600    |   280136   
+
+
+Track 10
+
+     Filename D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-10 - 10.wav
+
+     Pre-gap length  0:00:00.01
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Copy CRC B0C7D50D
+     Accurately ripped (confidence 5)  [9025EAA4]
+     Copy OK
+
+No errors occurred
+
+End of status report

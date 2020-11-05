@@ -1,0 +1,203 @@
+X Lossless Decoder version <span class="log1">20101010</span> (<span class="log1">123.3</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2010-10-19 23:18:43 +0300</span></span>
+
+<span class="log4">Sixtoo / Antagonist Survival Kit Instrumentals</span>
+
+<span class="log5">Used drive </span>: <span class="badish">TSSTcorp CDDVDW SH-S223L (revision SB02) (not found in database)</span>
+
+<span class="log5">Use cdparanoia mode     </span>: <span class="bad">YES (CDParanoia III 10.2 engine)</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with cache less than 2750KB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">6</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended (except HTOA)</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">04:09:25</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">18699</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">04:09:25</span> <strong>|</strong> <span class="log1">04:05:74</span> <strong>|</strong>     <span class="log1">18700</span>    <strong>|</strong>    <span class="log1">37148</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">08:15:24</span> <strong>|</strong> <span class="log1">03:51:69</span> <strong>|</strong>     <span class="log1">37149</span>    <strong>|</strong>    <span class="log1">54542</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">12:07:18</span> <strong>|</strong> <span class="log1">04:33:41</span> <strong>|</strong>     <span class="log1">54543</span>    <strong>|</strong>    <span class="log1">75058</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">16:40:59</span> <strong>|</strong> <span class="log1">02:29:46</span> <strong>|</strong>     <span class="log1">75059</span>    <strong>|</strong>    <span class="log1">86279</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">19:10:30</span> <strong>|</strong> <span class="log1">02:33:61</span> <strong>|</strong>     <span class="log1">86280</span>    <strong>|</strong>    <span class="log1">97815</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">21:44:16</span> <strong>|</strong> <span class="log1">03:23:17</span> <strong>|</strong>     <span class="log1">97816</span>    <strong>|</strong>   <span class="log1">113057</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">25:07:33</span> <strong>|</strong> <span class="log1">02:49:10</span> <strong>|</strong>    <span class="log1">113058</span>    <strong>|</strong>   <span class="log1">125742</span>   
+
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Album gain             :</span> <span class="log3">-5.94 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">1.000000</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/01 - A To Zero.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-6.57 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.794312</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">92111A53</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">92111A53</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">C2AFBE7B</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">C4ADA5BB</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/02 - Fear Of Flying.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-1.50 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.944031</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">DCD7C6F0</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">DCD7C6F0</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">398F2AFB</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">A14F3F09</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/03 - Outremont Mainline Runs Across The Sunset.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-3.06 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">86132ADB</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">86132ADB</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">0A27B870</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">25B7C623</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/04 - Daggers On All Corners (Live).wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-6.13 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.595642</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">CF815FC0</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">CF815FC0</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">376C15A2</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">447F99EE</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/05 - Funny Sticks.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-4.53 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.944061</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">D965ADAA</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">D965ADAA</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">027C0595</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">3D293854</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/06 - Cup Of Tea.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-2.21 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.891235</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">A16048CF</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">A16048CF</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">F22AB2CE</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">0DC80D5E</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">07</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/07 - Perfect Wednesday.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-7.75 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.944061</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">E70D881A</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">E70D881A</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">0484536E</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">C33ECCC3</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">08</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/08 - Workhorse.wav</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain             :</span> <span class="log3">-3.65 dB</span>
+    <span class="log4">Peak                   :</span> <span class="log3">0.891235</span>
+    <span class="log4">CRC32 hash (test run)  :</span> <span class="good">676D59BC</span>
+    <span class="log4">CRC32 hash             :</span> <span class="good">676D59BC</span>
+    <span class="log4">CRC32 hash (skip zero) :</span> <span class="log3">D4D851BF</span>
+    <span class="log4">AccurateRip signature  :</span> <span class="log3">EE5DDD5B</span>
+        <span class="good">-&gt;Accurately ripped! (confidence 1)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Skipped (treated as error)           :</span> <span class="good">0</span>
+        <span class="log4">Edge jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Atom jitter error (maybe fixed)      :</span> <span class="good">0</span>
+        <span class="log4">Drift error (maybe fixed)            :</span> <span class="good">0</span>
+        <span class="log4">Dropped bytes error (maybe fixed)    :</span> <span class="good">0</span>
+        <span class="log4">Duplicated bytes error (maybe fixed) :</span> <span class="good">0</span>
+        <span class="log4">Inconsistency in error sectors       :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

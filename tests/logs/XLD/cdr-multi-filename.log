@@ -1,0 +1,145 @@
+X Lossless Decoder version 20170729 (150.3)
+
+XLD extraction logfile from 2017-08-28 01:16:59 +0100
+
+Quinoline Yellow / Uchel001
+
+Used drive : TSSTcorp CDDVDW SE-S084C (revision TS01)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 01:01:17 | 03:48:58 |      4592    |    21749   
+        2  | 04:50:00 | 04:27:22 |     21750    |    41796   
+        3  | 09:17:22 | 04:10:59 |     41797    |    60605   
+        4  | 13:28:06 | 01:52:71 |     60606    |    69076   
+        5  | 15:21:02 | 03:49:53 |     69077    |    86304   
+
+AccurateRip Summary (DiscID: 000455df-00138492-40044105)
+    Track 01 : OK (v1, confidence 1/2)
+    Track 02 : OK (v1, confidence 1/2)
+    Track 03 : OK (v1, confidence 1/2)
+    Track 04 : OK (v1, confidence 1/2)
+    Track 05 : OK (v1, confidence 1/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -7.04 dB
+    Peak                     : 1.000000
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [V0]/01 - Off Shore Account.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [320]/01 - Off Shore Account.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [FLAC]/01 - Off Shore Account.flac
+    Pre-gap length : 01:03:17
+
+    Track gain               : -5.11 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 7AEE75EC
+    CRC32 hash               : 7AEE75EC
+    CRC32 hash (skip zero)   : FA6488BC
+    AccurateRip v1 signature : 7F906C67
+    AccurateRip v2 signature : DCC30E8E
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [V0]/02 - Cawl.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [320]/02 - Cawl.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [FLAC]/02 - Cawl.flac
+
+    Track gain               : -5.78 dB
+    Peak                     : 0.966156
+    CRC32 hash (test run)    : 097797BF
+    CRC32 hash               : 097797BF
+    CRC32 hash (skip zero)   : 44BD21E7
+    AccurateRip v1 signature : 742B8034
+    AccurateRip v2 signature : 1D3D414D
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [V0]/03 - Cyriack Parasol.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [320]/03 - Cyriack Parasol.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [FLAC]/03 - Cyriack Parasol.flac
+
+    Track gain               : -8.04 dB
+    Peak                     : 0.968658
+    CRC32 hash (test run)    : 9952E2D1
+    CRC32 hash               : 9952E2D1
+    CRC32 hash (skip zero)   : 347C9602
+    AccurateRip v1 signature : D10478DC
+    AccurateRip v2 signature : 6473DB32
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [V0]/04 - Horsforth Scabbard.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [320]/04 - Horsforth Scabbard.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [FLAC]/04 - Horsforth Scabbard.flac
+
+    Track gain               : -6.41 dB
+    Peak                     : 0.965973
+    CRC32 hash (test run)    : 42694060
+    CRC32 hash               : 42694060
+    CRC32 hash (skip zero)   : EAEF120B
+    AccurateRip v1 signature : 6F3C2CD9
+    AccurateRip v2 signature : 4AFC6B4C
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [V0]/05 - Hardwood Draughtsmen.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [320]/05 - Hardwood Draughtsmen.mp3
+               /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [FLAC]/05 - Hardwood Draughtsmen.flac
+
+    Track gain               : -6.97 dB
+    Peak                     : 0.965607
+    CRC32 hash (test run)    : BE3BA900
+    CRC32 hash               : BE3BA900
+    CRC32 hash (skip zero)   : 98A9A405
+    AccurateRip v1 signature : 905298A5
+    AccurateRip v2 signature : A71C35A3
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+RCQHYBJg6Q.dlRV4ErP5jHj2e56WHGr6h08DRL0g02yc6RkG3WwjhQFHTTL8l7oiXmyZdP_pIXA6GPQN_.pjqR0zKgeqrgX5i3.gUbC
+-----END XLD SIGNATURE-----

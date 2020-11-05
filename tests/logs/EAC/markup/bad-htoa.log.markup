@@ -1,0 +1,406 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 25. September 2013, 11:18</span></span>
+
+<span class="log4">Angelo Badalamenti and David Lynch / Twin Peaks: Season Two Music and More</span>
+
+<span class="log5">Used Drive  </span>: <span class="good">PLEXTOR CD-R   PREMIUM   Adapter: 5  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">30</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">Yes</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format      </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">4:19.44</span> <strong>|</strong>  <span class="log1">2:21.66</span> <strong>|</strong>     <span class="log1">19469</span>    <strong>|</strong>    <span class="log1">30109</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">6:41.35</span> <strong>|</strong>  <span class="log1">2:17.44</span> <strong>|</strong>     <span class="log1">30110</span>    <strong>|</strong>    <span class="log1">40428</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">8:59.04</span> <strong>|</strong>  <span class="log1">3:47.69</span> <strong>|</strong>     <span class="log1">40429</span>    <strong>|</strong>    <span class="log1">57522</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">12:46.73</span> <strong>|</strong>  <span class="log1">1:51.45</span> <strong>|</strong>     <span class="log1">57523</span>    <strong>|</strong>    <span class="log1">65892</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">14:38.43</span> <strong>|</strong>  <span class="log1">2:16.27</span> <strong>|</strong>     <span class="log1">65893</span>    <strong>|</strong>    <span class="log1">76119</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">16:54.70</span> <strong>|</strong>  <span class="log1">5:12.07</span> <strong>|</strong>     <span class="log1">76120</span>    <strong>|</strong>    <span class="log1">99526</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">22:07.02</span> <strong>|</strong>  <span class="log1">2:10.43</span> <strong>|</strong>     <span class="log1">99527</span>    <strong>|</strong>   <span class="log1">109319</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">24:17.45</span> <strong>|</strong>  <span class="log1">2:31.06</span> <strong>|</strong>    <span class="log1">109320</span>    <strong>|</strong>   <span class="log1">120650</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">26:48.51</span> <strong>|</strong>  <span class="log1">1:56.01</span> <strong>|</strong>    <span class="log1">120651</span>    <strong>|</strong>   <span class="log1">129351</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">28:44.52</span> <strong>|</strong>  <span class="log1">1:42.70</span> <strong>|</strong>    <span class="log1">129352</span>    <strong>|</strong>   <span class="log1">137071</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">30:27.47</span> <strong>|</strong>  <span class="log1">1:25.67</span> <strong>|</strong>    <span class="log1">137072</span>    <strong>|</strong>   <span class="log1">143513</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">31:53.39</span> <strong>|</strong>  <span class="log1">2:47.14</span> <strong>|</strong>    <span class="log1">143514</span>    <strong>|</strong>   <span class="log1">156052</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">34:40.53</span> <strong>|</strong>  <span class="log1">3:36.00</span> <strong>|</strong>    <span class="log1">156053</span>    <strong>|</strong>   <span class="log1">172252</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">38:16.53</span> <strong>|</strong>  <span class="log1">3:08.08</span> <strong>|</strong>    <span class="log1">172253</span>    <strong>|</strong>   <span class="log1">186360</span>   
+       <span class="log4">15</span>  <strong>|</strong> <span class="log1">41:24.61</span> <strong>|</strong>  <span class="log1">2:27.05</span> <strong>|</strong>    <span class="log1">186361</span>    <strong>|</strong>   <span class="log1">197390</span>   
+       <span class="log4">16</span>  <strong>|</strong> <span class="log1">43:51.66</span> <strong>|</strong>  <span class="log1">4:31.69</span> <strong>|</strong>    <span class="log1">197391</span>    <strong>|</strong>   <span class="log1">217784</span>   
+       <span class="log4">17</span>  <strong>|</strong> <span class="log1">48:23.60</span> <strong>|</strong>  <span class="log1">2:24.55</span> <strong>|</strong>    <span class="log1">217785</span>    <strong>|</strong>   <span class="log1">228639</span>   
+       <span class="log4">18</span>  <strong>|</strong> <span class="log1">50:48.40</span> <strong>|</strong>  <span class="log1">2:39.17</span> <strong>|</strong>    <span class="log1">228640</span>    <strong>|</strong>   <span class="log1">240581</span>   
+       <span class="log4">19</span>  <strong>|</strong> <span class="log1">53:27.57</span> <strong>|</strong>  <span class="log1">5:31.18</span> <strong>|</strong>    <span class="log1">240582</span>    <strong>|</strong>   <span class="log1">265424</span>   
+       <span class="log4">20</span>  <strong>|</strong> <span class="log1">58:59.00</span> <strong>|</strong>  <span class="log1">5:01.56</span> <strong>|</strong>    <span class="log1">265425</span>    <strong>|</strong>   <span class="log1">288055</span>   
+       <span class="log4">21</span>  <strong>|</strong> <span class="log1">64:00.56</span> <strong>|</strong>  <span class="log1">9:01.02</span> <strong>|</strong>    <span class="log1">288056</span>    <strong>|</strong>   <span class="log1">328632</span>   
+       <span class="log4">22</span>  <strong>|</strong> <span class="log1">73:01.58</span> <strong>|</strong>  <span class="log1">2:34.51</span> <strong>|</strong>    <span class="log1">328633</span>    <strong>|</strong>   <span class="log1">340233</span>   
+
+
+R<span class="log5">ange status and errors</span>
+
+<span class="badish">Selected range   (Sectors 0-29468)</span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Range.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">37.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.3 X</span></span>
+     <span class="log4">Range quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">2C3607B0</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+ 
+<span class="log4 log5">AccurateRip summary</span>
+ 
+ 
+
+<span class="badish">No tracks could be verified as accurate</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum 666905F6CD6B7B6DDB2D7D8AB1463B659DC915D3B6FD7B3E9317B544664B8E07 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 25. September 2013, 11:36</span></span>
+
+<span class="log4">Angelo Badalamenti and David Lynch / Twin Peaks: Season Two Music and More</span>
+
+<span class="log5">Used Drive  </span>: <span class="good">PLEXTOR CD-R   PREMIUM   Adapter: 5  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">30</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">Yes</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format      </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">4:19.44</span> <strong>|</strong>  <span class="log1">2:21.66</span> <strong>|</strong>     <span class="log1">19469</span>    <strong>|</strong>    <span class="log1">30109</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">6:41.35</span> <strong>|</strong>  <span class="log1">2:17.44</span> <strong>|</strong>     <span class="log1">30110</span>    <strong>|</strong>    <span class="log1">40428</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">8:59.04</span> <strong>|</strong>  <span class="log1">3:47.69</span> <strong>|</strong>     <span class="log1">40429</span>    <strong>|</strong>    <span class="log1">57522</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">12:46.73</span> <strong>|</strong>  <span class="log1">1:51.45</span> <strong>|</strong>     <span class="log1">57523</span>    <strong>|</strong>    <span class="log1">65892</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">14:38.43</span> <strong>|</strong>  <span class="log1">2:16.27</span> <strong>|</strong>     <span class="log1">65893</span>    <strong>|</strong>    <span class="log1">76119</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">16:54.70</span> <strong>|</strong>  <span class="log1">5:12.07</span> <strong>|</strong>     <span class="log1">76120</span>    <strong>|</strong>    <span class="log1">99526</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">22:07.02</span> <strong>|</strong>  <span class="log1">2:10.43</span> <strong>|</strong>     <span class="log1">99527</span>    <strong>|</strong>   <span class="log1">109319</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">24:17.45</span> <strong>|</strong>  <span class="log1">2:31.06</span> <strong>|</strong>    <span class="log1">109320</span>    <strong>|</strong>   <span class="log1">120650</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">26:48.51</span> <strong>|</strong>  <span class="log1">1:56.01</span> <strong>|</strong>    <span class="log1">120651</span>    <strong>|</strong>   <span class="log1">129351</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">28:44.52</span> <strong>|</strong>  <span class="log1">1:42.70</span> <strong>|</strong>    <span class="log1">129352</span>    <strong>|</strong>   <span class="log1">137071</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">30:27.47</span> <strong>|</strong>  <span class="log1">1:25.67</span> <strong>|</strong>    <span class="log1">137072</span>    <strong>|</strong>   <span class="log1">143513</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">31:53.39</span> <strong>|</strong>  <span class="log1">2:47.14</span> <strong>|</strong>    <span class="log1">143514</span>    <strong>|</strong>   <span class="log1">156052</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">34:40.53</span> <strong>|</strong>  <span class="log1">3:36.00</span> <strong>|</strong>    <span class="log1">156053</span>    <strong>|</strong>   <span class="log1">172252</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">38:16.53</span> <strong>|</strong>  <span class="log1">3:08.08</span> <strong>|</strong>    <span class="log1">172253</span>    <strong>|</strong>   <span class="log1">186360</span>   
+       <span class="log4">15</span>  <strong>|</strong> <span class="log1">41:24.61</span> <strong>|</strong>  <span class="log1">2:27.05</span> <strong>|</strong>    <span class="log1">186361</span>    <strong>|</strong>   <span class="log1">197390</span>   
+       <span class="log4">16</span>  <strong>|</strong> <span class="log1">43:51.66</span> <strong>|</strong>  <span class="log1">4:31.69</span> <strong>|</strong>    <span class="log1">197391</span>    <strong>|</strong>   <span class="log1">217784</span>   
+       <span class="log4">17</span>  <strong>|</strong> <span class="log1">48:23.60</span> <strong>|</strong>  <span class="log1">2:24.55</span> <strong>|</strong>    <span class="log1">217785</span>    <strong>|</strong>   <span class="log1">228639</span>   
+       <span class="log4">18</span>  <strong>|</strong> <span class="log1">50:48.40</span> <strong>|</strong>  <span class="log1">2:39.17</span> <strong>|</strong>    <span class="log1">228640</span>    <strong>|</strong>   <span class="log1">240581</span>   
+       <span class="log4">19</span>  <strong>|</strong> <span class="log1">53:27.57</span> <strong>|</strong>  <span class="log1">5:31.18</span> <strong>|</strong>    <span class="log1">240582</span>    <strong>|</strong>   <span class="log1">265424</span>   
+       <span class="log4">20</span>  <strong>|</strong> <span class="log1">58:59.00</span> <strong>|</strong>  <span class="log1">5:01.56</span> <strong>|</strong>    <span class="log1">265425</span>    <strong>|</strong>   <span class="log1">288055</span>   
+       <span class="log4">21</span>  <strong>|</strong> <span class="log1">64:00.56</span> <strong>|</strong>  <span class="log1">9:01.02</span> <strong>|</strong>    <span class="log1">288056</span>    <strong>|</strong>   <span class="log1">328632</span>   
+       <span class="log4">22</span>  <strong>|</strong> <span class="log1">73:01.58</span> <strong>|</strong>  <span class="log1">2:34.51</span> <strong>|</strong>    <span class="log1">328633</span>    <strong>|</strong>   <span class="log1">340233</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\01-Angelo Badalamenti-Love Theme Intro.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:04:21.44</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">A2E44ED9</span></span>
+     <span class="log4">Copy CRC <span class="good">A2E44ED9</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [F629A108]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\02-Angelo Badalamenti-Shelly.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">87.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">F6D7DCEC</span></span>
+     <span class="log4">Copy CRC <span class="good">F6D7DCEC</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [8D433B3E]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\03-Angelo Badalamenti-New Shoes.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">93.6 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">E220B637</span></span>
+     <span class="log4">Copy CRC <span class="good">E220B637</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [3B416E69]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\04-Angelo Badalamenti-High School Swing.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">577567DC</span></span>
+     <span class="log4">Copy CRC <span class="good">577567DC</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [C6DEE6A1]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\05-Angelo Badalamenti-Hayward Boogie.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">110F8FCD</span></span>
+     <span class="log4">Copy CRC <span class="good">110F8FCD</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [6DF2AA3C]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\06-David Lynch-Blue Frank.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">B99DD310</span></span>
+     <span class="log4">Copy CRC <span class="good">B99DD310</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [D6DC44F3]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\07-Angelo Badalamenti-Audrey&#x27;s Prayer.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">69.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">770005A0</span></span>
+     <span class="log4">Copy CRC <span class="good">770005A0</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [258A6447]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\08-Angelo Badalamenti-I&#x27;m Hurt Bad.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">96.2 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">C81CCE68</span></span>
+     <span class="log4">Copy CRC <span class="good">C81CCE68</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [48E00043]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\09-Angelo Badalamenti-Cop Beat.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">73.2 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">10.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DDDAA992</span></span>
+     <span class="log4">Copy CRC <span class="good">DDDAA992</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [4FDAE54F]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\10-Angelo Badalamenti-Harold&#x27;s Theme.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">69.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">3EA5127A</span></span>
+     <span class="log4">Copy CRC <span class="good">3EA5127A</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [AA5C5F7B]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\11-Angelo Badalamenti-Barbershop.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">62.3 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">A8EA6DCF</span></span>
+     <span class="log4">Copy CRC <span class="good">A8EA6DCF</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [B7888AD9]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\12-Angelo Badalamenti-Night Bells.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">10.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">7D0EEC65</span></span>
+     <span class="log4">Copy CRC <span class="good">7D0EEC65</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [9A0E9FAF]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\13-Angelo Badalamenti-Just You.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">79.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">11.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DE0F71A1</span></span>
+     <span class="log4">Copy CRC <span class="good">DE0F71A1</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [960F38B4]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\14-Angelo Badalamenti-Drug Deal Blues.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">11.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">53E58F41</span></span>
+     <span class="log4">Copy CRC <span class="good">53E58F41</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [1CC99206]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\15-Angelo Badalamenti-Audrey.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">4B7FCD2C</span></span>
+     <span class="log4">Copy CRC <span class="good">4B7FCD2C</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [7DDD2723]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\16-Angelo Badalamenti-Josie and Truman.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">10.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">1686FF37</span></span>
+     <span class="log4">Copy CRC <span class="good">1686FF37</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [28E0FDBD]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">17</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\17-Angelo Badalamenti-Hook Rug Dance.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">DBB457CB</span></span>
+     <span class="log4">Copy CRC <span class="good">DBB457CB</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [56E7CC1A]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">18</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\18-Angelo Badalamenti-Packards&#x27; Vibration.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.3 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">12.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9A601A09</span></span>
+     <span class="log4">Copy CRC <span class="good">9A601A09</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [29BE9BAB]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">19</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\19-Angelo Badalamenti-Half Heart.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">13.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">4142DA77</span></span>
+     <span class="log4">Copy CRC <span class="good">4142DA77</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [16F58E81]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">20</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\20-Angelo Badalamenti-Laura&#x27;s Dark Boogie.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">90.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">12.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">99DB8705</span></span>
+     <span class="log4">Copy CRC <span class="good">99DB8705</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [3E6F6D72]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">21</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\21-Angelo Badalamenti-Dark Mood Woods - The Red Room.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">14.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DA49C143</span></span>
+     <span class="log4">Copy CRC <span class="good">DA49C143</span></span>
+     <span class="good">Accurately ripped (confidence 11)  [26B9DA6B]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">22</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\rip\Angelo Badalamenti and David Lynch - Twin Peaks- Season Two Music and More (2007)\22-Angelo Badalamenti-Love Theme Farewell.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">77.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">11.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">6972BE59</span></span>
+     <span class="log4">Copy CRC <span class="good">6972BE59</span></span>
+     <span class="good">Accurately ripped (confidence 12)  [8F3D87F1]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum E9C7EB0868A158CE633494070AB27A2034989DFD0C14A25819CCE8AF3B22037A ====

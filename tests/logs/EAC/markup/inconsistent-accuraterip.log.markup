@@ -1,0 +1,184 @@
+Exact Audio Copy <span class="log1">V1.3</span> from <span class="log1">2. September 2016</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 18. June 2017, 0:14</span></span>
+
+<span class="log4">Flytronix / Archive (CD1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STBD-RE  GGW-H20L   Adapter: 1  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">667</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">896 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -e -p -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">8:23.64</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">37788</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">8:23.64</span> <strong>|</strong>  <span class="log1">6:45.40</span> <strong>|</strong>     <span class="log1">37789</span>    <strong>|</strong>    <span class="log1">68203</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">15:09.29</span> <strong>|</strong>  <span class="log1">8:34.08</span> <strong>|</strong>     <span class="log1">68204</span>    <strong>|</strong>   <span class="log1">106761</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">23:43.37</span> <strong>|</strong>  <span class="log1">2:54.23</span> <strong>|</strong>    <span class="log1">106762</span>    <strong>|</strong>   <span class="log1">119834</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">26:37.60</span> <strong>|</strong>  <span class="log1">5:22.04</span> <strong>|</strong>    <span class="log1">119835</span>    <strong>|</strong>   <span class="log1">143988</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:59.64</span> <strong>|</strong>  <span class="log1">7:58.07</span> <strong>|</strong>    <span class="log1">143989</span>    <strong>|</strong>   <span class="log1">179845</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">39:57.71</span> <strong>|</strong>  <span class="log1">7:07.21</span> <strong>|</strong>    <span class="log1">179846</span>    <strong>|</strong>   <span class="log1">211891</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">47:05.17</span> <strong>|</strong>  <span class="log1">7:26.15</span> <strong>|</strong>    <span class="log1">211892</span>    <strong>|</strong>   <span class="log1">245356</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">54:31.32</span> <strong>|</strong>  <span class="log1">4:36.60</span> <strong>|</strong>    <span class="log1">245357</span>    <strong>|</strong>   <span class="log1">266116</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\01_The_Rhode_Tune.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">67520160</span></span>
+     <span class="log4">Copy CRC <span class="good">67520160</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [FE8254C9]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\02_Vertical_Plains.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">3FE28A70</span></span>
+     <span class="log4">Copy CRC <span class="good">3FE28A70</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [B1D1296D]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\03_Offshore_Drift.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">2257F33F</span></span>
+     <span class="log4">Copy CRC <span class="good">2257F33F</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [A01D5F80]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\04_Air_Surf.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">8E5AAB14</span></span>
+     <span class="log4">Copy CRC <span class="good">8E5AAB14</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [E1D8109C]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\05_Birth_Of_Da_Kool.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">AD9AA3D1</span></span>
+     <span class="log4">Copy CRC <span class="good">AD9AA3D1</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [5CB70105]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\06_Contemporary_Accousticz_Jam.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">F5050992</span></span>
+     <span class="log4">Copy CRC <span class="good">F5050992</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [CD61763A]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\07_Transfer.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.6 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">BA25F578</span></span>
+     <span class="log4">Copy CRC <span class="good">BA25F578</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [8D2FF96B]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\08_Epistrophy.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">D5118F31</span></span>
+     <span class="log4">Copy CRC <span class="good">D5118F31</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 5)  [BF12B7A9], AccurateRip returned [8E5D8011]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\ptp\Flytronix-Archive-(ASHADOW15CD)-2CD-FLAC-1998\Disc 1\09_A_Rosary_For_Rhythm.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">7743FC02</span></span>
+     <span class="log4">Copy CRC <span class="good">7743FC02</span></span>
+     <span class="good">Accurately ripped (confidence 4)  [223C5678]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good"> 8 track(s) accurately ripped</span>
+<span class="badish"> 1 track(s) could not be verified as accurate</span>
+
+<span class="badish">Some tracks could not be verified as accurate</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: 6CgGdovQOYDcrOIMxNcFY5wZilc-] found
+Submit result: 6CgGdovQOYDcrOIMxNcFY5wZilc- has been submitted
+Track | CTDB Status
+  1   | (16/16) Accurately ripped
+  2   | (16/16) Accurately ripped
+  3   | (16/16) Accurately ripped
+  4   | (16/16) Accurately ripped
+  5   | (16/16) Accurately ripped
+  6   | (16/16) Accurately ripped
+  7   | (16/16) Accurately ripped
+  8   | (16/16) Differs in 12 samples @04:02:27,04:02:45,04:02:64,04:03:07
+  9   | (16/16) Accurately ripped
+If you are sure that your rip contains errors, you can use CUETools to repair it.
+
+
+==== Log checksum 5E7998F2B049A7D9E820145C2E2FD232EB082EE66CBBC50064E848ADD40A42F8 ====

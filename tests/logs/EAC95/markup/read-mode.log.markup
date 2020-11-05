@@ -1,0 +1,112 @@
+<span class="good">EAC <span class="log5">extraction logfile from 29. September 2006, 23:18 for CD</span></span>
+<span class="log4">Four Tet / Rounds</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">TEAC    CD-W524E   Adapter: 1  ID: 1 (not found in database)</span>
+<span class="log5">Read mode   </span>: <span class="log4">Secure with NO C2, accurate stream, NO disable cache</span>
+<span class="log5">Read offset correction </span>: <span class="good">685</span>
+<span class="log5">Overread into Lead-In and Lead-Out </span>: <span class="log4">No</span>
+
+<span class="log5">Used output format </span>: <span class="log4">G:\Program Files\Lame\Lame 3.97\lame.exe   (User Defined Encoder)</span>
+                     192 kBit/s
+                     <span class="log5">Additional command line options </span>: <span class="log4">-V 0 --vbr-new --add-id3v2 --pad-id3v2 --ta &quot;%a&quot; --tt &quot;%t&quot; --tl &quot;%g&quot; --ty &quot;%y&quot; --tn &quot;%n&quot; %s %d</span>
+
+<span class="log4"></span><span class="log5">Other options      </span>: 
+    <span class="log5">Fill up missing offset samples with silence </span>: <span class="log4">Yes</span>
+    <span class="log5">Delete leading and trailing silent blocks </span>: <span class="log4">No</span>
+    Native Win32 interface for Win NT &amp; 2000
+
+
+<sp<span class="log5">an class="log4 log5">Track  <span class="log4 log1">1</span></span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\01 - Hands.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0759E4F7</span></span>
+     <span class="log4">Copy CRC <span class="good">0759E4F7</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\02 - She Moves She.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">F799C261</span></span>
+     <span class="log4">Copy CRC <span class="good">F799C261</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\03 - First Thing.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">36.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DD981688</span></span>
+     <span class="log4">Copy CRC <span class="good">DD981688</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\04 - My Angel Rocks Back And Forth.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0589EFDD</span></span>
+     <span class="log4">Copy CRC <span class="good">0589EFDD</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\05 - Spirit Fingers.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">19CBEFDB</span></span>
+     <span class="log4">Copy CRC <span class="good">19CBEFDB</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\06 - Unspoken.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">503DB496</span></span>
+     <span class="log4">Copy CRC <span class="good">503DB496</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\07 - Chia.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">B7EB0820</span></span>
+     <span class="log4">Copy CRC <span class="good">B7EB0820</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\08 - As Serious As Your Life.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">475B8166</span></span>
+     <span class="log4">Copy CRC <span class="good">475B8166</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\09 - And They All Look Broken Hearted.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">89.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">8FD7D3E1</span></span>
+     <span class="log4">Copy CRC <span class="good">8FD7D3E1</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+     <span class="log4">Filename <span class="log3">F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\10 - Slow Jam.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D1C15DB9</span></span>
+     <span class="log4">Copy CRC <span class="good">D1C15DB9</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occured</span>
+
+
+<span class="good">End of status report</span>

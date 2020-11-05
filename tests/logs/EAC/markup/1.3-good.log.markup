@@ -1,0 +1,97 @@
+Exact Audio Copy <span class="log1">V1.3</span> from <span class="log1">2. September 2016</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 9. March 2017, 9:59</span></span>
+
+<span class="log4">Sunn O))) / Monoliths &amp; Dimensions</span>
+
+<span class="log5">Used drive  </span>: <span class="good">Optiarc DVD RW AD-7940H   Adapter: 1  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">48</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -e -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong> <span class="log1">17:34.20</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">79069</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">17:34.20</span> <strong>|</strong>  <span class="log1">9:42.50</span> <strong>|</strong>     <span class="log1">79070</span>    <strong>|</strong>   <span class="log1">122769</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">27:16.70</span> <strong>|</strong> <span class="log1">10:02.25</span> <strong>|</strong>    <span class="log1">122770</span>    <strong>|</strong>   <span class="log1">167944</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">37:19.20</span> <strong>|</strong> <span class="log1">16:20.33</span> <strong>|</strong>    <span class="log1">167945</span>    <strong>|</strong>   <span class="log1">241477</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">Z:\home\enconding\FLAC\Sunn O))) - Monoliths &amp; Dimensions (2009)\01 - Aghartha.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">AEA13CCD</span></span>
+     <span class="log4">Copy CRC <span class="good">AEA13CCD</span></span>
+     <span class="good">Accurately ripped (confidence 72)  [E94F69D5]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">Z:\home\enconding\FLAC\Sunn O))) - Monoliths &amp; Dimensions (2009)\02 - Big Church (megszentségteleníthetetlenségeskedéseitekért).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.2 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">DA8287E4</span></span>
+     <span class="log4">Copy CRC <span class="good">DA8287E4</span></span>
+     <span class="good">Accurately ripped (confidence 73)  [B2153484]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">Z:\home\enconding\FLAC\Sunn O))) - Monoliths &amp; Dimensions (2009)\03 - Hunting &amp; Gathering (Cydonia).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">46B88D79</span></span>
+     <span class="log4">Copy CRC <span class="good">46B88D79</span></span>
+     <span class="good">Accurately ripped (confidence 74)  [3D548719]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">Z:\home\enconding\FLAC\Sunn O))) - Monoliths &amp; Dimensions (2009)\04 - Alice.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">E796851A</span></span>
+     <span class="log4">Copy CRC <span class="good">E796851A</span></span>
+     <span class="good">Accurately ripped (confidence 72)  [96554972]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum 332315532E9732EB47EA9BF22C0F0BCF4074A0CD90B69C7F89F94D86BA24853C ====

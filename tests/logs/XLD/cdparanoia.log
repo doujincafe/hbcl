@@ -1,0 +1,212 @@
+X Lossless Decoder version 20090320 (105.1)
+
+XLD extraction logfile from 2009-05-08 18:00:06 -0400
+
+Tram / Heavy Black Frame
+
+Used Drive : PIONEER DVD-RW  DVR-111D (revision 1.19)
+
+Use cdparanoia mode     : YES (CDParanoia III 10.2 engine)
+Disable audio cache     : OK for the drive with cache less than 2750KB
+Make use of C2 pointers : YES
+Read offset correction  : 48
+Max retry count         : 100
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:33:30 |         0    |    20504   
+        2  | 04:33:30 | 06:03:28 |     20505    |    47757   
+        3  | 10:36:58 | 03:33:14 |     47758    |    63746   
+        4  | 14:09:72 | 03:56:11 |     63747    |    81457   
+        5  | 18:06:08 | 03:48:41 |     81458    |    98598   
+        6  | 21:54:49 | 03:43:37 |     98599    |   115360   
+        7  | 25:38:11 | 04:21:35 |    115361    |   134970   
+        8  | 29:59:46 | 04:31:04 |    134971    |   155299   
+        9  | 34:30:50 | 05:49:42 |    155300    |   181516   
+       10  | 40:20:17 | 03:28:70 |    181517    |   197186   
+
+
+Track 01
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/01 Tram - Nothing Left To Say.flac
+
+    CRC32 hash (test run)  : 6753193C
+    CRC32 hash             : 6753193C
+    CRC32 hash (skip zero) : FB110822
+    AccurateRip signature  : B1D50FB7
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 02
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/02 Tram - Expectations.flac
+
+    CRC32 hash (test run)  : 9CC834A9
+    CRC32 hash             : 9CC834A9
+    CRC32 hash (skip zero) : A311B87C
+    AccurateRip signature  : BFD0591D
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 03
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/03 Tram - Too Scared To Sleep.flac
+
+    CRC32 hash (test run)  : 2C4D534C
+    CRC32 hash             : 2C4D534C
+    CRC32 hash (skip zero) : E5175733
+    AccurateRip signature  : 7B609EE7
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 04
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/04 Tram - Like Clockwork.flac
+
+    CRC32 hash (test run)  : BB270521
+    CRC32 hash             : BB270521
+    CRC32 hash (skip zero) : 542603F4
+    AccurateRip signature  : FC96437C
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 05
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/05 Tram - Home.flac
+
+    CRC32 hash (test run)  : BBF90090
+    CRC32 hash             : BBF90090
+    CRC32 hash (skip zero) : 049DAA94
+    AccurateRip signature  : 873FF51D
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 06
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/06 Tram - I've Been Here Once Before.flac
+
+    CRC32 hash (test run)  : E595D578
+    CRC32 hash             : E595D578
+    CRC32 hash (skip zero) : 2C5A34A3
+    AccurateRip signature  : 9E38E6DE
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 07
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/07 Tram - High Ground.flac
+
+    CRC32 hash (test run)  : FF0E7DAD
+    CRC32 hash             : FF0E7DAD
+    CRC32 hash (skip zero) : 8E985271
+    AccurateRip signature  : E839C730
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 08
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/08 Tram - When Its All Over.flac
+
+    CRC32 hash (test run)  : 3F1A4030
+    CRC32 hash             : 3F1A4030
+    CRC32 hash (skip zero) : 967CC2CA
+    AccurateRip signature  : DC1CDE99
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 09
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/09 Tram - Reason Why.flac
+
+    CRC32 hash (test run)  : 903D79E7
+    CRC32 hash             : 903D79E7
+    CRC32 hash (skip zero) : 2C1005B4
+    AccurateRip signature  : 9B15CDF1
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 10
+    Filename : /Volumes/Scarab/Audio/Music Incoming/New Encodes/Tram - Heavy Black Frame (flac)/10 Tram - You Can Go Now (if you want).flac
+
+    CRC32 hash (test run)  : 6F30BF8E
+    CRC32 hash             : 6F30BF8E
+    CRC32 hash (skip zero) : 86ECA8E4
+    AccurateRip signature  : AD6E1659
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+No errors occurred
+
+End of status report

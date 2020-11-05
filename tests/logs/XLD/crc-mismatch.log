@@ -1,0 +1,260 @@
+X Lossless Decoder version 20170729 (150.3)
+
+XLD extraction logfile from 2018-02-12 10:17:48 -0800
+
+Peter Allen / The Best of Peter Allen: 20th Century Masters - The Millennium Collection
+
+Used drive : TSSTcorp BDDVDW SE-506BB (revision TS00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 100
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:21:32 |         0    |    19606   
+        2  | 04:21:32 | 03:56:20 |     19607    |    37326   
+        3  | 08:17:52 | 03:23:23 |     37327    |    52574   
+        4  | 11:41:00 | 04:06:12 |     52575    |    71036   
+        5  | 15:47:12 | 02:34:33 |     71037    |    82619   
+        6  | 18:21:45 | 03:34:17 |     82620    |    98686   
+        7  | 21:55:62 | 03:31:05 |     98687    |   114516   
+        8  | 25:26:67 | 03:53:40 |    114517    |   132031   
+        9  | 29:20:32 | 05:13:13 |    132032    |   155519   
+       10  | 34:33:45 | 03:37:65 |    155520    |   171859   
+       11  | 38:11:35 | 03:13:35 |    171860    |   186369   
+
+AccurateRip Summary (DiscID: 00111f68-0093da86-9209b40b)
+    Track 01 : OK (v2, confidence 7/7)
+    Track 02 : OK (v1+v2, confidence 9/9)
+    Track 03 : OK (v1+v2, confidence 9/9)
+    Track 04 : OK (v1+v2, confidence 9/9)
+    Track 05 : OK (v1+v2, confidence 9/9)
+    Track 06 : OK (v1+v2, confidence 9/9)
+    Track 07 : OK (v1+v2, confidence 9/9)
+    Track 08 : OK (v1+v2, confidence 9/9)
+    Track 09 : NG (total 9 submissions)
+    Track 10 : OK (v1+v2, confidence 9/9)
+    Track 11 : OK (v1+v2, confidence 9/9)
+        ->10 tracks accurately ripped, 1 track not
+
+All Tracks
+    Album gain               : -4.76 dB
+    Peak                     : 0.992004
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 38
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/01 Bi-Coastal.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -3.56 dB
+    Peak                     : 0.854431
+    CRC32 hash (test run)    : 02DA8576
+    CRC32 hash               : 02DA8576
+    CRC32 hash (skip zero)   : D6689D68
+    AccurateRip v1 signature : 994BB782
+    AccurateRip v2 signature : 67D387BC
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/02 Fly Away.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -4.84 dB
+    Peak                     : 0.937897
+    CRC32 hash (test run)    : 2A85343C
+    CRC32 hash               : 2A85343C
+    CRC32 hash (skip zero)   : C81ADE37
+    AccurateRip v1 signature : 3E3CA281
+    AccurateRip v2 signature : 93743C0E
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/03 I Go to Rio.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -5.66 dB
+    Peak                     : 0.963867
+    CRC32 hash (test run)    : 4694C37E
+    CRC32 hash               : 4694C37E
+    CRC32 hash (skip zero)   : C71990E8
+    AccurateRip v1 signature : 7018156B
+    AccurateRip v2 signature : 0A268EFE
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/04 Don't Cry Out Loud.flac
+    Pre-gap length : 00:01:18
+
+    Track gain               : -4.63 dB
+    Peak                     : 0.956879
+    CRC32 hash (test run)    : 11C19756
+    CRC32 hash               : 11C19756
+    CRC32 hash (skip zero)   : 1762676C
+    AccurateRip v1 signature : B553CF4A
+    AccurateRip v2 signature : B6145D16
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/05 Everything Old Is New Again.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -3.74 dB
+    Peak                     : 0.805573
+    CRC32 hash (test run)    : 1322AE9B
+    CRC32 hash               : 1322AE9B
+    CRC32 hash (skip zero)   : DB6D2144
+    AccurateRip v1 signature : 7C6DCB17
+    AccurateRip v2 signature : 198262B3
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/06 The More I See You.flac
+    Pre-gap length : 00:01:18
+
+    Track gain               : -5.55 dB
+    Peak                     : 0.975250
+    CRC32 hash (test run)    : 65438C39
+    CRC32 hash               : 65438C39
+    CRC32 hash (skip zero)   : 8174A46E
+    AccurateRip v1 signature : 58695420
+    AccurateRip v2 signature : 0CE896CB
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/07 I Honestly Love You.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -3.80 dB
+    Peak                     : 0.872162
+    CRC32 hash (test run)    : 6F693601
+    CRC32 hash               : 6F693601
+    CRC32 hash (skip zero)   : 2E242B85
+    AccurateRip v1 signature : DD7674C3
+    AccurateRip v2 signature : 4D6E8AF3
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/08 I Could Have Been a Sailor.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -4.02 dB
+    Peak                     : 0.953796
+    CRC32 hash (test run)    : 65441D03
+    CRC32 hash               : 65441D03
+    CRC32 hash (skip zero)   : 8CD4C01B
+    AccurateRip v1 signature : 760BEFCA
+    AccurateRip v2 signature : FD8A8236
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/09 Quiet Please There's a Lady on Stage.flac
+    Pre-gap length : 00:01:17
+
+    Track gain               : -4.49 dB
+    Peak                     : 0.992004
+    CRC32 hash (test run)    : 606C50E6
+    CRC32 hash               : 5076879F
+        ->Rip may not be accurate.
+    CRC32 hash (skip zero)   : 3D1B5124
+    AccurateRip v1 signature : FA7E69B0
+    AccurateRip v2 signature : 48F27154
+        ->Rip may not be accurate (total 9 submissions).
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 38
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/10 I'd Rather Leave While I'm in Love.flac
+    Pre-gap length : 00:01:18
+
+    Track gain               : -2.57 dB
+    Peak                     : 0.922577
+    CRC32 hash (test run)    : 4B1787D7
+    CRC32 hash               : 4B1787D7
+    CRC32 hash (skip zero)   : BB61A7FC
+    AccurateRip v1 signature : 64985F59
+    AccurateRip v2 signature : A1878DE6
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/Hollywood and Vine/Rips/Peter Allen - The Best of Peter Allen： 20th Century Masters - The Millennium Collection (2001) [FLAC]/11 Just a Gigolo (Schöner Gigolo).flac
+    Pre-gap length : 00:01:20
+
+    Track gain               : -6.79 dB
+    Peak                     : 0.838959
+    CRC32 hash (test run)    : 636F3621
+    CRC32 hash               : 636F3621
+    CRC32 hash (skip zero)   : D81130D3
+    AccurateRip v1 signature : 5AC65FA9
+    AccurateRip v2 signature : 863444BC
+        ->Accurately ripped (v1+v2, confidence 2+7/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Some inconsistencies found
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+UuTRz9M_H0dV6Qf.txp4WkeFXP_xsIOZn7ASZqXjpKL6Qolgs5h.i8iifZ04P01d1P5_JmjNwXNu9ugIpIAQogVhhQ4WNnHuT02sqHq
+-----END XLD SIGNATURE-----

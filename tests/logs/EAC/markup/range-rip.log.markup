@@ -1,0 +1,99 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 15. February 2013, 19:20</span></span>
+
+<span class="log4">ABBA / Waterloo</span>
+
+<span class="log5">Used drive  </span>: <span class="good">Optiarc BD RW BD-5300S   Adapter: 3  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">6</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;Date=%year%&quot; -T &quot;Genre=%genre%&quot; -T &quot;COMMENT=ripped by</span> 
+bvstudio®&quot; %source%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.33</span> <strong>|</strong>  <span class="log1">2:44.25</span> <strong>|</strong>        <span class="log1">33</span>    <strong>|</strong>    <span class="log1">12357</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">2:44.58</span> <strong>|</strong>  <span class="log1">3:36.62</span> <strong>|</strong>     <span class="log1">12358</span>    <strong>|</strong>    <span class="log1">28619</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">6:21.45</span> <strong>|</strong>  <span class="log1">3:11.25</span> <strong>|</strong>     <span class="log1">28620</span>    <strong>|</strong>    <span class="log1">42969</span>   
+        <span class="log4">4</span>  <strong>|</strong>  <span class="log1">9:32.70</span> <strong>|</strong>  <span class="log1">3:09.13</span> <strong>|</strong>     <span class="log1">42970</span>    <strong>|</strong>    <span class="log1">57157</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">12:42.08</span> <strong>|</strong>  <span class="log1">3:13.12</span> <strong>|</strong>     <span class="log1">57158</span>    <strong>|</strong>    <span class="log1">71644</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">15:55.20</span> <strong>|</strong>  <span class="log1">3:12.50</span> <strong>|</strong>     <span class="log1">71645</span>    <strong>|</strong>    <span class="log1">86094</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">19:07.70</span> <strong>|</strong>  <span class="log1">2:55.38</span> <strong>|</strong>     <span class="log1">86095</span>    <strong>|</strong>    <span class="log1">99257</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">22:03.33</span> <strong>|</strong>  <span class="log1">2:55.37</span> <strong>|</strong>     <span class="log1">99258</span>    <strong>|</strong>   <span class="log1">112419</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">24:58.70</span> <strong>|</strong>  <span class="log1">3:48.13</span> <strong>|</strong>    <span class="log1">112420</span>    <strong>|</strong>   <span class="log1">129532</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">28:47.08</span> <strong>|</strong>  <span class="log1">3:41.00</span> <strong>|</strong>    <span class="log1">129533</span>    <strong>|</strong>   <span class="log1">146107</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">32:28.08</span> <strong>|</strong>  <span class="log1">3:10.25</span> <strong>|</strong>    <span class="log1">146108</span>    <strong>|</strong>   <span class="log1">160382</span>   
+
+
+R<span class="log5">ange status and errors</span>
+
+<span class="badish">Selected range</span>
+
+     <span class="log4">Filename <span class="log3">F:\ABBA®\1974 - Waterloo (1990 - Polydor - 843 643-2)\ABBA - Waterloo.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.8 X</span></span>
+     <span class="log4">Range quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">4199FFCA</span></span>
+     <span class="log4">Copy CRC <span class="good">4199FFCA</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+ 
+<span class="log4 log5">AccurateRip summary</span>
+ 
+Track  1  accurately ripped (confidence 7)  [63DA46C4]  (AR v2)
+Track  2  accurately ripped (confidence 7)  [4334B581]  (AR v2)
+Track  3  accurately ripped (confidence 7)  [BC9D2EB3]  (AR v2)
+Track  4  accurately ripped (confidence 7)  [CA198833]  (AR v2)
+Track  5  accurately ripped (confidence 7)  [EB74FD25]  (AR v2)
+Track  6  accurately ripped (confidence 7)  [042E1875]  (AR v2)
+Track  7  accurately ripped (confidence 7)  [1B18C99B]  (AR v2)
+Track  8  accurately ripped (confidence 7)  [704684FF]  (AR v2)
+Track  9  accurately ripped (confidence 7)  [7FBE3435]  (AR v2)
+Track 10  accurately ripped (confidence 7)  [6D20FD41]  (AR v2)
+Track 11  accurately ripped (confidence 7)  [0B021200]  (AR v2)
+ 
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.4
+
+[CTDB TOCID: KhAHhDj3XzY_7wr53p8OrhbqZD0-] found
+Submit result: already submitted
+Track | CTDB Status
+  1   | (3/3) Accurately ripped
+  2   | (3/3) Accurately ripped
+  3   | (3/3) Accurately ripped
+  4   | (3/3) Accurately ripped
+  5   | (3/3) Accurately ripped
+  6   | (3/3) Accurately ripped
+  7   | (3/3) Accurately ripped
+  8   | (3/3) Accurately ripped
+  9   | (3/3) Accurately ripped
+ 10   | (3/3) Accurately ripped
+ 11   | (3/3) Accurately ripped
+
+
+==== Log checksum 56FE14AFBBBB6D7A1267A708835A821133E15CC20911599A7B0AEF54B9C55DFD ====

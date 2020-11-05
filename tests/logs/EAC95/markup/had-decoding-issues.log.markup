@@ -1,0 +1,198 @@
+<span class="good">EAC <span class="log5">extraction logfile from 6. July 2009, 21:34 for CD</span></span>
+<span class="log4">Various / You Don&#x27;t Know: Ninja Cuts (Disc 1)</span>
+
+<span class="log5">Used drive  </span>: <span class="good">TSSTcorpCDDVDW SH-S202J   Adapter: 0  ID: 0</span>
+<span class="log5">Read mode   </span>: <span class="log4">Secure with NO C2, accurate stream, disable cache</span>
+<span class="log5">Read offset correction </span>: <span class="good">6</span>
+<span class="log5">Overread into Lead-In and Lead-Out </span>: <span class="log4">No</span>
+
+<span class="log5">Used output format </span>: <span class="log4">C:\Program Files\FLAC\FLAC 1.1.4.exe   (User Defined Encoder)</span>
+                     192 kBit/s
+                     <span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;artist=%a&quot; -T &quot;title=%t&quot; -T &quot;album=%g&quot; -T &quot;date=%y&quot; -T &quot;tracknumber=%n&quot; -T &quot;genre=%m&quot; %s</span>
+
+<span class="log4"></span><span class="log5">Other options      </span>: 
+    <span class="log5">Fill up missing offset samples with silence </span>: <span class="log4">Yes</span>
+    <span class="log5">Delete leading and trailing silent blocks </span>: <span class="log4">No</span>
+    Installed external ASPI interface
+
+
+<sp<span class="log5">an class="log4 log5">Track  <span class="log4 log1">1</span></span></span>
+     <span class="log4">Filename <span class="log3">01 - Ghislain Poirier Ft. Face-T - Blazin&#x27; (Modeselektor Remix).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">94.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DCF12794</span></span>
+     <span class="log4">Copy CRC <span class="good">DCF12794</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+     <span class="log4">Filename <span class="log3">02 - Roots Manuva Ft. Ricky Ranking - Seat Yourself.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">76.3 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">7A0A4DAD</span></span>
+     <span class="log4">Copy CRC <span class="good">7A0A4DAD</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+     <span class="log4">Filename <span class="log3">03 - Bonobo Ft. Bajka - Nightlite (Zero dB Reconstruction).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">81.4 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">B1D63427</span></span>
+     <span class="log4">Copy CRC <span class="good">B1D63427</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+     <span class="log4">Filename <span class="log3">04 - Daedelus - Fair Weather Friends.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">96.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">33278AB4</span></span>
+     <span class="log4">Copy CRC <span class="good">33278AB4</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+     <span class="log4">Filename <span class="log3">05 - Mr Scruff &amp; Quantic - Donkey Ride.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">78.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">4BC65A67</span></span>
+     <span class="log4">Copy CRC <span class="good">4BC65A67</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+     <span class="log4">Filename <span class="log3">06 - Pop Levi - Dita Dimoné.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.57</span></span>
+
+     <span class="log4">Peak level <span class="log3">84.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D5560445</span></span>
+     <span class="log4">Copy CRC <span class="good">D5560445</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+     <span class="log4">Filename <span class="log3">07 - The Herbaliser - Gadget Funk.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">75.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BCF97297</span></span>
+     <span class="log4">Copy CRC <span class="good">BCF97297</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+     <span class="log4">Filename <span class="log3">08 - Cadence Weapon - Getting Dumb.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.49</span></span>
+
+     <span class="log4">Peak level <span class="log3">80.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">21AC06BE</span></span>
+     <span class="log4">Copy CRC <span class="good">21AC06BE</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+     <span class="log4">Filename <span class="log3">09 - Spank Rock - Bump (Switch Remix).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.45</span></span>
+
+     <span class="log4">Peak level <span class="log3">68.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EEA0847A</span></span>
+     <span class="log4">Copy CRC <span class="good">EEA0847A</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+     <span class="log4">Filename <span class="log3">10 - The Heavy - Coleen.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">84.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">93A661B3</span></span>
+     <span class="log4">Copy CRC <span class="good">93A661B3</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+     <span class="log4">Filename <span class="log3">11 - Diplo - Epistemology Suite 1- Don&#x27;t Fall.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">37BF2B96</span></span>
+     <span class="log4">Copy CRC <span class="good">37BF2B96</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+     <span class="log4">Filename <span class="log3">12 - King Geedorah - Next Levels.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">89.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">618A710F</span></span>
+     <span class="log4">Copy CRC <span class="good">618A710F</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+     <span class="log4">Filename <span class="log3">13 - Fink - Pretty Little Thing.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">84.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">7EA09C94</span></span>
+     <span class="log4">Copy CRC <span class="good">7EA09C94</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+     <span class="log4">Filename <span class="log3">14 - The Cinematic Orchestra - To Build A Home (Radio Version).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">87.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0C19B425</span></span>
+     <span class="log4">Copy CRC <span class="good">0C19B425</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+     <span class="log4">Filename <span class="log3">15 - Amon Tobin - Bloodstone.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">93.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">E51BB5FE</span></span>
+     <span class="log4">Copy CRC <span class="good">E51BB5FE</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+     <span class="log4">Filename <span class="log3">16 - John Matthias - Evermore.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">89.2 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">220E97BD</span></span>
+     <span class="log4">Copy CRC <span class="good">220E97BD</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occured</span>
+
+
+<span class="good">End of status report</span>

@@ -1,0 +1,153 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+Archivo Log de extracciones desde 3. Julio 2012, 15:02
+
+Miguel Abuelo / Buen Dia, Dia
+
+Usar unidad  : HL-DT-STDVDRAM GH22NS40   Adapter: 0  ID: 1
+
+Modo de Lectura           : Seguro
+Utilizar Corriente Exacta : Sí
+Descartar Audio caché     : No
+Utilizar los punteros C2  : Sí
+
+Corrección de Desplazamiento de Lectura         : 667
+Sobreleer tanto en Lead-In como en Lead-Out     : No
+Rellenar las muestras faltantes con silencios   : Sí
+Eliminar silencios inicial y final              : No
+Se han usado muestras nulas en los cálculos CRC : Sí
+Interfaz usada                                  : Interfaz ASPI externo instalado
+Gestión de Gaps                                 : Añadido a la pista previa
+
+Formato de Salida utilizado               : Compresor definido por el usuario
+Bitrate seleccionado                      : 1024 kBit/s
+Calidad                                   : Alta
+Añadir Etiqueta ID3                       : No
+Compresor de linea de comandos            : C:\Archivos de programa\FLAC\flac.exe
+Opciones adicionales en línea de comandos : -0 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s -o %d
+
+
+TOC del CD extraido
+
+     Pista |  Inicio  | Duración | Sector inicial | Sector final 
+    -------------------------------------------------------------
+        1  |  0:00.00 |  3:31.64 |          0     |     15888    
+        2  |  3:31.64 |  2:24.01 |      15889     |     26689    
+        3  |  5:55.65 |  2:49.73 |      26690     |     39437    
+        4  |  8:45.63 |  3:58.51 |      39438     |     57338    
+        5  | 12:44.39 |  2:29.11 |      57339     |     68524    
+        6  | 15:13.50 |  1:59.14 |      68525     |     77463    
+        7  | 17:12.64 |  3:51.00 |      77464     |     94788    
+        8  | 21:03.64 |  3:39.41 |      94789     |    111254    
+        9  | 24:43.30 |  4:00.45 |     111255     |    129299    
+       10  | 28:44.00 |  6:28.39 |     129300     |    158438    
+
+
+Pista  1
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\01 - La Balsa.wav
+
+     Longitud Pre-gap  0:00:02.00
+
+     Nivel Pico 100.0 %
+     Calidad de Pista 100.0 %
+     Copiar CRC 44E408E1
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  2
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\02 - Pica Mi Caballo.wav
+
+     Nivel Pico 89.3 %
+     Calidad de Pista 100.0 %
+     Copiar CRC 1CB771D4
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  3
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\03 - La Mujer Barbuda.wav
+
+     Nivel Pico 88.1 %
+     Calidad de Pista 100.0 %
+     Copiar CRC ACE26339
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  4
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\04 - Americano Soy Del Sur.wav
+
+     Nivel Pico 98.0 %
+     Calidad de Pista 100.0 %
+     Copiar CRC 6555D062
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  5
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\05 - Apurate, Josefina.wav
+
+     Nivel Pico 96.1 %
+     Calidad de Pista 99.8 %
+     Copiar CRC 49E9C899
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  6
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\06 - Verilí.wav
+
+     Nivel Pico 99.6 %
+     Calidad de Pista 100.0 %
+     Copiar CRC 3F6554CE
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  7
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\07 - Dias de Kuberito Diaz.wav
+
+     Nivel Pico 92.3 %
+     Calidad de Pista 100.0 %
+     Copiar CRC D3032262
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  8
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\08 - Va Silvestre Bajo El Sol.wav
+
+     Nivel Pico 100.0 %
+     Calidad de Pista 100.0 %
+     Copiar CRC E9C85B44
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista  9
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\09 - Mariposas De Madera.wav
+
+     Nivel Pico 91.6 %
+     Calidad de Pista 100.0 %
+     Copiar CRC B1140FA1
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+Pista 10
+
+     Nombre de Archivo C:\Documents and Settings\Guillermo\Mis documentos\Mi música\Miguel Abuelo - Buen Dia, Dia\10 - Buen Dia, Dia.wav
+
+     Nivel Pico 92.1 %
+     Calidad de Pista 100.0 %
+     Copiar CRC 0A9C8CA6
+     Pista no presente en la base de datos AccurateRip
+     Copia OK
+
+
+Ninguna de las pistas está presente en la base de datos AccurateRip
+
+Sin Errores
+
+Final del Informe

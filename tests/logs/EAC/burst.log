@@ -1,0 +1,203 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 30. April 2010, 13:17
+
+DMX Krew / Ffressshh!
+
+Used drive  : MATSHITABD-MLT UJ230AS   Adapter: 0  ID: 1
+
+Read mode : Burst
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s 
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.33 |  1:03.00 |        33    |     4757   
+        2  |  1:03.33 |  5:05.72 |      4758    |    27704   
+        3  |  6:09.30 |  3:36.10 |     27705    |    43914   
+        4  |  9:45.40 |  0:12.33 |     43915    |    44847   
+        5  |  9:57.73 |  4:48.07 |     44848    |    66454   
+        6  | 14:46.05 |  0:35.53 |     66455    |    69132   
+        7  | 15:21.58 |  4:16.67 |     69133    |    88399   
+        8  | 19:38.50 |  4:19.05 |     88400    |   107829   
+        9  | 23:57.55 |  4:09.45 |    107830    |   126549   
+       10  | 28:07.25 |  3:26.50 |    126550    |   142049   
+       11  | 31:34.00 |  5:17.35 |    142050    |   165859   
+       12  | 36:51.35 |  4:54.60 |    165860    |   187969   
+       13  | 41:46.20 |  0:51.10 |    187970    |   191804   
+
+
+Track  1
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\01 - Intro.wav
+
+     Pre-gap length  0:00:02.44
+
+     Peak level 90.3 %
+     Test CRC FD6B2546
+     Copy CRC FD6B2546
+     Accurately ripped (confidence 2)  [32386D84]
+     Copy OK
+
+Track  2
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\02 - You Can't Hide Your Love (Aphex Twin mix).wav
+
+     Peak level 93.5 %
+     Test CRC B21AD483
+     Copy CRC B21AD483
+     Accurately ripped (confidence 2)  [8733A044]
+     Copy OK
+
+Track  3
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\03 - Bonkers Goes Back to School.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.1 %
+     Test CRC 1641F272
+     Copy CRC 1641F272
+     Accurately ripped (confidence 2)  [D47E6579]
+     Copy OK
+
+Track  4
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\04 - Radio DMX.wav
+
+     Pre-gap length  0:00:01.49
+
+     Peak level 32.1 %
+     Test CRC ACFFEB9A
+     Copy CRC ACFFEB9A
+     Accurately ripped (confidence 2)  [1813EE2E]
+     Copy OK
+
+Track  5
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\05 - Body Rock.wav
+
+     Peak level 99.6 %
+     Test CRC 5DC9D056
+     Copy CRC 5DC9D056
+     Accurately ripped (confidence 2)  [C95FC376]
+     Copy OK
+
+Track  6
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\06 - Sound of the DMX.wav
+
+     Pre-gap length  0:00:02.04
+
+     Peak level 68.5 %
+     Test CRC 2201FAB6
+     Copy CRC 2201FAB6
+     Accurately ripped (confidence 2)  [C694B1DE]
+     Copy OK
+
+Track  7
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\07 - We Are Gonna Make You Move.wav
+
+     Pre-gap length  0:00:00.24
+
+     Peak level 99.6 %
+     Test CRC 87251E8A
+     Copy CRC 87251E8A
+     Accurately ripped (confidence 2)  [1B5C69BA]
+     Copy OK
+
+Track  8
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\08 - I'm All Alone.wav
+
+     Pre-gap length  0:00:00.10
+
+     Peak level 84.6 %
+     Test CRC BD80F32B
+     Copy CRC BD80F32B
+     Accurately ripped (confidence 2)  [D1123936]
+     Copy OK
+
+Track  9
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\09 - Space Pirate!.wav
+
+     Pre-gap length  0:00:02.05
+
+     Peak level 79.7 %
+     Test CRC E0F7F8FA
+     Copy CRC E0F7F8FA
+     Accurately ripped (confidence 2)  [356840A5]
+     Copy OK
+
+Track 10
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\10 - Europa.wav
+
+     Pre-gap length  0:00:00.77
+
+     Peak level 88.7 %
+     Test CRC 601D2AFB
+     Copy CRC 601D2AFB
+     Accurately ripped (confidence 2)  [8BF7E265]
+     Copy OK
+
+Track 11
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\11 - Ready to Roll.wav
+
+     Pre-gap length  0:00:01.34
+
+     Peak level 88.7 %
+     Test CRC 1B5DD8C6
+     Copy CRC 1B5DD8C6
+     Accurately ripped (confidence 2)  [4CBEEA71]
+     Copy OK
+
+Track 12
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\12 - Black Music.wav
+
+     Pre-gap length  0:00:00.56
+
+     Peak level 88.7 %
+     Test CRC 62E0CA31
+     Copy CRC 62E0CA31
+     Accurately ripped (confidence 2)  [486F12A0]
+     Copy OK
+
+Track 13
+
+     Filename G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\13 - Acknoledgement.wav
+
+     Pre-gap length  0:00:02.73
+
+     Peak level 45.1 %
+     Test CRC AB77FFF3
+     Copy CRC AB77FFF3
+     Accurately ripped (confidence 2)  [21FD6694]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

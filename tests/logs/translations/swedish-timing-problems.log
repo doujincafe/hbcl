@@ -1,0 +1,198 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraheringsloggfil från 26. januari 2014, 0:41
+
+Timo Räisänen / Lovers are Lonely
+
+Använd enhet  : TSSTcorpCDDVDW SH-S203D   Adapter: 3  ID: 1
+
+Läsmetod : Burst
+
+Läs-offset-korrigering                         : 6
+Läs in i Lead-In och Lead-Out                  : Nej
+Fyll upp saknade offset-samplingar med tystnad : Ja
+Radera inledande och eftersläpande tysta block : Nej
+Nollsamplingar används i CRC-beräkningarna     : Ja
+Använt gränssnitt                              : Native Win32 gränssnitt för Win NT & 2000
+Gap-hantering                                  : Lägg till föregående spår
+
+Använt output format                  : Användardefinierad Kodare
+Vald bit-hastighet                    : 128 kBit/s
+Kvalité                               : Hög
+Lägg till ID3 tag                     : Nej
+Kommandolinjekomprimerare             : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Ytterligare kommandoradsinställningar : -V -8 -T "artist=%artist%" -T "title=%title%" -T "album=%albumtitle%" -T "date=%year%" -T "tracknumber=%tracknr1%" -T "genre=%genre%" %source%
+
+
+TOC på den extraherade CD'n
+
+     Spår |   Start  |   Längd  | Startsektor | Slutsektor 
+    -------------------------------------------------------
+       1  |  0:00.00 |  3:58.03 |        0    |    17852   
+       2  |  3:58.03 |  3:48.24 |    17853    |    34976   
+       3  |  7:46.27 |  4:02.42 |    34977    |    53168   
+       4  | 11:48.69 |  4:01.47 |    53169    |    71290   
+       5  | 15:50.41 |  4:06.62 |    71291    |    89802   
+       6  | 19:57.28 |  6:50.29 |    89803    |   120581   
+       7  | 26:47.57 |  3:15.19 |   120582    |   135225   
+       8  | 30:03.01 |  3:46.60 |   135226    |   152235   
+       9  | 33:49.61 |  2:58.49 |   152236    |   165634   
+      10  | 36:48.35 |  3:39.20 |   165635    |   182079   
+      11  | 40:27.55 |  3:58.23 |   182080    |   199952   
+
+
+Spår  1
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\01. Carry Me Home.wav
+
+     För-gap längd  0:00:02.00
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 16.1 X
+     Testar CRC BBC6767E
+     Kopiera CRC BBC6767E
+     Korrekt kopierat (konfidens 2)  [109FDDD1]  (AR v2)
+     Kopia OK
+
+Spår  2
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\02. Lovers Are Lonely.wav
+
+     Timing-problem 0:00:10
+     Timing-problem 0:00:16
+     Timing-problem 0:00:28
+     Timing-problem 0:00:42 - 0:00:43
+     Timing-problem 0:00:58
+     Timing-problem 0:01:10 - 0:01:11
+     Timing-problem 0:01:23
+     Timing-problem 0:01:49
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 13.1 X
+     Testar CRC CBDB14A1
+     Kopiera CRC CBDB14A1
+     Korrekt kopierat (konfidens 2)  [4D4B0D84]  (AR v2)
+     Kopia färdig
+
+Spår  3
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\03. Halo.wav
+
+     För-gap längd  0:00:01.00
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 19.9 X
+     Testar CRC B2C29F9B
+     Kopiera CRC B2C29F9B
+     Korrekt kopierat (konfidens 2)  [B3771D98]  (AR v2)
+     Kopia OK
+
+Spår  4
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\04. Ringside Corner.wav
+
+     För-gap längd  0:00:02.21
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 21.5 X
+     Testar CRC 9A8B07E7
+     Kopiera CRC 9A8B07E7
+     Korrekt kopierat (konfidens 2)  [83D1E964]  (AR v2)
+     Kopia OK
+
+Spår  5
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\05. With A Mask On.wav
+
+     För-gap längd  0:00:02.68
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 23.1 X
+     Testar CRC 85925B27
+     Kopiera CRC 85925B27
+     Korrekt kopierat (konfidens 2)  [F693B48D]  (AR v2)
+     Kopia OK
+
+Spår  6
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\06. Pussycat.wav
+
+     För-gap längd  0:00:00.65
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 25.1 X
+     Testar CRC 43530E13
+     Kopiera CRC 43530E13
+     Korrekt kopierat (konfidens 2)  [F9ADB8F1]  (AR v2)
+     Kopia OK
+
+Spår  7
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\07. The Drug Of My Choice.wav
+
+     För-gap längd  0:00:01.77
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 26.5 X
+     Testar CRC 2A114055
+     Kopiera CRC 2A114055
+     Korrekt kopierat (konfidens 2)  [26BA2B2E]  (AR v2)
+     Kopia OK
+
+Spår  8
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\08. Champagne And Cigars.wav
+
+     För-gap längd  0:00:02.17
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 27.7 X
+     Testar CRC 8A4BFE17
+     Kopiera CRC 416A5779
+     Kan inte verifieras som korrekt (Konfidens 2)  [835A6795], AccurateRip återsände [FBAC3002]  (AR v2)
+     Kopia OK
+
+Spår  9
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\09. Goodbye Sad Songs.wav
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 24.1 X
+     Testar CRC 19BAC7BE
+     Kopiera CRC 10ED0186
+     Kan inte verifieras som korrekt (Konfidens 2)  [0785FA12], AccurateRip återsände [0A31372A]  (AR v2)
+     Kopia OK
+
+Spår 10
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\10. Don't Let The Devil Ruin It All.wav
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 23.3 X
+     Testar CRC BCE80BE5
+     Kopiera CRC 0805C8DE
+     Korrekt kopierat (konfidens 2)  [50A35582]  (AR v2)
+     Kopia OK
+
+Spår 11
+
+     Filnamn E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\11. Goodnight Wendy.wav
+
+     För-gap längd  0:00:03.38
+
+     Peak-nivå 98.8 %
+     Extraheringshastighet 24.1 X
+     Testar CRC CF1D3671
+     Kopiera CRC CF1D3671
+     Korrekt kopierat (konfidens 2)  [F70D3614]  (AR v2)
+     Kopia OK
+
+
+ 9 spåret(en) korrekt kopierat
+ 2 spåret(en) kunde inte verifieras som korrekt
+
+Några spår kunde inte verifieras som korrekta
+
+Inga fel uppstod
+
+Slut på status rapport

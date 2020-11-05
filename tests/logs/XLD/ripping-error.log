@@ -1,0 +1,1068 @@
+X Lossless Decoder version 20161007 (149.3)
+
+XLD extraction logfile from 2017-03-20 11:32:05 +0100
+
+Various Artists / Repérages Couleur 3 Vol 9 1994
+
+Used drive : MATSHITA DVD-R   UJ-898 (revision HC10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:12:25 |         0    |    23424   
+        2  | 05:12:25 | 04:22:07 |     23425    |    43081   
+        3  | 09:34:32 | 04:13:60 |     43082    |    62116   
+        4  | 13:48:17 | 03:30:15 |     62117    |    77881   
+        5  | 17:18:32 | 04:30:00 |     77882    |    98131   
+        6  | 21:48:32 | 05:29:55 |     98132    |   122861   
+        7  | 27:18:12 | 05:03:05 |    122862    |   145591   
+        8  | 32:21:17 | 07:11:33 |    145592    |   177949   
+        9  | 39:32:50 | 03:57:70 |    177950    |   195794   
+       10  | 43:30:45 | 05:51:17 |    195795    |   222136   
+       11  | 49:21:62 | 04:32:45 |    222137    |   242581   
+       12  | 53:54:32 | 04:11:50 |    242582    |   261456   
+       13  | 58:06:07 | 06:41:73 |    261457    |   291604   
+       14  | 64:48:05 | 04:05:64 |    291605    |   310043   
+       15  | 68:53:69 | 03:50:36 |    310044    |   327329   
+       16  | 72:44:30 | 04:10:37 |    327330    |   346116   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -5.08 dB
+    Peak                     : 1.000000
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 350
+        Retry sector count                   : 369
+        Damaged sector count                 : 724
+
+Track 01
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/01 - Urban Species - Spiritual Love.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -5.11 dB
+    Peak                     : 0.987213
+    CRC32 hash (test run)    : FF436D7B
+    CRC32 hash               : FF436D7B
+    CRC32 hash (skip zero)   : AF833854
+    AccurateRip v1 signature : FBADCEF8
+    AccurateRip v2 signature : 850C843E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/02 - Rachid Taha - Indie (1+1+1...).flac
+    Pre-gap length : 00:02:20
+
+    Track gain               : -5.02 dB
+    Peak                     : 0.988922
+    CRC32 hash (test run)    : 22646392
+    CRC32 hash               : 22646392
+    CRC32 hash (skip zero)   : 4E0140EA
+    AccurateRip v1 signature : FE280F46
+    AccurateRip v2 signature : 84AA3650
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/03 - Portishead - Sour Times.flac
+    Pre-gap length : 00:02:15
+
+    Track gain               : -8.37 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 75CA7889
+    CRC32 hash               : 75CA7889
+    CRC32 hash (skip zero)   : 9EFAF6AB
+    AccurateRip v1 signature : 34F40908
+    AccurateRip v2 signature : 5C87ACD9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/04 - Credit To The Nation - Teenage Sensation.flac
+    Pre-gap length : 00:01:45
+
+    Track gain               : -3.40 dB
+    Peak                     : 0.995331
+    CRC32 hash (test run)    : 4EE708A6
+    CRC32 hash               : 4EE708A6
+    CRC32 hash (skip zero)   : 6EA62FB5
+    AccurateRip v1 signature : B246DD74
+    AccurateRip v2 signature : B80B58E0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/05 - The Sabres Of Paradise - Wilmot.flac
+    Pre-gap length : 00:01:60
+
+    Track gain               : -5.16 dB
+    Peak                     : 0.969910
+    CRC32 hash (test run)    : 5D64472A
+    CRC32 hash               : 5D64472A
+    CRC32 hash (skip zero)   : 7C85BD3A
+    AccurateRip v1 signature : 9CFED79C
+    AccurateRip v2 signature : 45CF111D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/06 - Oedipussy - She Believes In Me.flac
+
+    Track gain               : -4.59 dB
+    Peak                     : 0.966461
+    CRC32 hash (test run)    : F25BFC80
+    CRC32 hash               : F25BFC80
+    CRC32 hash (skip zero)   : 8D7927D0
+    AccurateRip v1 signature : 47BCAB82
+    AccurateRip v2 signature : 13DE29D8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/07 - Mother Earth - Jesse.flac
+    Pre-gap length : 00:02:25
+
+    Track gain               : -5.55 dB
+    Peak                     : 0.948212
+    CRC32 hash (test run)    : 0D85949F
+    CRC32 hash               : 0D85949F
+    CRC32 hash (skip zero)   : 2C368585
+    AccurateRip v1 signature : BA5D1DC6
+    AccurateRip v2 signature : 0C695667
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/08 - Underworld - M.E..flac
+    Pre-gap length : 00:01:70
+
+    Track gain               : -0.96 dB
+    Peak                     : 0.996826
+    CRC32 hash (test run)    : 58BF1A74
+    CRC32 hash               : 58BF1A74
+    CRC32 hash (skip zero)   : 2319526A
+    AccurateRip v1 signature : 4715C58C
+    AccurateRip v2 signature : 6E1EA43A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/09 - Indian Vibes - Mathar.flac
+    Pre-gap length : 00:02:25
+
+    Track gain               : -5.32 dB
+    Peak                     : 0.991577
+    CRC32 hash (test run)    : 7C8C473E
+    CRC32 hash               : 7C8C473E
+    CRC32 hash (skip zero)   : 1DF1E413
+    AccurateRip v1 signature : A739520F
+    AccurateRip v2 signature : C98D171B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/10 - Coldcut - Autumn Leaves.flac
+    Pre-gap length : 00:03:11
+
+    Track gain               : -1.72 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 9B8DF06D
+    CRC32 hash               : 9B8DF06D
+    CRC32 hash (skip zero)   : 926AABA0
+    AccurateRip v1 signature : 62F889E3
+    AccurateRip v2 signature : 5476AF2B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/11 - Spearhead - Positive.flac
+    Pre-gap length : 00:01:52
+
+    Track gain               : -3.58 dB
+    Peak                     : 0.874481
+    CRC32 hash (test run)    : 8397DAAF
+    CRC32 hash               : 8397DAAF
+    CRC32 hash (skip zero)   : 5C128C5C
+    AccurateRip v1 signature : 68657DDA
+    AccurateRip v2 signature : 843FA6DD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/12 - Senser - Age Of Panic.flac
+    Pre-gap length : 00:02:55
+
+    Track gain               : -5.14 dB
+    Peak                     : 0.936981
+    CRC32 hash (test run)    : 81427AB1
+    CRC32 hash               : 81427AB1
+    CRC32 hash (skip zero)   : 45BCD198
+    AccurateRip v1 signature : 14D75257
+    AccurateRip v2 signature : D4607703
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/13 - Eight Miles High - Of One Skin.flac
+    Pre-gap length : 00:02:05
+
+    Track gain               : -1.43 dB
+    Peak                     : 0.998230
+    CRC32 hash (test run)    : 2A7DAD6B
+    CRC32 hash               : 2A7DAD6B
+    CRC32 hash (skip zero)   : AEB0468C
+    AccurateRip v1 signature : 90432021
+    AccurateRip v2 signature : 620DFC0A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/14 - Silent Majority - Curfew.flac
+    Pre-gap length : 00:03:25
+
+    Track gain               : -3.16 dB
+    Peak                     : 0.930847
+    CRC32 hash (test run)    : 04ECBC1E
+    CRC32 hash               : 04ECBC1E
+    CRC32 hash (skip zero)   : 5A987C90
+    AccurateRip v1 signature : B994946A
+    AccurateRip v2 signature : 277D8D7C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/15 - Soul Coughing - Is Chicago, Is Not Chicago.flac
+    Pre-gap length : 00:01:12
+
+    Track gain               : -3.57 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 49ADB077
+    CRC32 hash               : 49ADB077
+    CRC32 hash (skip zero)   : BB078AD3
+    AccurateRip v1 signature : C9516F67
+    AccurateRip v2 signature : C2230C9E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/16 - Leena Conquest - Boundaries.flac
+    Pre-gap length : 00:02:08
+
+    Track gain               : -5.01 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 32137D7A
+    CRC32 hash               : 9E2085AE
+        ->Rip may not be accurate.
+    CRC32 hash (skip zero)   : 5AAB74D2
+    AccurateRip v1 signature : 3692133D
+    AccurateRip v2 signature : 63DF8170
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 350
+        Retry sector count                   : 369
+        Damaged sector count                 : 724
+        List of damaged sector positions     :
+            (1) 03:21:08
+            (2) 03:22:68
+            (3) 03:23:15
+            (4) 03:23:16
+            (5) 03:23:38
+            (6) 03:24:31
+            (7) 03:24:54
+            (8) 03:25:01
+            (9) 03:25:24
+            (10) 03:25:46
+            (11) 03:25:47
+            (12) 03:25:58
+            (13) 03:26:39
+            (14) 03:26:61
+            (15) 03:26:62
+            (16) 03:26:73
+            (17) 03:27:09
+            (18) 03:27:31
+            (19) 03:27:32
+            (20) 03:27:65
+            (21) 03:27:66
+            (22) 03:28:02
+            (23) 03:28:13
+            (24) 03:28:24
+            (25) 03:28:25
+            (26) 03:28:36
+            (27) 03:28:47
+            (28) 03:28:58
+            (29) 03:29:17
+            (30) 03:29:39
+            (31) 03:29:40
+            (32) 03:29:51
+            (33) 03:29:73
+            (34) 03:30:10
+            (35) 03:30:21
+            (36) 03:30:22
+            (37) 03:30:32
+            (38) 03:30:33
+            (39) 03:30:43
+            (40) 03:30:44
+            (41) 03:30:55
+            (42) 03:31:02
+            (43) 03:31:03
+            (44) 03:31:13
+            (45) 03:31:14
+            (46) 03:31:25
+            (47) 03:31:26
+            (48) 03:31:36
+            (49) 03:31:37
+            (50) 03:31:47
+            (51) 03:31:48
+            (52) 03:31:59
+            (53) 03:31:70
+            (54) 03:32:06
+            (55) 03:32:07
+            (56) 03:32:17
+            (57) 03:32:18
+            (58) 03:32:29
+            (59) 03:32:30
+            (60) 03:32:40
+            (61) 03:32:41
+            (62) 03:32:51
+            (63) 03:32:52
+            (64) 03:32:63
+            (65) 03:32:64
+            (66) 03:32:74
+            (67) 03:33:00
+            (68) 03:33:10
+            (69) 03:33:11
+            (70) 03:33:22
+            (71) 03:33:33
+            (72) 03:33:34
+            (73) 03:33:44
+            (74) 03:33:45
+            (75) 03:33:55
+            (76) 03:33:56
+            (77) 03:33:67
+            (78) 03:33:68
+            (79) 03:34:03
+            (80) 03:34:04
+            (81) 03:34:14
+            (82) 03:34:15
+            (83) 03:34:26
+            (84) 03:34:37
+            (85) 03:34:38
+            (86) 03:34:48
+            (87) 03:34:49
+            (88) 03:34:59
+            (89) 03:34:60
+            (90) 03:34:71
+            (91) 03:35:07
+            (92) 03:35:08
+            (93) 03:35:18
+            (94) 03:35:19
+            (95) 03:35:29
+            (96) 03:35:30
+            (97) 03:35:41
+            (98) 03:35:42
+            (99) 03:35:52
+            (100) 03:35:53
+            (101) 03:35:63
+            (102) 03:35:64
+            (103) 03:35:74
+            (104) 03:36:00
+            (105) 03:36:01
+            (106) 03:36:11
+            (107) 03:36:12
+            (108) 03:36:22
+            (109) 03:36:23
+            (110) 03:36:33
+            (111) 03:36:34
+            (112) 03:36:45
+            (113) 03:36:46
+            (114) 03:36:56
+            (115) 03:36:57
+            (116) 03:36:67
+            (117) 03:36:68
+            (118) 03:37:04
+            (119) 03:37:05
+            (120) 03:37:15
+            (121) 03:37:16
+            (122) 03:37:26
+            (123) 03:37:27
+            (124) 03:37:37
+            (125) 03:37:38
+            (126) 03:37:49
+            (127) 03:37:50
+            (128) 03:37:60
+            (129) 03:37:61
+            (130) 03:37:71
+            (131) 03:37:72
+            (132) 03:38:07
+            (133) 03:38:08
+            (134) 03:38:09
+            (135) 03:38:19
+            (136) 03:38:20
+            (137) 03:38:30
+            (138) 03:38:31
+            (139) 03:38:42
+            (140) 03:38:53
+            (141) 03:38:54
+            (142) 03:38:64
+            (143) 03:38:65
+            (144) 03:39:00
+            (145) 03:39:01
+            (146) 03:39:02
+            (147) 03:39:11
+            (148) 03:39:12
+            (149) 03:39:13
+            (150) 03:39:23
+            (151) 03:39:24
+            (152) 03:39:34
+            (153) 03:39:35
+            (154) 03:39:45
+            (155) 03:39:46
+            (156) 03:39:47
+            (157) 03:39:57
+            (158) 03:39:58
+            (159) 03:39:68
+            (160) 03:39:69
+            (161) 03:40:05
+            (162) 03:40:06
+            (163) 03:40:16
+            (164) 03:40:17
+            (165) 03:40:27
+            (166) 03:40:28
+            (167) 03:40:38
+            (168) 03:40:39
+            (169) 03:40:50
+            (170) 03:40:51
+            (171) 03:40:61
+            (172) 03:40:62
+            (173) 03:40:72
+            (174) 03:40:73
+            (175) 03:41:09
+            (176) 03:41:10
+            (177) 03:41:20
+            (178) 03:41:21
+            (179) 03:41:31
+            (180) 03:41:32
+            (181) 03:41:42
+            (182) 03:41:43
+            (183) 03:41:54
+            (184) 03:41:55
+            (185) 03:41:65
+            (186) 03:41:66
+            (187) 03:42:01
+            (188) 03:42:02
+            (189) 03:42:12
+            (190) 03:42:13
+            (191) 03:42:14
+            (192) 03:42:24
+            (193) 03:42:25
+            (194) 03:42:35
+            (195) 03:42:36
+            (196) 03:42:46
+            (197) 03:42:47
+            (198) 03:42:48
+            (199) 03:42:58
+            (200) 03:42:59
+            (201) 03:42:69
+            (202) 03:42:70
+            (203) 03:43:06
+            (204) 03:43:07
+            (205) 03:43:16
+            (206) 03:43:17
+            (207) 03:43:18
+            (208) 03:43:28
+            (209) 03:43:29
+            (210) 03:43:39
+            (211) 03:43:40
+            (212) 03:43:50
+            (213) 03:43:51
+            (214) 03:43:52
+            (215) 03:43:61
+            (216) 03:43:62
+            (217) 03:43:63
+            (218) 03:43:73
+            (219) 03:43:74
+            (220) 03:44:09
+            (221) 03:44:10
+            (222) 03:44:11
+            (223) 03:44:21
+            (224) 03:44:22
+            (225) 03:44:32
+            (226) 03:44:33
+            (227) 03:44:43
+            (228) 03:44:44
+            (229) 03:44:45
+            (230) 03:44:54
+            (231) 03:44:55
+            (232) 03:44:56
+            (233) 03:44:66
+            (234) 03:44:67
+            (235) 03:45:02
+            (236) 03:45:03
+            (237) 03:45:04
+            (238) 03:45:14
+            (239) 03:45:15
+            (240) 03:45:24
+            (241) 03:45:25
+            (242) 03:45:26
+            (243) 03:45:36
+            (244) 03:45:37
+            (245) 03:45:47
+            (246) 03:45:48
+            (247) 03:45:49
+            (248) 03:45:59
+            (249) 03:45:60
+            (250) 03:45:70
+            (251) 03:45:71
+            (252) 03:46:06
+            (253) 03:46:07
+            (254) 03:46:17
+            (255) 03:46:18
+            (256) 03:46:19
+            (257) 03:46:29
+            (258) 03:46:30
+            (259) 03:46:40
+            (260) 03:46:41
+            (261) 03:46:42
+            (262) 03:46:52
+            (263) 03:46:53
+            (264) 03:46:62
+            (265) 03:46:63
+            (266) 03:46:64
+            (267) 03:46:74
+            (268) 03:47:00
+            (269) 03:47:10
+            (270) 03:47:11
+            (271) 03:47:12
+            (272) 03:47:21
+            (273) 03:47:22
+            (274) 03:47:23
+            (275) 03:47:33
+            (276) 03:47:34
+            (277) 03:47:44
+            (278) 03:47:45
+            (279) 03:47:46
+            (280) 03:47:55
+            (281) 03:47:56
+            (282) 03:47:57
+            (283) 03:47:67
+            (284) 03:47:68
+            (285) 03:48:03
+            (286) 03:48:04
+            (287) 03:48:05
+            (288) 03:48:15
+            (289) 03:48:16
+            (290) 03:48:26
+            (291) 03:48:27
+            (292) 03:48:37
+            (293) 03:48:38
+            (294) 03:48:48
+            (295) 03:48:49
+            (296) 03:48:50
+            (297) 03:48:59
+            (298) 03:48:60
+            (299) 03:48:61
+            (300) 03:48:71
+            (301) 03:48:72
+            (302) 03:48:73
+            (303) 03:49:07
+            (304) 03:49:08
+            (305) 03:49:09
+            (306) 03:49:18
+            (307) 03:49:19
+            (308) 03:49:20
+            (309) 03:49:30
+            (310) 03:49:31
+            (311) 03:49:41
+            (312) 03:49:42
+            (313) 03:49:43
+            (314) 03:49:52
+            (315) 03:49:53
+            (316) 03:49:54
+            (317) 03:49:63
+            (318) 03:49:64
+            (319) 03:49:65
+            (320) 03:50:00
+            (321) 03:50:01
+            (322) 03:50:11
+            (323) 03:50:12
+            (324) 03:50:13
+            (325) 03:50:22
+            (326) 03:50:23
+            (327) 03:50:24
+            (328) 03:50:34
+            (329) 03:50:35
+            (330) 03:50:45
+            (331) 03:50:46
+            (332) 03:50:47
+            (333) 03:50:56
+            (334) 03:50:57
+            (335) 03:50:58
+            (336) 03:50:68
+            (337) 03:50:69
+            (338) 03:51:04
+            (339) 03:51:05
+            (340) 03:51:06
+            (341) 03:51:15
+            (342) 03:51:16
+            (343) 03:51:17
+            (344) 03:51:26
+            (345) 03:51:27
+            (346) 03:51:28
+            (347) 03:51:38
+            (348) 03:51:39
+            (349) 03:51:49
+            (350) 03:51:50
+            (351) 03:51:51
+            (352) 03:51:60
+            (353) 03:51:61
+            (354) 03:51:62
+            (355) 03:51:72
+            (356) 03:51:73
+            (357) 03:51:74
+            (358) 03:52:08
+            (359) 03:52:09
+            (360) 03:52:10
+            (361) 03:52:19
+            (362) 03:52:20
+            (363) 03:52:21
+            (364) 03:52:31
+            (365) 03:52:32
+            (366) 03:52:42
+            (367) 03:52:43
+            (368) 03:52:44
+            (369) 03:52:53
+            (370) 03:52:54
+            (371) 03:52:55
+            (372) 03:52:65
+            (373) 03:52:66
+            (374) 03:53:01
+            (375) 03:53:02
+            (376) 03:53:03
+            (377) 03:53:12
+            (378) 03:53:13
+            (379) 03:53:14
+            (380) 03:53:24
+            (381) 03:53:25
+            (382) 03:53:35
+            (383) 03:53:36
+            (384) 03:53:37
+            (385) 03:53:46
+            (386) 03:53:47
+            (387) 03:53:48
+            (388) 03:53:57
+            (389) 03:53:58
+            (390) 03:53:59
+            (391) 03:53:69
+            (392) 03:53:70
+            (393) 03:53:71
+            (394) 03:54:05
+            (395) 03:54:06
+            (396) 03:54:07
+            (397) 03:54:16
+            (398) 03:54:17
+            (399) 03:54:18
+            (400) 03:54:27
+            (401) 03:54:28
+            (402) 03:54:29
+            (403) 03:54:30
+            (404) 03:54:39
+            (405) 03:54:40
+            (406) 03:54:41
+            (407) 03:54:50
+            (408) 03:54:51
+            (409) 03:54:52
+            (410) 03:54:62
+            (411) 03:54:63
+            (412) 03:54:73
+            (413) 03:54:74
+            (414) 03:55:00
+            (415) 03:55:09
+            (416) 03:55:10
+            (417) 03:55:11
+            (418) 03:55:20
+            (419) 03:55:21
+            (420) 03:55:22
+            (421) 03:55:32
+            (422) 03:55:33
+            (423) 03:55:34
+            (424) 03:55:43
+            (425) 03:55:44
+            (426) 03:55:45
+            (427) 03:55:54
+            (428) 03:55:55
+            (429) 03:55:56
+            (430) 03:55:66
+            (431) 03:55:67
+            (432) 03:55:68
+            (433) 03:56:02
+            (434) 03:56:03
+            (435) 03:56:04
+            (436) 03:56:13
+            (437) 03:56:14
+            (438) 03:56:15
+            (439) 03:56:25
+            (440) 03:56:26
+            (441) 03:56:36
+            (442) 03:56:37
+            (443) 03:56:38
+            (444) 03:56:47
+            (445) 03:56:48
+            (446) 03:56:49
+            (447) 03:56:58
+            (448) 03:56:59
+            (449) 03:56:60
+            (450) 03:56:61
+            (451) 03:56:70
+            (452) 03:56:71
+            (453) 03:56:72
+            (454) 03:57:06
+            (455) 03:57:07
+            (456) 03:57:08
+            (457) 03:57:18
+            (458) 03:57:19
+            (459) 03:57:29
+            (460) 03:57:30
+            (461) 03:57:31
+            (462) 03:57:40
+            (463) 03:57:41
+            (464) 03:57:42
+            (465) 03:57:51
+            (466) 03:57:52
+            (467) 03:57:53
+            (468) 03:57:63
+            (469) 03:57:64
+            (470) 03:57:65
+            (471) 03:57:74
+            (472) 03:58:00
+            (473) 03:58:01
+            (474) 03:58:10
+            (475) 03:58:11
+            (476) 03:58:12
+            (477) 03:58:21
+            (478) 03:58:22
+            (479) 03:58:23
+            (480) 03:58:24
+            (481) 03:58:33
+            (482) 03:58:34
+            (483) 03:58:35
+            (484) 03:58:44
+            (485) 03:58:45
+            (486) 03:58:46
+            (487) 03:58:56
+            (488) 03:58:57
+            (489) 03:58:67
+            (490) 03:58:68
+            (491) 03:58:69
+            (492) 03:59:03
+            (493) 03:59:04
+            (494) 03:59:05
+            (495) 03:59:14
+            (496) 03:59:15
+            (497) 03:59:16
+            (498) 03:59:17
+            (499) 03:59:26
+            (500) 03:59:27
+            (501) 03:59:28
+            (502) 03:59:37
+            (503) 03:59:38
+            (504) 03:59:39
+            (505) 03:59:48
+            (506) 03:59:49
+            (507) 03:59:50
+            (508) 03:59:60
+            (509) 03:59:61
+            (510) 03:59:62
+            (511) 03:59:71
+            (512) 03:59:72
+            (513) 03:59:73
+            (514) 04:00:07
+            (515) 04:00:08
+            (516) 04:00:09
+            (517) 04:00:10
+            (518) 04:00:19
+            (519) 04:00:20
+            (520) 04:00:21
+            (521) 04:00:30
+            (522) 04:00:31
+            (523) 04:00:32
+            (524) 04:00:41
+            (525) 04:00:42
+            (526) 04:00:43
+            (527) 04:00:53
+            (528) 04:00:54
+            (529) 04:00:55
+            (530) 04:00:64
+            (531) 04:00:65
+            (532) 04:00:66
+            (533) 04:01:00
+            (534) 04:01:01
+            (535) 04:01:02
+            (536) 04:01:12
+            (537) 04:01:13
+            (538) 04:01:14
+            (539) 04:01:23
+            (540) 04:01:24
+            (541) 04:01:25
+            (542) 04:01:34
+            (543) 04:01:35
+            (544) 04:01:36
+            (545) 04:01:45
+            (546) 04:01:46
+            (547) 04:01:47
+            (548) 04:01:48
+            (549) 04:01:57
+            (550) 04:01:58
+            (551) 04:01:59
+            (552) 04:01:68
+            (553) 04:01:69
+            (554) 04:01:70
+            (555) 04:02:04
+            (556) 04:02:05
+            (557) 04:02:06
+            (558) 04:02:07
+            (559) 04:02:16
+            (560) 04:02:17
+            (561) 04:02:18
+            (562) 04:02:27
+            (563) 04:02:28
+            (564) 04:02:29
+            (565) 04:02:38
+            (566) 04:02:39
+            (567) 04:02:40
+            (568) 04:02:41
+            (569) 04:02:50
+            (570) 04:02:51
+            (571) 04:02:52
+            (572) 04:02:61
+            (573) 04:02:62
+            (574) 04:02:63
+            (575) 04:02:72
+            (576) 04:02:73
+            (577) 04:02:74
+            (578) 04:03:09
+            (579) 04:03:10
+            (580) 04:03:11
+            (581) 04:03:20
+            (582) 04:03:21
+            (583) 04:03:22
+            (584) 04:03:31
+            (585) 04:03:32
+            (586) 04:03:33
+            (587) 04:03:34
+            (588) 04:03:43
+            (589) 04:03:44
+            (590) 04:03:45
+            (591) 04:03:54
+            (592) 04:03:55
+            (593) 04:03:56
+            (594) 04:03:65
+            (595) 04:03:66
+            (596) 04:03:67
+            (597) 04:04:02
+            (598) 04:04:03
+            (599) 04:04:04
+            (600) 04:04:13
+            (601) 04:04:14
+            (602) 04:04:15
+            (603) 04:04:24
+            (604) 04:04:25
+            (605) 04:04:26
+            (606) 04:04:35
+            (607) 04:04:36
+            (608) 04:04:37
+            (609) 04:04:38
+            (610) 04:04:47
+            (611) 04:04:48
+            (612) 04:04:49
+            (613) 04:04:58
+            (614) 04:04:59
+            (615) 04:04:60
+            (616) 04:04:69
+            (617) 04:04:70
+            (618) 04:04:71
+            (619) 04:04:72
+            (620) 04:05:06
+            (621) 04:05:07
+            (622) 04:05:08
+            (623) 04:05:17
+            (624) 04:05:18
+            (625) 04:05:19
+            (626) 04:05:28
+            (627) 04:05:29
+            (628) 04:05:30
+            (629) 04:05:31
+            (630) 04:05:40
+            (631) 04:05:41
+            (632) 04:05:42
+            (633) 04:05:51
+            (634) 04:05:52
+            (635) 04:05:53
+            (636) 04:05:62
+            (637) 04:05:63
+            (638) 04:05:64
+            (639) 04:05:65
+            (640) 04:05:74
+            (641) 04:06:00
+            (642) 04:06:01
+            (643) 04:06:10
+            (644) 04:06:11
+            (645) 04:06:12
+            (646) 04:06:21
+            (647) 04:06:22
+            (648) 04:06:23
+            (649) 04:06:33
+            (650) 04:06:34
+            (651) 04:06:35
+            (652) 04:06:44
+            (653) 04:06:45
+            (654) 04:06:46
+            (655) 04:06:55
+            (656) 04:06:56
+            (657) 04:06:57
+            (658) 04:06:58
+            (659) 04:06:67
+            (660) 04:06:68
+            (661) 04:06:69
+            (662) 04:07:03
+            (663) 04:07:04
+            (664) 04:07:05
+            (665) 04:07:14
+            (666) 04:07:15
+            (667) 04:07:16
+            (668) 04:07:26
+            (669) 04:07:27
+            (670) 04:07:28
+            (671) 04:07:37
+            (672) 04:07:38
+            (673) 04:07:39
+            (674) 04:07:48
+            (675) 04:07:49
+            (676) 04:07:50
+            (677) 04:07:51
+            (678) 04:07:60
+            (679) 04:07:61
+            (680) 04:07:62
+            (681) 04:07:71
+            (682) 04:07:72
+            (683) 04:07:73
+            (684) 04:08:07
+            (685) 04:08:08
+            (686) 04:08:09
+            (687) 04:08:18
+            (688) 04:08:19
+            (689) 04:08:20
+            (690) 04:08:21
+            (691) 04:08:30
+            (692) 04:08:31
+            (693) 04:08:32
+            (694) 04:08:41
+            (695) 04:08:42
+            (696) 04:08:43
+            (697) 04:08:52
+            (698) 04:08:53
+            (699) 04:08:54
+            (700) 04:08:55
+            (701) 04:08:64
+            (702) 04:08:65
+            (703) 04:08:66
+            (704) 04:09:00
+            (705) 04:09:01
+            (706) 04:09:02
+            (707) 04:09:11
+            (708) 04:09:12
+            (709) 04:09:13
+            (710) 04:09:14
+            (711) 04:09:23
+            (712) 04:09:24
+            (713) 04:09:25
+            (714) 04:09:34
+            (715) 04:09:35
+            (716) 04:09:36
+            (717) 04:09:45
+            (718) 04:09:46
+            (719) 04:09:47
+            (720) 04:09:48
+            (721) 04:09:57
+            (722) 04:09:58
+            (723) 04:09:59
+            (724) 04:09:68
+
+Some inconsistencies found
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+.yIARFqbk3Ub4E6nbUbIkyA32GkuL1ET4L3FF6tG59RXhwJNan_imDRPS8Hcx5z1XSSA21_sXkkN8c.8Ue.vFFdEg5Xrq5hFR6k4F.4
+-----END XLD SIGNATURE-----

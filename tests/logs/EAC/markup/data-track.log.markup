@@ -1,0 +1,216 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 5</span> from <span class="log1">4. May 2009</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 13. October 2010, 8:19</span></span>
+
+<span class="log4">Sub.Bionic / You I lov///</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD-ROM GDR8162B   Adapter: 0  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">192 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\system\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-V -8 -T &quot;artist=%a&quot; -T &quot;title=%t&quot; -T &quot;album=%g&quot; -T &quot;date=%y&quot; -T &quot;tracknumber=%n&quot; -T &quot;genre=%m&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">4:16.32</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">19231</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">4:16.32</span> <strong>|</strong>  <span class="log1">5:30.25</span> <strong>|</strong>     <span class="log1">19232</span>    <strong>|</strong>    <span class="log1">44006</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">9:46.57</span> <strong>|</strong>  <span class="log1">3:37.25</span> <strong>|</strong>     <span class="log1">44007</span>    <strong>|</strong>    <span class="log1">60306</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">13:24.07</span> <strong>|</strong>  <span class="log1">3:22.55</span> <strong>|</strong>     <span class="log1">60307</span>    <strong>|</strong>    <span class="log1">75511</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">16:46.62</span> <strong>|</strong>  <span class="log1">4:51.53</span> <strong>|</strong>     <span class="log1">75512</span>    <strong>|</strong>    <span class="log1">97389</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">21:38.40</span> <strong>|</strong>  <span class="log1">5:15.50</span> <strong>|</strong>     <span class="log1">97390</span>    <strong>|</strong>   <span class="log1">121064</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">26:54.15</span> <strong>|</strong>  <span class="log1">3:37.65</span> <strong>|</strong>    <span class="log1">121065</span>    <strong>|</strong>   <span class="log1">137404</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">30:32.05</span> <strong>|</strong>  <span class="log1">5:03.62</span> <strong>|</strong>    <span class="log1">137405</span>    <strong>|</strong>   <span class="log1">160191</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">35:35.67</span> <strong>|</strong>  <span class="log1">4:26.35</span> <strong>|</strong>    <span class="log1">160192</span>    <strong>|</strong>   <span class="log1">180176</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">40:02.27</span> <strong>|</strong>  <span class="log1">5:34.23</span> <strong>|</strong>    <span class="log1">180177</span>    <strong>|</strong>   <span class="log1">205249</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">45:36.50</span> <strong>|</strong>  <span class="log1">3:34.70</span> <strong>|</strong>    <span class="log1">205250</span>    <strong>|</strong>   <span class="log1">221369</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">49:11.45</span> <strong>|</strong>  <span class="log1">5:23.22</span> <strong>|</strong>    <span class="log1">221370</span>    <strong>|</strong>   <span class="log1">245616</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">54:34.67</span> <strong>|</strong>  <span class="log1">2:58.08</span> <strong>|</strong>    <span class="log1">245617</span>    <strong>|</strong>   <span class="log1">258974</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">60:05.00</span> <strong>|</strong>  <span class="log1">0:06.02</span> <strong>|</strong>    <span class="log1">270375</span>    <strong>|</strong>   <span class="log1">270826</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\01 - Sub.Bionic - Last Song On Earth.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9C5B6A89</span></span>
+     <span class="log4">Copy CRC <span class="good">9C5B6A89</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [A42B8C72]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\02 - Sub.Bionic - Plum.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.20</span></span>
+
+     <span class="log4">Peak level <span class="log3">95.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">81F9072E</span></span>
+     <span class="log4">Copy CRC <span class="good">81F9072E</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [BA973B40]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\03 - Sub.Bionic - Sub.Bionic Radio.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D58F21CF</span></span>
+     <span class="log4">Copy CRC <span class="good">D58F21CF</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [DB2C4756]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\04 - Sub.Bionic - Quasi-Dead.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">1CB90D3F</span></span>
+     <span class="log4">Copy CRC <span class="good">1CB90D3F</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [4CF4A566]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\05 - Sub.Bionic - Love Trans Holistic Bottle.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.22</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BDDD2F94</span></span>
+     <span class="log4">Copy CRC <span class="good">BDDD2F94</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [A411E38F]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\06 - Sub.Bionic - Hush.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D85DCDA6</span></span>
+     <span class="log4">Copy CRC <span class="good">D85DCDA6</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [70FA434A]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\07 - Sub.Bionic - God In Neutral.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">8CB2FA93</span></span>
+     <span class="log4">Copy CRC <span class="good">8CB2FA93</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [63062FF5]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\08 - Sub.Bionic - Reply (Without Recourse).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.77</span></span>
+
+     <span class="log4">Peak level <span class="log3">95.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">ABCE97A4</span></span>
+     <span class="log4">Copy CRC <span class="good">ABCE97A4</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [ACC1DBCD]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\09 - Sub.Bionic - From- Achtung Moon.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.26</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">92D5FC3C</span></span>
+     <span class="log4">Copy CRC <span class="good">92D5FC3C</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [360C03A8]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\10 - Sub.Bionic - Phonophobic.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">73763708</span></span>
+     <span class="log4">Copy CRC <span class="good">73763708</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [DE58A299]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\11 - Sub.Bionic - Heart Attack.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.04</span></span>
+
+     <span class="log4">Peak level <span class="log3">95.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">1A0148E2</span></span>
+     <span class="log4">Copy CRC <span class="good">1A0148E2</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [BA11A0D4]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\12 - Sub.Bionic - Blumonster.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.14</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">460206FB</span></span>
+     <span class="log4">Copy CRC <span class="good">460206FB</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [F7ADC727]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\wave dumps\wrote uploader\Sub.bionic - You I Lov... (2001) - FLAC\13 - Sub.Bionic - Nuclear Bomb Parade.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.02</span></span>
+
+     <span class="log4">Peak level <span class="log3">89.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">2FFCAB80</span></span>
+     <span class="log4">Copy CRC <span class="good">2FFCAB80</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [99F7D35E]</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

@@ -1,0 +1,94 @@
+Exact Audio Copy V1.1 from 23. June 2015
+
+EAC extraction logfile from 15. March 2018, 19:05
+
+Alice / CHOICE
+
+Used drive  : ASUS    SBC-06D2X-U   Adapter: 1  ID: 2
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:16.35 |         0    |    23734   
+        2  |  5:16.35 |  2:57.14 |     23735    |    37023   
+        3  |  8:13.49 |  4:26.71 |     37024    |    57044   
+
+
+Track  1
+
+     Filename C:\EAC rips\01. CHOICE.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Extraction speed 2.8 X
+     Track quality 100.0 %
+     Test CRC 9B6CDC62
+     Copy CRC 9B6CDC62
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\EAC rips\02. Can&#x27;t Wait.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Extraction speed 2.9 X
+     Track quality 100.0 %
+     Test CRC 0CAB6AA7
+     Copy CRC 0CAB6AA7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\EAC rips\03. Clock.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 100.0 %
+     Extraction speed 2.9 X
+     Track quality 99.9 %
+     Test CRC 1896E620
+     Copy CRC 1896E620
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: cljPK5E11RHTwep_jXNr7GNVxhA-] disk not present in database
+Submit result: cljPK5E11RHTwep_jXNr7GNVxhA- has been uploaded
+
+
+==== Log checksum 1AD3B8CE83AC8573CB7354EFF39310F97C325EBE47EAD7E226C3FB1E2960551E ====

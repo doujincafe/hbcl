@@ -1,0 +1,90 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 3</span> from <span class="log1">28. July 2007</span>
+
+<span class="good">Отчёт <span class="log5">EAC об извлечении, выполненном 9. февраля 2010, 21:01</span></span>
+
+<span class="log4">Ten And Tracer / Quotidiennes EP</span>
+
+<span class="log5">Дисковод</span>: <span class="good">Optiarc DVD RW AD-7200S   Adapter: 3  ID: 1</span>
+
+<span class="log5">Режим чтения                 </span>: <span class="good">Достоверность</span>
+<span class="log5">Использование точного потока </span>: <span class="good">Да</span>
+<span class="log5">Отключение кэша аудио        </span>: <span class="bad">Нет</span>
+<span class="log5">Использование указателей C2  </span>: <span class="good">Нет</span>
+
+<span class="log5">Комбинированное смещение чтения/записи            </span>: <span class="bad">0</span>
+<span class="log5">Способность читать области Lead-in и Lead-out     </span>: <span class="log4">Нет</span>
+<span class="log5">Заполнение пропущенных сэмплов тишиной            </span>: <span class="good">Да</span>
+<span class="log5">Удаление блоков с тишиной в начале и конце        </span>: <span class="good">Нет</span>
+<span class="log5">При вычислениях CRC использовались нулевые сэмплы </span>: <span class="bad">Нет</span>
+<span class="log5">Интерфейс                                         </span>: <span class="log4">Встроенный Win32-интерфейс для Win NT/2000</span>
+<span class="log5">Обработка зазоров                                 </span>: <span class="good">Добавлено к предыдущему треку</span>
+
+<span class="log5">Выходной формат          </span>: <span class="log4">Пользовательский кодировщик</span>
+<span class="log5">Выбранный битрейт        </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Качество                 </span>: <span class="log4">Высокий</span>
+<span class="log5">Добавление ID3-тэга      </span>: <span class="good">Нет</span>
+<span class="log5">Утилита сжатия           </span>: <span class="log4">E:\BackUP\Новая папка (b)\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Дополнительные параметры </span>: <span class="log4">-6 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s -o %d</span>
+
+
+<span class="log4 log5">TOC извлечённого CD</span>
+
+<strong>     Трек |   Старт  | Длительность | Начальный сектор | Конечный сектор </strong>
+    <strong>---------------------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>    <span class="log1">4:01.73</span>   <strong>|</strong>           <span class="log1">0</span>      <strong>|</strong>      <span class="log1">18147</span>      
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">4:01.73</span> <strong>|</strong>    <span class="log1">3:39.40</span>   <strong>|</strong>       <span class="log1">18148</span>      <strong>|</strong>      <span class="log1">34612</span>      
+       <span class="log4">3</span>  <strong>|</strong>  <span class="log1">7:41.38</span> <strong>|</strong>    <span class="log1">2:25.57</span>   <strong>|</strong>       <span class="log1">34613</span>      <strong>|</strong>      <span class="log1">45544</span>      
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">10:07.20</span> <strong>|</strong>    <span class="log1">6:56.11</span>   <strong>|</strong>       <span class="log1">45545</span>      <strong>|</strong>      <span class="log1">76755</span>      
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">17:03.31</span> <strong>|</strong>    <span class="log1">4:09.21</span>   <strong>|</strong>       <span class="log1">76756</span>      <strong>|</strong>      <span class="log1">95451</span>      
+
+
+<span class="log5">Трек  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Имя файла <span class="log3">D:\MUSIC_AND_VIDEO\trnts\01. Ten And Tracer - liver jerker.wav</span></span>
+
+     <span class="log4">Длина предзазора  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество трека <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">D8D8A420</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="log5">Трек  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Имя файла <span class="log3">D:\MUSIC_AND_VIDEO\trnts\02. Ten And Tracer - mother liquor.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество трека <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">35BD932F</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="log5">Трек  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Имя файла <span class="log3">D:\MUSIC_AND_VIDEO\trnts\03. Ten And Tracer - nohuref.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество трека <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">7E07E202</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="log5">Трек  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Имя файла <span class="log3">D:\MUSIC_AND_VIDEO\trnts\04. Ten And Tracer - wimiref.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество трека <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">8CFF000D</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="log5">Трек  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Имя файла <span class="log3">D:\MUSIC_AND_VIDEO\trnts\05. Ten And Tracer - gosmaref.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество трека <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">C12EADD5</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="good">Ошибок не произошло</span>
+
+<span class="good">Конец отчёта</span>

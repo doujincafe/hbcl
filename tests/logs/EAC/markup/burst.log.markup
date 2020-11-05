@@ -1,0 +1,203 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 5</span> from <span class="log1">4. May 2009</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 30. April 2010, 13:17</span></span>
+
+<span class="log4">DMX Krew / Ffressshh!</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">MATSHITABD-MLT UJ230AS   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode </span>: <span class="bad">Burst</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-V -8 -T &quot;artist=%a&quot; -T &quot;title=%t&quot; -T &quot;album=%g&quot; -T &quot;date=%y&quot; -T &quot;tracknumber=%n&quot; -T &quot;genre=%m&quot; %s</span> 
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.33</span> <strong>|</strong>  <span class="log1">1:03.00</span> <strong>|</strong>        <span class="log1">33</span>    <strong>|</strong>     <span class="log1">4757</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">1:03.33</span> <strong>|</strong>  <span class="log1">5:05.72</span> <strong>|</strong>      <span class="log1">4758</span>    <strong>|</strong>    <span class="log1">27704</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">6:09.30</span> <strong>|</strong>  <span class="log1">3:36.10</span> <strong>|</strong>     <span class="log1">27705</span>    <strong>|</strong>    <span class="log1">43914</span>   
+        <span class="log4">4</span>  <strong>|</strong>  <span class="log1">9:45.40</span> <strong>|</strong>  <span class="log1">0:12.33</span> <strong>|</strong>     <span class="log1">43915</span>    <strong>|</strong>    <span class="log1">44847</span>   
+        <span class="log4">5</span>  <strong>|</strong>  <span class="log1">9:57.73</span> <strong>|</strong>  <span class="log1">4:48.07</span> <strong>|</strong>     <span class="log1">44848</span>    <strong>|</strong>    <span class="log1">66454</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">14:46.05</span> <strong>|</strong>  <span class="log1">0:35.53</span> <strong>|</strong>     <span class="log1">66455</span>    <strong>|</strong>    <span class="log1">69132</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">15:21.58</span> <strong>|</strong>  <span class="log1">4:16.67</span> <strong>|</strong>     <span class="log1">69133</span>    <strong>|</strong>    <span class="log1">88399</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">19:38.50</span> <strong>|</strong>  <span class="log1">4:19.05</span> <strong>|</strong>     <span class="log1">88400</span>    <strong>|</strong>   <span class="log1">107829</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">23:57.55</span> <strong>|</strong>  <span class="log1">4:09.45</span> <strong>|</strong>    <span class="log1">107830</span>    <strong>|</strong>   <span class="log1">126549</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">28:07.25</span> <strong>|</strong>  <span class="log1">3:26.50</span> <strong>|</strong>    <span class="log1">126550</span>    <strong>|</strong>   <span class="log1">142049</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">31:34.00</span> <strong>|</strong>  <span class="log1">5:17.35</span> <strong>|</strong>    <span class="log1">142050</span>    <strong>|</strong>   <span class="log1">165859</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">36:51.35</span> <strong>|</strong>  <span class="log1">4:54.60</span> <strong>|</strong>    <span class="log1">165860</span>    <strong>|</strong>   <span class="log1">187969</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">41:46.20</span> <strong>|</strong>  <span class="log1">0:51.10</span> <strong>|</strong>    <span class="log1">187970</span>    <strong>|</strong>   <span class="log1">191804</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\01 - Intro.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.44</span></span>
+
+     <span class="log4">Peak level <span class="log3">90.3 %</span></span>
+     <span class="log4">Test CRC <span class="good">FD6B2546</span></span>
+     <span class="log4">Copy CRC <span class="good">FD6B2546</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [32386D84]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\02 - You Can&#x27;t Hide Your Love (Aphex Twin mix).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">93.5 %</span></span>
+     <span class="log4">Test CRC <span class="good">B21AD483</span></span>
+     <span class="log4">Copy CRC <span class="good">B21AD483</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [8733A044]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\03 - Bonkers Goes Back to School.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.1 %</span></span>
+     <span class="log4">Test CRC <span class="good">1641F272</span></span>
+     <span class="log4">Copy CRC <span class="good">1641F272</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [D47E6579]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\04 - Radio DMX.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.49</span></span>
+
+     <span class="log4">Peak level <span class="log3">32.1 %</span></span>
+     <span class="log4">Test CRC <span class="good">ACFFEB9A</span></span>
+     <span class="log4">Copy CRC <span class="good">ACFFEB9A</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [1813EE2E]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\05 - Body Rock.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.6 %</span></span>
+     <span class="log4">Test CRC <span class="good">5DC9D056</span></span>
+     <span class="log4">Copy CRC <span class="good">5DC9D056</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [C95FC376]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\06 - Sound of the DMX.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.04</span></span>
+
+     <span class="log4">Peak level <span class="log3">68.5 %</span></span>
+     <span class="log4">Test CRC <span class="good">2201FAB6</span></span>
+     <span class="log4">Copy CRC <span class="good">2201FAB6</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [C694B1DE]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\07 - We Are Gonna Make You Move.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.24</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.6 %</span></span>
+     <span class="log4">Test CRC <span class="good">87251E8A</span></span>
+     <span class="log4">Copy CRC <span class="good">87251E8A</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [1B5C69BA]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\08 - I&#x27;m All Alone.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.10</span></span>
+
+     <span class="log4">Peak level <span class="log3">84.6 %</span></span>
+     <span class="log4">Test CRC <span class="good">BD80F32B</span></span>
+     <span class="log4">Copy CRC <span class="good">BD80F32B</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [D1123936]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\09 - Space Pirate!.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.05</span></span>
+
+     <span class="log4">Peak level <span class="log3">79.7 %</span></span>
+     <span class="log4">Test CRC <span class="good">E0F7F8FA</span></span>
+     <span class="log4">Copy CRC <span class="good">E0F7F8FA</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [356840A5]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\10 - Europa.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.77</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.7 %</span></span>
+     <span class="log4">Test CRC <span class="good">601D2AFB</span></span>
+     <span class="log4">Copy CRC <span class="good">601D2AFB</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [8BF7E265]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\11 - Ready to Roll.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.34</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.7 %</span></span>
+     <span class="log4">Test CRC <span class="good">1B5DD8C6</span></span>
+     <span class="log4">Copy CRC <span class="good">1B5DD8C6</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [4CBEEA71]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\12 - Black Music.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.56</span></span>
+
+     <span class="log4">Peak level <span class="log3">88.7 %</span></span>
+     <span class="log4">Test CRC <span class="good">62E0CA31</span></span>
+     <span class="log4">Copy CRC <span class="good">62E0CA31</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [486F12A0]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+
+     <span class="log4">Filename <span class="log3">G:\What.CD\DMX Krew - Ffressshh!\DMX Krew - Ffressshh! - 1997\13 - Acknoledgement.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.73</span></span>
+
+     <span class="log4">Peak level <span class="log3">45.1 %</span></span>
+     <span class="log4">Test CRC <span class="good">AB77FFF3</span></span>
+     <span class="log4">Copy CRC <span class="good">AB77FFF3</span></span>
+     <span class="good">Accurately ripped (confidence 2)  [21FD6694]</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

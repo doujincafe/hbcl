@@ -1,0 +1,545 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:23</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\01-Coldcut - Atomic Moog (Cornelius Mix) - Coldcut - Atomic Moog (Cornelius Mix).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">100AAB73</span></span>
+     Track not fully ripped for AccurateRip lookup
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\02-DJ Food - Scratch Yer Head (Squarepusher Mix) - DJ Food - Scratch Yer Head (Squarepusher Mix).w</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.05</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">58AFF984</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [86B01960]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\04-Bonobo - Pick Up (Fourtet Mix) - Bonobo - Pick Up (Fourtet Mix).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">95.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">200A15D0</span></span>
+     Track not fully ripped for AccurateRip lookup
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\05-2 Player - Extreme Possibilities (Wagon Christ Mix) - 2 Player - Extreme Possibilities (Wagon C</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:50.04</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">BADDAEA3</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [EF9310E9]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\06-Mr Scruff - Sweetsmoke (Manitoba Mix) - Mr Scruff - Sweetsmoke (Manitoba Mix).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">CA5AEE8B</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [95C5056F]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\07-DJ Vadim - USSR Reconstruction (Jamie Hodge Mix) - DJ Vadim - USSR Reconstruction (Jamie Hodge </span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">89D7E619</span></span>
+     Track not fully ripped for AccurateRip lookup
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\08-DJ Food - Turtle Soup (Luke Vibert Mix) - DJ Food - Turtle Soup (Luke Vibert Mix).wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.02</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">3EE835D5</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [816B18C4]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\09-Fog - Pneumonia (Coldcut Mix) - Fog - Pneumonia (Coldcut Mix).wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">A6471493</span></span>
+     Track not fully ripped for AccurateRip lookup
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-Cinematic Orchestra - All That You Give (Dr Rockit Mix) - Cinematic Orchestra - All That You Gi</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.01</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:27</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:28</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-Cinematic Orchestra - All That You Give (Dr Rockit Mix) - Cinematic Orchestra - All That You Gi</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.01</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:28</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format      </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:29</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:29</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format      </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-East Flatbush Project - Tried By 12 (Squarepusher Mix) - East Flatbush Project - Tried By 12 (S</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:33</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\03-3 - 3.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">5D5E2C00</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [61E1D9D2]</span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V0.99 prebeta 1</span> from <span class="log1">25. May 2007</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 7. January 2008, 15:34</span></span>
+
+<span class="log4">Various / ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GWA4164B   Adapter: 0  ID: 1 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Left out</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">320 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">D:\Program Files\Exact Audio Copy\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=%e&quot; %s</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">32992</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">7:19.68</span> <strong>|</strong>  <span class="log1">7:17.25</span> <strong>|</strong>     <span class="log1">32993</span>    <strong>|</strong>    <span class="log1">65792</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:37.18</span> <strong>|</strong>  <span class="log1">2:56.29</span> <strong>|</strong>     <span class="log1">65793</span>    <strong>|</strong>    <span class="log1">79021</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">17:33.47</span> <strong>|</strong>  <span class="log1">7:11.57</span> <strong>|</strong>     <span class="log1">79022</span>    <strong>|</strong>   <span class="log1">111403</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">24:45.29</span> <strong>|</strong>  <span class="log1">7:01.73</span> <strong>|</strong>    <span class="log1">111404</span>    <strong>|</strong>   <span class="log1">143051</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:47.27</span> <strong>|</strong>  <span class="log1">8:24.23</span> <strong>|</strong>    <span class="log1">143052</span>    <strong>|</strong>   <span class="log1">180874</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.50</span> <strong>|</strong>  <span class="log1">3:16.10</span> <strong>|</strong>    <span class="log1">180875</span>    <strong>|</strong>   <span class="log1">195584</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">43:27.60</span> <strong>|</strong>  <span class="log1">7:54.36</span> <strong>|</strong>    <span class="log1">195585</span>    <strong>|</strong>   <span class="log1">231170</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">51:22.21</span> <strong>|</strong>  <span class="log1">4:45.54</span> <strong>|</strong>    <span class="log1">231171</span>    <strong>|</strong>   <span class="log1">252599</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">56:08.00</span> <strong>|</strong>  <span class="log1">6:07.12</span> <strong>|</strong>    <span class="log1">252600</span>    <strong>|</strong>   <span class="log1">280136</span>   
+
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\Documents and Settings\fz0bgd\My Documents\My Music\Lossless Music\Trip-Hop\Various Artists\ZEN RMX - A Ninja Tune Remix Retrospective (CD-1)\10-10 - 10.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.01</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Copy CRC <span class="badish">B0C7D50D</span></span>
+     <span class="good">Accurately ripped (confidence 5)  [9025EAA4]</span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

@@ -1,0 +1,198 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraheringsloggfil från 26. januari 2014, 0:41</span></span>
+
+<span class="log4">Timo Räisänen / Lovers are Lonely</span>
+
+<span class="log5">Använd enhet  </span>: <span class="good">TSSTcorpCDDVDW SH-S203D   Adapter: 3  ID: 1</span>
+
+<span class="log5">Läsmetod </span>: <span class="bad">Burst</span>
+
+<span class="log5">Läs-offset-korrigering                         </span>: <span class="good">6</span>
+<span class="log5">Läs in i Lead-In och Lead-Out                  </span>: <span class="log4">Nej</span>
+<span class="log5">Fyll upp saknade offset-samplingar med tystnad </span>: <span class="good">Ja</span>
+<span class="log5">Radera inledande och eftersläpande tysta block </span>: <span class="good">Nej</span>
+<span class="log5">Nollsamplingar används i CRC-beräkningarna     </span>: <span class="good">Ja</span>
+<span class="log5">Använt gränssnitt                              </span>: <span class="log4">Native Win32 gränssnitt för Win NT &amp; 2000</span>
+<span class="log5">Gap-hantering                                  </span>: <span class="good">Lägg till föregående spår</span>
+
+<span class="log5">Använt output format                  </span>: <span class="log4">Användardefinierad Kodare</span>
+<span class="log5">Vald bit-hastighet                    </span>: <span class="log4">128 kBit/s</span>
+<span class="log5">Kvalité                               </span>: <span class="log4">Hög</span>
+<span class="log5">Lägg till ID3 tag                     </span>: <span class="good">Nej</span>
+<span class="log5">Kommandolinjekomprimerare             </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Ytterligare kommandoradsinställningar </span>: <span class="log4">-V -8 -T &quot;artist=%artist%&quot; -T &quot;title=%title%&quot; -T &quot;album=%albumtitle%&quot; -T &quot;date=%year%&quot; -T &quot;tracknumber=%tracknr1%&quot; -T &quot;genre=%genre%&quot; %source%</span>
+
+
+<span class="log4 log5">TOC på den extraherade CD&#x27;n</span>
+
+<strong>     Spår |   Start  |   Längd  | Startsektor | Slutsektor </strong>
+    <strong>-------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">3:58.03</span> <strong>|</strong>        <span class="log1">0</span>    <strong>|</strong>    <span class="log1">17852</span>   
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">3:58.03</span> <strong>|</strong>  <span class="log1">3:48.24</span> <strong>|</strong>    <span class="log1">17853</span>    <strong>|</strong>    <span class="log1">34976</span>   
+       <span class="log4">3</span>  <strong>|</strong>  <span class="log1">7:46.27</span> <strong>|</strong>  <span class="log1">4:02.42</span> <strong>|</strong>    <span class="log1">34977</span>    <strong>|</strong>    <span class="log1">53168</span>   
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">11:48.69</span> <strong>|</strong>  <span class="log1">4:01.47</span> <strong>|</strong>    <span class="log1">53169</span>    <strong>|</strong>    <span class="log1">71290</span>   
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:50.41</span> <strong>|</strong>  <span class="log1">4:06.62</span> <strong>|</strong>    <span class="log1">71291</span>    <strong>|</strong>    <span class="log1">89802</span>   
+       <span class="log4">6</span>  <strong>|</strong> <span class="log1">19:57.28</span> <strong>|</strong>  <span class="log1">6:50.29</span> <strong>|</strong>    <span class="log1">89803</span>    <strong>|</strong>   <span class="log1">120581</span>   
+       <span class="log4">7</span>  <strong>|</strong> <span class="log1">26:47.57</span> <strong>|</strong>  <span class="log1">3:15.19</span> <strong>|</strong>   <span class="log1">120582</span>    <strong>|</strong>   <span class="log1">135225</span>   
+       <span class="log4">8</span>  <strong>|</strong> <span class="log1">30:03.01</span> <strong>|</strong>  <span class="log1">3:46.60</span> <strong>|</strong>   <span class="log1">135226</span>    <strong>|</strong>   <span class="log1">152235</span>   
+       <span class="log4">9</span>  <strong>|</strong> <span class="log1">33:49.61</span> <strong>|</strong>  <span class="log1">2:58.49</span> <strong>|</strong>   <span class="log1">152236</span>    <strong>|</strong>   <span class="log1">165634</span>   
+      <span class="log4">10</span>  <strong>|</strong> <span class="log1">36:48.35</span> <strong>|</strong>  <span class="log1">3:39.20</span> <strong>|</strong>   <span class="log1">165635</span>    <strong>|</strong>   <span class="log1">182079</span>   
+      <span class="log4">11</span>  <strong>|</strong> <span class="log1">40:27.55</span> <strong>|</strong>  <span class="log1">3:58.23</span> <strong>|</strong>   <span class="log1">182080</span>    <strong>|</strong>   <span class="log1">199952</span>   
+
+
+<span class="log5">Spår  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\01. Carry Me Home.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">16.1 X</span></span>
+     <span class="log4">Testar CRC <span class="good">BBC6767E</span></span>
+     <span class="log4">Kopiera CRC <span class="good">BBC6767E</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [109FDDD1]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\02. Lovers Are Lonely.wav</span></span>
+
+     <span class="bad">Timing-problem 0:00:10</span>
+     <span class="bad">Timing-problem 0:00:16</span>
+     <span class="bad">Timing-problem 0:00:28</span>
+     <span class="bad">Timing-problem 0:00:42 - 0:00:43</span>
+     <span class="bad">Timing-problem 0:00:58</span>
+     <span class="bad">Timing-problem 0:01:10 - 0:01:11</span>
+     <span class="bad">Timing-problem 0:01:23</span>
+     <span class="bad">Timing-problem 0:01:49</span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">13.1 X</span></span>
+     <span class="log4">Testar CRC <span class="good">CBDB14A1</span></span>
+     <span class="log4">Kopiera CRC <span class="good">CBDB14A1</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [4D4B0D84]  (AR v2)</span>
+     <span class="log3">Kopia färdig</span>
+
+<span class="log5">Spår  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\03. Halo.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:01.00</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">19.9 X</span></span>
+     <span class="log4">Testar CRC <span class="good">B2C29F9B</span></span>
+     <span class="log4">Kopiera CRC <span class="good">B2C29F9B</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [B3771D98]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\04. Ringside Corner.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:02.21</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">21.5 X</span></span>
+     <span class="log4">Testar CRC <span class="good">9A8B07E7</span></span>
+     <span class="log4">Kopiera CRC <span class="good">9A8B07E7</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [83D1E964]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\05. With A Mask On.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:02.68</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">23.1 X</span></span>
+     <span class="log4">Testar CRC <span class="good">85925B27</span></span>
+     <span class="log4">Kopiera CRC <span class="good">85925B27</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [F693B48D]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\06. Pussycat.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:00.65</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">25.1 X</span></span>
+     <span class="log4">Testar CRC <span class="good">43530E13</span></span>
+     <span class="log4">Kopiera CRC <span class="good">43530E13</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [F9ADB8F1]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\07. The Drug Of My Choice.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:01.77</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">26.5 X</span></span>
+     <span class="log4">Testar CRC <span class="good">2A114055</span></span>
+     <span class="log4">Kopiera CRC <span class="good">2A114055</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [26BA2B2E]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\08. Champagne And Cigars.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:02.17</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">27.7 X</span></span>
+     <span class="log4">Testar CRC <span class="bad">8A4BFE17</span></span>
+     <span class="log4">Kopiera CRC <span class="bad">416A5779</span></span>
+     <span class="badish">Kan inte verifieras som korrekt (Konfidens 2)  [835A6795], AccurateRip återsände [FBAC3002]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\09. Goodbye Sad Songs.wav</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">24.1 X</span></span>
+     <span class="log4">Testar CRC <span class="bad">19BAC7BE</span></span>
+     <span class="log4">Kopiera CRC <span class="bad">10ED0186</span></span>
+     <span class="badish">Kan inte verifieras som korrekt (Konfidens 2)  [0785FA12], AccurateRip återsände [0A31372A]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\10. Don&#x27;t Let The Devil Ruin It All.wav</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">23.3 X</span></span>
+     <span class="log4">Testar CRC <span class="bad">BCE80BE5</span></span>
+     <span class="log4">Kopiera CRC <span class="bad">0805C8DE</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [50A35582]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+<span class="log5">Spår <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filnamn <span class="log3">E:\Upload\Rip\Timo Räisänen - 2005 - Lovers are Lonely f\11. Goodnight Wendy.wav</span></span>
+
+     <span class="log4">För-gap längd  <span class="log3">0:00:03.38</span></span>
+
+     <span class="log4">Peak-nivå <span class="log3">98.8 %</span></span>
+     <span class="log4">Extraheringshastighet <span class="log3">24.1 X</span></span>
+     <span class="log4">Testar CRC <span class="good">CF1D3671</span></span>
+     <span class="log4">Kopiera CRC <span class="good">CF1D3671</span></span>
+     <span class="good">Korrekt kopierat (konfidens 2)  [F70D3614]  (AR v2)</span>
+     <span class="good">Kopia OK</span>
+
+
+<span class="good"> 9 spåret(en) korrekt kopierat</span>
+<span class="badish"> 2 spåret(en) kunde inte verifieras som korrekt</span>
+
+<span class="badish">Några spår kunde inte verifieras som korrekta</span>
+
+<span class="good">Inga fel uppstod</span>
+
+<span class="good">Slut på status rapport</span>

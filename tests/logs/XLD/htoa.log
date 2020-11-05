@@ -1,0 +1,61 @@
+X Lossless Decoder version 20170729 (150.3)
+
+XLD extraction logfile from 2017-08-28 03:03:05 +0100
+
+Quinoline Yellow / Uchel001
+
+Used drive : TSSTcorp CDDVDW SE-S084C (revision TS01)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 01:01:17 | 03:48:58 |      4592    |    21749   
+        2  | 04:50:00 | 04:27:22 |     21750    |    41796   
+        3  | 09:17:22 | 04:10:59 |     41797    |    60605   
+        4  | 13:28:06 | 01:52:71 |     60606    |    69076   
+        5  | 15:21:02 | 03:49:53 |     69077    |    86304   
+
+AccurateRip Summary (DiscID: 000455df-00138492-40044105)
+    Track 01 : OK (v1, confidence 1/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /XLD Rips/Quinoline Yellow - Uchel001 (2005) {uchel001, CDr, Mini} [WAV]/00 - Untitled.wav
+    Pre-gap length : 01:03:17
+
+    Track gain               : -5.47 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 7AEE75EC
+    CRC32 hash               : 7AEE75EC
+    CRC32 hash (skip zero)   : FA6488BC
+    AccurateRip v1 signature : 7F906C67
+    AccurateRip v2 signature : DCC30E8E
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+1wzdA1lWBzTfsDeL6AHIRV5sF.wWMjtFSNR_NAn172OFxMJTyc7P7ns0oSToGxA1bTXZcOJruRXqkid.PtKaEjoHVfhsjla64FKsDV0
+-----END XLD SIGNATURE-----

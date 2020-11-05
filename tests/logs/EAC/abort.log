@@ -1,0 +1,229 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 21. December 2012, 18:06
+
+Angantyr / Forvist
+
+Used Drive  : HL-DT-STDVD-ROM GDRH10N   Adapter: 0  ID: 3
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 11:28.66 |         0    |    51665   
+        2  | 11:28.66 |  6:06.45 |     51666    |    79160   
+        3  | 17:35.36 |  7:40.09 |     79161    |   113669   
+        4  | 25:15.45 |  6:29.70 |    113670    |   142914   
+        5  | 31:45.40 |  7:08.17 |    142915    |   175031   
+        6  | 38:53.57 |  9:05.32 |    175032    |   215938   
+        7  | 47:59.14 |  9:15.16 |    215939    |   257579   
+
+
+Track  1
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 01 - Track01.wav
+
+     Pre-gap length  0:00:02.00
+
+     Copy aborted
+
+Track  2
+
+     Copy aborted
+
+Track  3
+
+     Copy aborted
+
+Track  4
+
+     Copy aborted
+
+Track  5
+
+     Copy aborted
+
+Track  6
+
+     Copy aborted
+
+Track  7
+
+     Copy aborted
+
+
+No tracks could be verified as accurate
+
+There were errors
+
+End of status report
+
+==== Log checksum A998B759D68762BF728BB2D631F14B995A3B32144E0C517F07488857DBA600C9 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 21. December 2012, 18:55
+
+Angantyr / Forvist
+
+Used Drive  : HL-DT-STDVD-ROM GDRH10N   Adapter: 0  ID: 3
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 | 11:28.66 |         0    |    51665   
+        2  | 11:28.66 |  6:06.45 |     51666    |    79160   
+        3  | 17:35.36 |  7:40.09 |     79161    |   113669   
+        4  | 25:15.45 |  6:29.70 |    113670    |   142914   
+        5  | 31:45.40 |  7:08.17 |    142915    |   175031   
+        6  | 38:53.57 |  9:05.32 |    175032    |   215938   
+        7  | 47:59.14 |  9:15.16 |    215939    |   257579   
+
+
+Track  1
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 01 - Lænket.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 97.7 %
+     Extraction speed 6.0 X
+     Track quality 99.9 %
+     Test CRC 16A2A66E
+     Copy CRC 16A2A66E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 02 - I Forfædres Fodspor.wav
+
+     Peak level 97.7 %
+     Extraction speed 7.2 X
+     Track quality 100.0 %
+     Test CRC 9E23F45B
+     Copy CRC 9E23F45B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 03 - Vemods Hjemstavn.wav
+
+     Peak level 97.7 %
+     Extraction speed 7.5 X
+     Track quality 99.9 %
+     Test CRC A9E353F4
+     Copy CRC A9E353F4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 04 - Forvist.wav
+
+     Peak level 97.7 %
+     Extraction speed 8.7 X
+     Track quality 100.0 %
+     Test CRC 6FC0B388
+     Copy CRC 6FC0B388
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 05 - Fælles Fjende.wav
+
+     Peak level 97.7 %
+     Extraction speed 9.3 X
+     Track quality 100.0 %
+     Test CRC 14108AE8
+     Copy CRC 14108AE8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 06 - Stille Skarpe Knive.wav
+
+     Peak level 97.7 %
+     Extraction speed 9.6 X
+     Track quality 99.9 %
+     Test CRC 4558051B
+     Copy CRC 4558051B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 07 - Skovens Egne Våben.wav
+
+     Peak level 97.7 %
+     Extraction speed 10.8 X
+     Track quality 100.0 %
+     Test CRC FC556363
+     Copy CRC FC556363
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: nP0jqxhne.gdDK2arvj76XjCAOo-] found, Submit result: nP0jqxhne.gdDK2arvj76XjCAOo- has been confirmed
+[55e84e4d] (1/1) Accurately ripped
+
+
+==== Log checksum 8AFCABF3243149A6E0189FA8C285CAD198195EF7378BCB40800B65ACA6C1D4F2 ====

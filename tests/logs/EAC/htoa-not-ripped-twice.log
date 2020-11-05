@@ -1,0 +1,66 @@
+Exact Audio Copy V1.3 from 2. September 2016
+
+EAC extraction logfile from 9. April 2017, 15:43
+
+Arcade Fire / Reflektor
+
+Used Drive  : ASUS    DRW-24B1ST   a   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 10:02.00 |  7:33.71 |     45150    |    79195   
+        2  | 17:35.71 |  5:43.59 |     79196    |   104979   
+        3  | 23:19.55 |  2:42.15 |    104980    |   117144   
+        4  | 26:01.70 |  6:30.61 |    117145    |   146455   
+        5  | 32:32.56 |  4:22.27 |    146456    |   166132   
+        6  | 36:55.08 |  3:59.05 |    166133    |   184062   
+        7  | 40:54.13 |  5:28.39 |    184063    |   208701   
+
+
+Range status and errors
+
+Selected range   (Sectors 0-45149)
+
+     Filename C:\Users\thomas\Desktop\Arcade Fire - Reflektor (MRG485B) [FLAC]\Vol. 1\00 - Untitled.wav
+
+     Peak level 14.9 %
+     Extraction speed 1.7 X
+     Range quality 99.9 %
+     Copy CRC 255229CD
+     Copy OK
+
+No errors occurred
+
+ 
+AccurateRip summary
+ 
+ 
+
+No tracks could be verified as accurate
+
+End of status report
+
+==== Log checksum F679AD2B4CC812E305ADBE5E015246D3FEB36D44FD57F1E143FDE317AD070555 ====

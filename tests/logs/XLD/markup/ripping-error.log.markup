@@ -1,0 +1,1068 @@
+X Lossless Decoder version <span class="log1">20161007</span> (<span class="log1">149.3</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2017-03-20 11:32:05 +0100</span></span>
+
+<span class="log4">Various Artists / Repérages Couleur 3 Vol 9 1994</span>
+
+<span class="log5">Used drive </span>: <span class="badish">MATSHITA DVD-R   UJ-898 (revision HC10) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="good">Pressed CD</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">102</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended (except HTOA)</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">05:12:25</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">23424</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">05:12:25</span> <strong>|</strong> <span class="log1">04:22:07</span> <strong>|</strong>     <span class="log1">23425</span>    <strong>|</strong>    <span class="log1">43081</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">09:34:32</span> <strong>|</strong> <span class="log1">04:13:60</span> <strong>|</strong>     <span class="log1">43082</span>    <strong>|</strong>    <span class="log1">62116</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">13:48:17</span> <strong>|</strong> <span class="log1">03:30:15</span> <strong>|</strong>     <span class="log1">62117</span>    <strong>|</strong>    <span class="log1">77881</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">17:18:32</span> <strong>|</strong> <span class="log1">04:30:00</span> <strong>|</strong>     <span class="log1">77882</span>    <strong>|</strong>    <span class="log1">98131</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">21:48:32</span> <strong>|</strong> <span class="log1">05:29:55</span> <strong>|</strong>     <span class="log1">98132</span>    <strong>|</strong>   <span class="log1">122861</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">27:18:12</span> <strong>|</strong> <span class="log1">05:03:05</span> <strong>|</strong>    <span class="log1">122862</span>    <strong>|</strong>   <span class="log1">145591</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">32:21:17</span> <strong>|</strong> <span class="log1">07:11:33</span> <strong>|</strong>    <span class="log1">145592</span>    <strong>|</strong>   <span class="log1">177949</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">39:32:50</span> <strong>|</strong> <span class="log1">03:57:70</span> <strong>|</strong>    <span class="log1">177950</span>    <strong>|</strong>   <span class="log1">195794</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">43:30:45</span> <strong>|</strong> <span class="log1">05:51:17</span> <strong>|</strong>    <span class="log1">195795</span>    <strong>|</strong>   <span class="log1">222136</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">49:21:62</span> <strong>|</strong> <span class="log1">04:32:45</span> <strong>|</strong>    <span class="log1">222137</span>    <strong>|</strong>   <span class="log1">242581</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">53:54:32</span> <strong>|</strong> <span class="log1">04:11:50</span> <strong>|</strong>    <span class="log1">242582</span>    <strong>|</strong>   <span class="log1">261456</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">58:06:07</span> <strong>|</strong> <span class="log1">06:41:73</span> <strong>|</strong>    <span class="log1">261457</span>    <strong>|</strong>   <span class="log1">291604</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">64:48:05</span> <strong>|</strong> <span class="log1">04:05:64</span> <strong>|</strong>    <span class="log1">291605</span>    <strong>|</strong>   <span class="log1">310043</span>   
+       <span class="log4">15</span>  <strong>|</strong> <span class="log1">68:53:69</span> <strong>|</strong> <span class="log1">03:50:36</span> <strong>|</strong>    <span class="log1">310044</span>    <strong>|</strong>   <span class="log1">327329</span>   
+       <span class="log4">16</span>  <strong>|</strong> <span class="log1">72:44:30</span> <strong>|</strong> <span class="log1">04:10:37</span> <strong>|</strong>    <span class="log1">327330</span>    <strong>|</strong>   <span class="log1">346116</span>   
+
+<span class="log4 log5">AccurateRip Summary</span>
+    <span class="badish">Disc not found in AccurateRip DB</span>.
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Album gain               :</span> <span class="log3">-5.08 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="badish">350</span>
+        <span class="log4">Retry sector count                   :</span> <span class="badish">369</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="bad">724</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/01 - Urban Species - Spiritual Love.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.11 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.987213</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">FF436D7B</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">FF436D7B</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">AF833854</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">FBADCEF8</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">850C843E</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/02 - Rachid Taha - Indie (1+1+1...).flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:20</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.02 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.988922</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">22646392</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">22646392</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">4E0140EA</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">FE280F46</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">84AA3650</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/03 - Portishead - Sour Times.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:15</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-8.37 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">75CA7889</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">75CA7889</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">9EFAF6AB</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">34F40908</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">5C87ACD9</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/04 - Credit To The Nation - Teenage Sensation.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:45</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.40 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.995331</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">4EE708A6</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">4EE708A6</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">6EA62FB5</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">B246DD74</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">B80B58E0</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/05 - The Sabres Of Paradise - Wilmot.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:60</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.16 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.969910</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">5D64472A</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">5D64472A</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">7C85BD3A</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">9CFED79C</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">45CF111D</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/06 - Oedipussy - She Believes In Me.flac</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-4.59 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.966461</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">F25BFC80</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">F25BFC80</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8D7927D0</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">47BCAB82</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">13DE29D8</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">07</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/07 - Mother Earth - Jesse.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:25</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.55 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.948212</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">0D85949F</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">0D85949F</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">2C368585</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">BA5D1DC6</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">0C695667</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">08</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/08 - Underworld - M.E..flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:70</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-0.96 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.996826</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">58BF1A74</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">58BF1A74</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">2319526A</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">4715C58C</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">6E1EA43A</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">09</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/09 - Indian Vibes - Mathar.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:25</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.32 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.991577</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">7C8C473E</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">7C8C473E</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">1DF1E413</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">A739520F</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">C98D171B</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/10 - Coldcut - Autumn Leaves.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:11</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-1.72 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.999969</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">9B8DF06D</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">9B8DF06D</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">926AABA0</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">62F889E3</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">5476AF2B</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/11 - Spearhead - Positive.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:52</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.58 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.874481</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">8397DAAF</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">8397DAAF</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">5C128C5C</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">68657DDA</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">843FA6DD</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/12 - Senser - Age Of Panic.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:55</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.14 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.936981</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">81427AB1</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">81427AB1</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">45BCD198</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">14D75257</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">D4607703</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/13 - Eight Miles High - Of One Skin.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:05</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-1.43 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.998230</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">2A7DAD6B</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">2A7DAD6B</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">AEB0468C</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">90432021</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">620DFC0A</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/14 - Silent Majority - Curfew.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:25</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.16 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.930847</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">04ECBC1E</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">04ECBC1E</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">5A987C90</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">B994946A</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">277D8D7C</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/15 - Soul Coughing - Is Chicago, Is Not Chicago.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:01:12</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-3.57 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">49ADB077</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">49ADB077</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">BB078AD3</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">C9516F67</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">C2230C9E</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD/Various Artists - Repérages Couleur 3 Vol 9 1994 (1996) [FLAC]/16 - Leena Conquest - Boundaries.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:08</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-5.01 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="bad">32137D7A</span>
+    <span class="log4">CRC32 hash               :</span> <span class="bad">9E2085AE</span>
+        <span class="bad">-&gt;Rip may not be accurate.</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">5AAB74D2</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">3692133D</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">63DF8170</span>
+        <span class="badish">-&gt;Track not present in AccurateRip database.</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="badish">350</span>
+        <span class="log4">Retry sector count                   :</span> <span class="badish">369</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="bad">724</span>
+        <span class="bad">List of damaged sector positions     :</span>
+            <span class="badish">(1) 03:21:08</span>
+            <span class="badish">(2) 03:22:68</span>
+            <span class="badish">(3) 03:23:15</span>
+            <span class="badish">(4) 03:23:16</span>
+            <span class="badish">(5) 03:23:38</span>
+            <span class="badish">(6) 03:24:31</span>
+            <span class="badish">(7) 03:24:54</span>
+            <span class="badish">(8) 03:25:01</span>
+            <span class="badish">(9) 03:25:24</span>
+            <span class="badish">(10) 03:25:46</span>
+            <span class="badish">(11) 03:25:47</span>
+            <span class="badish">(12) 03:25:58</span>
+            <span class="badish">(13) 03:26:39</span>
+            <span class="badish">(14) 03:26:61</span>
+            <span class="badish">(15) 03:26:62</span>
+            <span class="badish">(16) 03:26:73</span>
+            <span class="badish">(17) 03:27:09</span>
+            <span class="badish">(18) 03:27:31</span>
+            <span class="badish">(19) 03:27:32</span>
+            <span class="badish">(20) 03:27:65</span>
+            <span class="badish">(21) 03:27:66</span>
+            <span class="badish">(22) 03:28:02</span>
+            <span class="badish">(23) 03:28:13</span>
+            <span class="badish">(24) 03:28:24</span>
+            <span class="badish">(25) 03:28:25</span>
+            <span class="badish">(26) 03:28:36</span>
+            <span class="badish">(27) 03:28:47</span>
+            <span class="badish">(28) 03:28:58</span>
+            <span class="badish">(29) 03:29:17</span>
+            <span class="badish">(30) 03:29:39</span>
+            <span class="badish">(31) 03:29:40</span>
+            <span class="badish">(32) 03:29:51</span>
+            <span class="badish">(33) 03:29:73</span>
+            <span class="badish">(34) 03:30:10</span>
+            <span class="badish">(35) 03:30:21</span>
+            <span class="badish">(36) 03:30:22</span>
+            <span class="badish">(37) 03:30:32</span>
+            <span class="badish">(38) 03:30:33</span>
+            <span class="badish">(39) 03:30:43</span>
+            <span class="badish">(40) 03:30:44</span>
+            <span class="badish">(41) 03:30:55</span>
+            <span class="badish">(42) 03:31:02</span>
+            <span class="badish">(43) 03:31:03</span>
+            <span class="badish">(44) 03:31:13</span>
+            <span class="badish">(45) 03:31:14</span>
+            <span class="badish">(46) 03:31:25</span>
+            <span class="badish">(47) 03:31:26</span>
+            <span class="badish">(48) 03:31:36</span>
+            <span class="badish">(49) 03:31:37</span>
+            <span class="badish">(50) 03:31:47</span>
+            <span class="badish">(51) 03:31:48</span>
+            <span class="badish">(52) 03:31:59</span>
+            <span class="badish">(53) 03:31:70</span>
+            <span class="badish">(54) 03:32:06</span>
+            <span class="badish">(55) 03:32:07</span>
+            <span class="badish">(56) 03:32:17</span>
+            <span class="badish">(57) 03:32:18</span>
+            <span class="badish">(58) 03:32:29</span>
+            <span class="badish">(59) 03:32:30</span>
+            <span class="badish">(60) 03:32:40</span>
+            <span class="badish">(61) 03:32:41</span>
+            <span class="badish">(62) 03:32:51</span>
+            <span class="badish">(63) 03:32:52</span>
+            <span class="badish">(64) 03:32:63</span>
+            <span class="badish">(65) 03:32:64</span>
+            <span class="badish">(66) 03:32:74</span>
+            <span class="badish">(67) 03:33:00</span>
+            <span class="badish">(68) 03:33:10</span>
+            <span class="badish">(69) 03:33:11</span>
+            <span class="badish">(70) 03:33:22</span>
+            <span class="badish">(71) 03:33:33</span>
+            <span class="badish">(72) 03:33:34</span>
+            <span class="badish">(73) 03:33:44</span>
+            <span class="badish">(74) 03:33:45</span>
+            <span class="badish">(75) 03:33:55</span>
+            <span class="badish">(76) 03:33:56</span>
+            <span class="badish">(77) 03:33:67</span>
+            <span class="badish">(78) 03:33:68</span>
+            <span class="badish">(79) 03:34:03</span>
+            <span class="badish">(80) 03:34:04</span>
+            <span class="badish">(81) 03:34:14</span>
+            <span class="badish">(82) 03:34:15</span>
+            <span class="badish">(83) 03:34:26</span>
+            <span class="badish">(84) 03:34:37</span>
+            <span class="badish">(85) 03:34:38</span>
+            <span class="badish">(86) 03:34:48</span>
+            <span class="badish">(87) 03:34:49</span>
+            <span class="badish">(88) 03:34:59</span>
+            <span class="badish">(89) 03:34:60</span>
+            <span class="badish">(90) 03:34:71</span>
+            <span class="badish">(91) 03:35:07</span>
+            <span class="badish">(92) 03:35:08</span>
+            <span class="badish">(93) 03:35:18</span>
+            <span class="badish">(94) 03:35:19</span>
+            <span class="badish">(95) 03:35:29</span>
+            <span class="badish">(96) 03:35:30</span>
+            <span class="badish">(97) 03:35:41</span>
+            <span class="badish">(98) 03:35:42</span>
+            <span class="badish">(99) 03:35:52</span>
+            <span class="badish">(100) 03:35:53</span>
+            <span class="badish">(101) 03:35:63</span>
+            <span class="badish">(102) 03:35:64</span>
+            <span class="badish">(103) 03:35:74</span>
+            <span class="badish">(104) 03:36:00</span>
+            <span class="badish">(105) 03:36:01</span>
+            <span class="badish">(106) 03:36:11</span>
+            <span class="badish">(107) 03:36:12</span>
+            <span class="badish">(108) 03:36:22</span>
+            <span class="badish">(109) 03:36:23</span>
+            <span class="badish">(110) 03:36:33</span>
+            <span class="badish">(111) 03:36:34</span>
+            <span class="badish">(112) 03:36:45</span>
+            <span class="badish">(113) 03:36:46</span>
+            <span class="badish">(114) 03:36:56</span>
+            <span class="badish">(115) 03:36:57</span>
+            <span class="badish">(116) 03:36:67</span>
+            <span class="badish">(117) 03:36:68</span>
+            <span class="badish">(118) 03:37:04</span>
+            <span class="badish">(119) 03:37:05</span>
+            <span class="badish">(120) 03:37:15</span>
+            <span class="badish">(121) 03:37:16</span>
+            <span class="badish">(122) 03:37:26</span>
+            <span class="badish">(123) 03:37:27</span>
+            <span class="badish">(124) 03:37:37</span>
+            <span class="badish">(125) 03:37:38</span>
+            <span class="badish">(126) 03:37:49</span>
+            <span class="badish">(127) 03:37:50</span>
+            <span class="badish">(128) 03:37:60</span>
+            <span class="badish">(129) 03:37:61</span>
+            <span class="badish">(130) 03:37:71</span>
+            <span class="badish">(131) 03:37:72</span>
+            <span class="badish">(132) 03:38:07</span>
+            <span class="badish">(133) 03:38:08</span>
+            <span class="badish">(134) 03:38:09</span>
+            <span class="badish">(135) 03:38:19</span>
+            <span class="badish">(136) 03:38:20</span>
+            <span class="badish">(137) 03:38:30</span>
+            <span class="badish">(138) 03:38:31</span>
+            <span class="badish">(139) 03:38:42</span>
+            <span class="badish">(140) 03:38:53</span>
+            <span class="badish">(141) 03:38:54</span>
+            <span class="badish">(142) 03:38:64</span>
+            <span class="badish">(143) 03:38:65</span>
+            <span class="badish">(144) 03:39:00</span>
+            <span class="badish">(145) 03:39:01</span>
+            <span class="badish">(146) 03:39:02</span>
+            <span class="badish">(147) 03:39:11</span>
+            <span class="badish">(148) 03:39:12</span>
+            <span class="badish">(149) 03:39:13</span>
+            <span class="badish">(150) 03:39:23</span>
+            <span class="badish">(151) 03:39:24</span>
+            <span class="badish">(152) 03:39:34</span>
+            <span class="badish">(153) 03:39:35</span>
+            <span class="badish">(154) 03:39:45</span>
+            <span class="badish">(155) 03:39:46</span>
+            <span class="badish">(156) 03:39:47</span>
+            <span class="badish">(157) 03:39:57</span>
+            <span class="badish">(158) 03:39:58</span>
+            <span class="badish">(159) 03:39:68</span>
+            <span class="badish">(160) 03:39:69</span>
+            <span class="badish">(161) 03:40:05</span>
+            <span class="badish">(162) 03:40:06</span>
+            <span class="badish">(163) 03:40:16</span>
+            <span class="badish">(164) 03:40:17</span>
+            <span class="badish">(165) 03:40:27</span>
+            <span class="badish">(166) 03:40:28</span>
+            <span class="badish">(167) 03:40:38</span>
+            <span class="badish">(168) 03:40:39</span>
+            <span class="badish">(169) 03:40:50</span>
+            <span class="badish">(170) 03:40:51</span>
+            <span class="badish">(171) 03:40:61</span>
+            <span class="badish">(172) 03:40:62</span>
+            <span class="badish">(173) 03:40:72</span>
+            <span class="badish">(174) 03:40:73</span>
+            <span class="badish">(175) 03:41:09</span>
+            <span class="badish">(176) 03:41:10</span>
+            <span class="badish">(177) 03:41:20</span>
+            <span class="badish">(178) 03:41:21</span>
+            <span class="badish">(179) 03:41:31</span>
+            <span class="badish">(180) 03:41:32</span>
+            <span class="badish">(181) 03:41:42</span>
+            <span class="badish">(182) 03:41:43</span>
+            <span class="badish">(183) 03:41:54</span>
+            <span class="badish">(184) 03:41:55</span>
+            <span class="badish">(185) 03:41:65</span>
+            <span class="badish">(186) 03:41:66</span>
+            <span class="badish">(187) 03:42:01</span>
+            <span class="badish">(188) 03:42:02</span>
+            <span class="badish">(189) 03:42:12</span>
+            <span class="badish">(190) 03:42:13</span>
+            <span class="badish">(191) 03:42:14</span>
+            <span class="badish">(192) 03:42:24</span>
+            <span class="badish">(193) 03:42:25</span>
+            <span class="badish">(194) 03:42:35</span>
+            <span class="badish">(195) 03:42:36</span>
+            <span class="badish">(196) 03:42:46</span>
+            <span class="badish">(197) 03:42:47</span>
+            <span class="badish">(198) 03:42:48</span>
+            <span class="badish">(199) 03:42:58</span>
+            <span class="badish">(200) 03:42:59</span>
+            <span class="badish">(201) 03:42:69</span>
+            <span class="badish">(202) 03:42:70</span>
+            <span class="badish">(203) 03:43:06</span>
+            <span class="badish">(204) 03:43:07</span>
+            <span class="badish">(205) 03:43:16</span>
+            <span class="badish">(206) 03:43:17</span>
+            <span class="badish">(207) 03:43:18</span>
+            <span class="badish">(208) 03:43:28</span>
+            <span class="badish">(209) 03:43:29</span>
+            <span class="badish">(210) 03:43:39</span>
+            <span class="badish">(211) 03:43:40</span>
+            <span class="badish">(212) 03:43:50</span>
+            <span class="badish">(213) 03:43:51</span>
+            <span class="badish">(214) 03:43:52</span>
+            <span class="badish">(215) 03:43:61</span>
+            <span class="badish">(216) 03:43:62</span>
+            <span class="badish">(217) 03:43:63</span>
+            <span class="badish">(218) 03:43:73</span>
+            <span class="badish">(219) 03:43:74</span>
+            <span class="badish">(220) 03:44:09</span>
+            <span class="badish">(221) 03:44:10</span>
+            <span class="badish">(222) 03:44:11</span>
+            <span class="badish">(223) 03:44:21</span>
+            <span class="badish">(224) 03:44:22</span>
+            <span class="badish">(225) 03:44:32</span>
+            <span class="badish">(226) 03:44:33</span>
+            <span class="badish">(227) 03:44:43</span>
+            <span class="badish">(228) 03:44:44</span>
+            <span class="badish">(229) 03:44:45</span>
+            <span class="badish">(230) 03:44:54</span>
+            <span class="badish">(231) 03:44:55</span>
+            <span class="badish">(232) 03:44:56</span>
+            <span class="badish">(233) 03:44:66</span>
+            <span class="badish">(234) 03:44:67</span>
+            <span class="badish">(235) 03:45:02</span>
+            <span class="badish">(236) 03:45:03</span>
+            <span class="badish">(237) 03:45:04</span>
+            <span class="badish">(238) 03:45:14</span>
+            <span class="badish">(239) 03:45:15</span>
+            <span class="badish">(240) 03:45:24</span>
+            <span class="badish">(241) 03:45:25</span>
+            <span class="badish">(242) 03:45:26</span>
+            <span class="badish">(243) 03:45:36</span>
+            <span class="badish">(244) 03:45:37</span>
+            <span class="badish">(245) 03:45:47</span>
+            <span class="badish">(246) 03:45:48</span>
+            <span class="badish">(247) 03:45:49</span>
+            <span class="badish">(248) 03:45:59</span>
+            <span class="badish">(249) 03:45:60</span>
+            <span class="badish">(250) 03:45:70</span>
+            <span class="badish">(251) 03:45:71</span>
+            <span class="badish">(252) 03:46:06</span>
+            <span class="badish">(253) 03:46:07</span>
+            <span class="badish">(254) 03:46:17</span>
+            <span class="badish">(255) 03:46:18</span>
+            <span class="badish">(256) 03:46:19</span>
+            <span class="badish">(257) 03:46:29</span>
+            <span class="badish">(258) 03:46:30</span>
+            <span class="badish">(259) 03:46:40</span>
+            <span class="badish">(260) 03:46:41</span>
+            <span class="badish">(261) 03:46:42</span>
+            <span class="badish">(262) 03:46:52</span>
+            <span class="badish">(263) 03:46:53</span>
+            <span class="badish">(264) 03:46:62</span>
+            <span class="badish">(265) 03:46:63</span>
+            <span class="badish">(266) 03:46:64</span>
+            <span class="badish">(267) 03:46:74</span>
+            <span class="badish">(268) 03:47:00</span>
+            <span class="badish">(269) 03:47:10</span>
+            <span class="badish">(270) 03:47:11</span>
+            <span class="badish">(271) 03:47:12</span>
+            <span class="badish">(272) 03:47:21</span>
+            <span class="badish">(273) 03:47:22</span>
+            <span class="badish">(274) 03:47:23</span>
+            <span class="badish">(275) 03:47:33</span>
+            <span class="badish">(276) 03:47:34</span>
+            <span class="badish">(277) 03:47:44</span>
+            <span class="badish">(278) 03:47:45</span>
+            <span class="badish">(279) 03:47:46</span>
+            <span class="badish">(280) 03:47:55</span>
+            <span class="badish">(281) 03:47:56</span>
+            <span class="badish">(282) 03:47:57</span>
+            <span class="badish">(283) 03:47:67</span>
+            <span class="badish">(284) 03:47:68</span>
+            <span class="badish">(285) 03:48:03</span>
+            <span class="badish">(286) 03:48:04</span>
+            <span class="badish">(287) 03:48:05</span>
+            <span class="badish">(288) 03:48:15</span>
+            <span class="badish">(289) 03:48:16</span>
+            <span class="badish">(290) 03:48:26</span>
+            <span class="badish">(291) 03:48:27</span>
+            <span class="badish">(292) 03:48:37</span>
+            <span class="badish">(293) 03:48:38</span>
+            <span class="badish">(294) 03:48:48</span>
+            <span class="badish">(295) 03:48:49</span>
+            <span class="badish">(296) 03:48:50</span>
+            <span class="badish">(297) 03:48:59</span>
+            <span class="badish">(298) 03:48:60</span>
+            <span class="badish">(299) 03:48:61</span>
+            <span class="badish">(300) 03:48:71</span>
+            <span class="badish">(301) 03:48:72</span>
+            <span class="badish">(302) 03:48:73</span>
+            <span class="badish">(303) 03:49:07</span>
+            <span class="badish">(304) 03:49:08</span>
+            <span class="badish">(305) 03:49:09</span>
+            <span class="badish">(306) 03:49:18</span>
+            <span class="badish">(307) 03:49:19</span>
+            <span class="badish">(308) 03:49:20</span>
+            <span class="badish">(309) 03:49:30</span>
+            <span class="badish">(310) 03:49:31</span>
+            <span class="badish">(311) 03:49:41</span>
+            <span class="badish">(312) 03:49:42</span>
+            <span class="badish">(313) 03:49:43</span>
+            <span class="badish">(314) 03:49:52</span>
+            <span class="badish">(315) 03:49:53</span>
+            <span class="badish">(316) 03:49:54</span>
+            <span class="badish">(317) 03:49:63</span>
+            <span class="badish">(318) 03:49:64</span>
+            <span class="badish">(319) 03:49:65</span>
+            <span class="badish">(320) 03:50:00</span>
+            <span class="badish">(321) 03:50:01</span>
+            <span class="badish">(322) 03:50:11</span>
+            <span class="badish">(323) 03:50:12</span>
+            <span class="badish">(324) 03:50:13</span>
+            <span class="badish">(325) 03:50:22</span>
+            <span class="badish">(326) 03:50:23</span>
+            <span class="badish">(327) 03:50:24</span>
+            <span class="badish">(328) 03:50:34</span>
+            <span class="badish">(329) 03:50:35</span>
+            <span class="badish">(330) 03:50:45</span>
+            <span class="badish">(331) 03:50:46</span>
+            <span class="badish">(332) 03:50:47</span>
+            <span class="badish">(333) 03:50:56</span>
+            <span class="badish">(334) 03:50:57</span>
+            <span class="badish">(335) 03:50:58</span>
+            <span class="badish">(336) 03:50:68</span>
+            <span class="badish">(337) 03:50:69</span>
+            <span class="badish">(338) 03:51:04</span>
+            <span class="badish">(339) 03:51:05</span>
+            <span class="badish">(340) 03:51:06</span>
+            <span class="badish">(341) 03:51:15</span>
+            <span class="badish">(342) 03:51:16</span>
+            <span class="badish">(343) 03:51:17</span>
+            <span class="badish">(344) 03:51:26</span>
+            <span class="badish">(345) 03:51:27</span>
+            <span class="badish">(346) 03:51:28</span>
+            <span class="badish">(347) 03:51:38</span>
+            <span class="badish">(348) 03:51:39</span>
+            <span class="badish">(349) 03:51:49</span>
+            <span class="badish">(350) 03:51:50</span>
+            <span class="badish">(351) 03:51:51</span>
+            <span class="badish">(352) 03:51:60</span>
+            <span class="badish">(353) 03:51:61</span>
+            <span class="badish">(354) 03:51:62</span>
+            <span class="badish">(355) 03:51:72</span>
+            <span class="badish">(356) 03:51:73</span>
+            <span class="badish">(357) 03:51:74</span>
+            <span class="badish">(358) 03:52:08</span>
+            <span class="badish">(359) 03:52:09</span>
+            <span class="badish">(360) 03:52:10</span>
+            <span class="badish">(361) 03:52:19</span>
+            <span class="badish">(362) 03:52:20</span>
+            <span class="badish">(363) 03:52:21</span>
+            <span class="badish">(364) 03:52:31</span>
+            <span class="badish">(365) 03:52:32</span>
+            <span class="badish">(366) 03:52:42</span>
+            <span class="badish">(367) 03:52:43</span>
+            <span class="badish">(368) 03:52:44</span>
+            <span class="badish">(369) 03:52:53</span>
+            <span class="badish">(370) 03:52:54</span>
+            <span class="badish">(371) 03:52:55</span>
+            <span class="badish">(372) 03:52:65</span>
+            <span class="badish">(373) 03:52:66</span>
+            <span class="badish">(374) 03:53:01</span>
+            <span class="badish">(375) 03:53:02</span>
+            <span class="badish">(376) 03:53:03</span>
+            <span class="badish">(377) 03:53:12</span>
+            <span class="badish">(378) 03:53:13</span>
+            <span class="badish">(379) 03:53:14</span>
+            <span class="badish">(380) 03:53:24</span>
+            <span class="badish">(381) 03:53:25</span>
+            <span class="badish">(382) 03:53:35</span>
+            <span class="badish">(383) 03:53:36</span>
+            <span class="badish">(384) 03:53:37</span>
+            <span class="badish">(385) 03:53:46</span>
+            <span class="badish">(386) 03:53:47</span>
+            <span class="badish">(387) 03:53:48</span>
+            <span class="badish">(388) 03:53:57</span>
+            <span class="badish">(389) 03:53:58</span>
+            <span class="badish">(390) 03:53:59</span>
+            <span class="badish">(391) 03:53:69</span>
+            <span class="badish">(392) 03:53:70</span>
+            <span class="badish">(393) 03:53:71</span>
+            <span class="badish">(394) 03:54:05</span>
+            <span class="badish">(395) 03:54:06</span>
+            <span class="badish">(396) 03:54:07</span>
+            <span class="badish">(397) 03:54:16</span>
+            <span class="badish">(398) 03:54:17</span>
+            <span class="badish">(399) 03:54:18</span>
+            <span class="badish">(400) 03:54:27</span>
+            <span class="badish">(401) 03:54:28</span>
+            <span class="badish">(402) 03:54:29</span>
+            <span class="badish">(403) 03:54:30</span>
+            <span class="badish">(404) 03:54:39</span>
+            <span class="badish">(405) 03:54:40</span>
+            <span class="badish">(406) 03:54:41</span>
+            <span class="badish">(407) 03:54:50</span>
+            <span class="badish">(408) 03:54:51</span>
+            <span class="badish">(409) 03:54:52</span>
+            <span class="badish">(410) 03:54:62</span>
+            <span class="badish">(411) 03:54:63</span>
+            <span class="badish">(412) 03:54:73</span>
+            <span class="badish">(413) 03:54:74</span>
+            <span class="badish">(414) 03:55:00</span>
+            <span class="badish">(415) 03:55:09</span>
+            <span class="badish">(416) 03:55:10</span>
+            <span class="badish">(417) 03:55:11</span>
+            <span class="badish">(418) 03:55:20</span>
+            <span class="badish">(419) 03:55:21</span>
+            <span class="badish">(420) 03:55:22</span>
+            <span class="badish">(421) 03:55:32</span>
+            <span class="badish">(422) 03:55:33</span>
+            <span class="badish">(423) 03:55:34</span>
+            <span class="badish">(424) 03:55:43</span>
+            <span class="badish">(425) 03:55:44</span>
+            <span class="badish">(426) 03:55:45</span>
+            <span class="badish">(427) 03:55:54</span>
+            <span class="badish">(428) 03:55:55</span>
+            <span class="badish">(429) 03:55:56</span>
+            <span class="badish">(430) 03:55:66</span>
+            <span class="badish">(431) 03:55:67</span>
+            <span class="badish">(432) 03:55:68</span>
+            <span class="badish">(433) 03:56:02</span>
+            <span class="badish">(434) 03:56:03</span>
+            <span class="badish">(435) 03:56:04</span>
+            <span class="badish">(436) 03:56:13</span>
+            <span class="badish">(437) 03:56:14</span>
+            <span class="badish">(438) 03:56:15</span>
+            <span class="badish">(439) 03:56:25</span>
+            <span class="badish">(440) 03:56:26</span>
+            <span class="badish">(441) 03:56:36</span>
+            <span class="badish">(442) 03:56:37</span>
+            <span class="badish">(443) 03:56:38</span>
+            <span class="badish">(444) 03:56:47</span>
+            <span class="badish">(445) 03:56:48</span>
+            <span class="badish">(446) 03:56:49</span>
+            <span class="badish">(447) 03:56:58</span>
+            <span class="badish">(448) 03:56:59</span>
+            <span class="badish">(449) 03:56:60</span>
+            <span class="badish">(450) 03:56:61</span>
+            <span class="badish">(451) 03:56:70</span>
+            <span class="badish">(452) 03:56:71</span>
+            <span class="badish">(453) 03:56:72</span>
+            <span class="badish">(454) 03:57:06</span>
+            <span class="badish">(455) 03:57:07</span>
+            <span class="badish">(456) 03:57:08</span>
+            <span class="badish">(457) 03:57:18</span>
+            <span class="badish">(458) 03:57:19</span>
+            <span class="badish">(459) 03:57:29</span>
+            <span class="badish">(460) 03:57:30</span>
+            <span class="badish">(461) 03:57:31</span>
+            <span class="badish">(462) 03:57:40</span>
+            <span class="badish">(463) 03:57:41</span>
+            <span class="badish">(464) 03:57:42</span>
+            <span class="badish">(465) 03:57:51</span>
+            <span class="badish">(466) 03:57:52</span>
+            <span class="badish">(467) 03:57:53</span>
+            <span class="badish">(468) 03:57:63</span>
+            <span class="badish">(469) 03:57:64</span>
+            <span class="badish">(470) 03:57:65</span>
+            <span class="badish">(471) 03:57:74</span>
+            <span class="badish">(472) 03:58:00</span>
+            <span class="badish">(473) 03:58:01</span>
+            <span class="badish">(474) 03:58:10</span>
+            <span class="badish">(475) 03:58:11</span>
+            <span class="badish">(476) 03:58:12</span>
+            <span class="badish">(477) 03:58:21</span>
+            <span class="badish">(478) 03:58:22</span>
+            <span class="badish">(479) 03:58:23</span>
+            <span class="badish">(480) 03:58:24</span>
+            <span class="badish">(481) 03:58:33</span>
+            <span class="badish">(482) 03:58:34</span>
+            <span class="badish">(483) 03:58:35</span>
+            <span class="badish">(484) 03:58:44</span>
+            <span class="badish">(485) 03:58:45</span>
+            <span class="badish">(486) 03:58:46</span>
+            <span class="badish">(487) 03:58:56</span>
+            <span class="badish">(488) 03:58:57</span>
+            <span class="badish">(489) 03:58:67</span>
+            <span class="badish">(490) 03:58:68</span>
+            <span class="badish">(491) 03:58:69</span>
+            <span class="badish">(492) 03:59:03</span>
+            <span class="badish">(493) 03:59:04</span>
+            <span class="badish">(494) 03:59:05</span>
+            <span class="badish">(495) 03:59:14</span>
+            <span class="badish">(496) 03:59:15</span>
+            <span class="badish">(497) 03:59:16</span>
+            <span class="badish">(498) 03:59:17</span>
+            <span class="badish">(499) 03:59:26</span>
+            <span class="badish">(500) 03:59:27</span>
+            <span class="badish">(501) 03:59:28</span>
+            <span class="badish">(502) 03:59:37</span>
+            <span class="badish">(503) 03:59:38</span>
+            <span class="badish">(504) 03:59:39</span>
+            <span class="badish">(505) 03:59:48</span>
+            <span class="badish">(506) 03:59:49</span>
+            <span class="badish">(507) 03:59:50</span>
+            <span class="badish">(508) 03:59:60</span>
+            <span class="badish">(509) 03:59:61</span>
+            <span class="badish">(510) 03:59:62</span>
+            <span class="badish">(511) 03:59:71</span>
+            <span class="badish">(512) 03:59:72</span>
+            <span class="badish">(513) 03:59:73</span>
+            <span class="badish">(514) 04:00:07</span>
+            <span class="badish">(515) 04:00:08</span>
+            <span class="badish">(516) 04:00:09</span>
+            <span class="badish">(517) 04:00:10</span>
+            <span class="badish">(518) 04:00:19</span>
+            <span class="badish">(519) 04:00:20</span>
+            <span class="badish">(520) 04:00:21</span>
+            <span class="badish">(521) 04:00:30</span>
+            <span class="badish">(522) 04:00:31</span>
+            <span class="badish">(523) 04:00:32</span>
+            <span class="badish">(524) 04:00:41</span>
+            <span class="badish">(525) 04:00:42</span>
+            <span class="badish">(526) 04:00:43</span>
+            <span class="badish">(527) 04:00:53</span>
+            <span class="badish">(528) 04:00:54</span>
+            <span class="badish">(529) 04:00:55</span>
+            <span class="badish">(530) 04:00:64</span>
+            <span class="badish">(531) 04:00:65</span>
+            <span class="badish">(532) 04:00:66</span>
+            <span class="badish">(533) 04:01:00</span>
+            <span class="badish">(534) 04:01:01</span>
+            <span class="badish">(535) 04:01:02</span>
+            <span class="badish">(536) 04:01:12</span>
+            <span class="badish">(537) 04:01:13</span>
+            <span class="badish">(538) 04:01:14</span>
+            <span class="badish">(539) 04:01:23</span>
+            <span class="badish">(540) 04:01:24</span>
+            <span class="badish">(541) 04:01:25</span>
+            <span class="badish">(542) 04:01:34</span>
+            <span class="badish">(543) 04:01:35</span>
+            <span class="badish">(544) 04:01:36</span>
+            <span class="badish">(545) 04:01:45</span>
+            <span class="badish">(546) 04:01:46</span>
+            <span class="badish">(547) 04:01:47</span>
+            <span class="badish">(548) 04:01:48</span>
+            <span class="badish">(549) 04:01:57</span>
+            <span class="badish">(550) 04:01:58</span>
+            <span class="badish">(551) 04:01:59</span>
+            <span class="badish">(552) 04:01:68</span>
+            <span class="badish">(553) 04:01:69</span>
+            <span class="badish">(554) 04:01:70</span>
+            <span class="badish">(555) 04:02:04</span>
+            <span class="badish">(556) 04:02:05</span>
+            <span class="badish">(557) 04:02:06</span>
+            <span class="badish">(558) 04:02:07</span>
+            <span class="badish">(559) 04:02:16</span>
+            <span class="badish">(560) 04:02:17</span>
+            <span class="badish">(561) 04:02:18</span>
+            <span class="badish">(562) 04:02:27</span>
+            <span class="badish">(563) 04:02:28</span>
+            <span class="badish">(564) 04:02:29</span>
+            <span class="badish">(565) 04:02:38</span>
+            <span class="badish">(566) 04:02:39</span>
+            <span class="badish">(567) 04:02:40</span>
+            <span class="badish">(568) 04:02:41</span>
+            <span class="badish">(569) 04:02:50</span>
+            <span class="badish">(570) 04:02:51</span>
+            <span class="badish">(571) 04:02:52</span>
+            <span class="badish">(572) 04:02:61</span>
+            <span class="badish">(573) 04:02:62</span>
+            <span class="badish">(574) 04:02:63</span>
+            <span class="badish">(575) 04:02:72</span>
+            <span class="badish">(576) 04:02:73</span>
+            <span class="badish">(577) 04:02:74</span>
+            <span class="badish">(578) 04:03:09</span>
+            <span class="badish">(579) 04:03:10</span>
+            <span class="badish">(580) 04:03:11</span>
+            <span class="badish">(581) 04:03:20</span>
+            <span class="badish">(582) 04:03:21</span>
+            <span class="badish">(583) 04:03:22</span>
+            <span class="badish">(584) 04:03:31</span>
+            <span class="badish">(585) 04:03:32</span>
+            <span class="badish">(586) 04:03:33</span>
+            <span class="badish">(587) 04:03:34</span>
+            <span class="badish">(588) 04:03:43</span>
+            <span class="badish">(589) 04:03:44</span>
+            <span class="badish">(590) 04:03:45</span>
+            <span class="badish">(591) 04:03:54</span>
+            <span class="badish">(592) 04:03:55</span>
+            <span class="badish">(593) 04:03:56</span>
+            <span class="badish">(594) 04:03:65</span>
+            <span class="badish">(595) 04:03:66</span>
+            <span class="badish">(596) 04:03:67</span>
+            <span class="badish">(597) 04:04:02</span>
+            <span class="badish">(598) 04:04:03</span>
+            <span class="badish">(599) 04:04:04</span>
+            <span class="badish">(600) 04:04:13</span>
+            <span class="badish">(601) 04:04:14</span>
+            <span class="badish">(602) 04:04:15</span>
+            <span class="badish">(603) 04:04:24</span>
+            <span class="badish">(604) 04:04:25</span>
+            <span class="badish">(605) 04:04:26</span>
+            <span class="badish">(606) 04:04:35</span>
+            <span class="badish">(607) 04:04:36</span>
+            <span class="badish">(608) 04:04:37</span>
+            <span class="badish">(609) 04:04:38</span>
+            <span class="badish">(610) 04:04:47</span>
+            <span class="badish">(611) 04:04:48</span>
+            <span class="badish">(612) 04:04:49</span>
+            <span class="badish">(613) 04:04:58</span>
+            <span class="badish">(614) 04:04:59</span>
+            <span class="badish">(615) 04:04:60</span>
+            <span class="badish">(616) 04:04:69</span>
+            <span class="badish">(617) 04:04:70</span>
+            <span class="badish">(618) 04:04:71</span>
+            <span class="badish">(619) 04:04:72</span>
+            <span class="badish">(620) 04:05:06</span>
+            <span class="badish">(621) 04:05:07</span>
+            <span class="badish">(622) 04:05:08</span>
+            <span class="badish">(623) 04:05:17</span>
+            <span class="badish">(624) 04:05:18</span>
+            <span class="badish">(625) 04:05:19</span>
+            <span class="badish">(626) 04:05:28</span>
+            <span class="badish">(627) 04:05:29</span>
+            <span class="badish">(628) 04:05:30</span>
+            <span class="badish">(629) 04:05:31</span>
+            <span class="badish">(630) 04:05:40</span>
+            <span class="badish">(631) 04:05:41</span>
+            <span class="badish">(632) 04:05:42</span>
+            <span class="badish">(633) 04:05:51</span>
+            <span class="badish">(634) 04:05:52</span>
+            <span class="badish">(635) 04:05:53</span>
+            <span class="badish">(636) 04:05:62</span>
+            <span class="badish">(637) 04:05:63</span>
+            <span class="badish">(638) 04:05:64</span>
+            <span class="badish">(639) 04:05:65</span>
+            <span class="badish">(640) 04:05:74</span>
+            <span class="badish">(641) 04:06:00</span>
+            <span class="badish">(642) 04:06:01</span>
+            <span class="badish">(643) 04:06:10</span>
+            <span class="badish">(644) 04:06:11</span>
+            <span class="badish">(645) 04:06:12</span>
+            <span class="badish">(646) 04:06:21</span>
+            <span class="badish">(647) 04:06:22</span>
+            <span class="badish">(648) 04:06:23</span>
+            <span class="badish">(649) 04:06:33</span>
+            <span class="badish">(650) 04:06:34</span>
+            <span class="badish">(651) 04:06:35</span>
+            <span class="badish">(652) 04:06:44</span>
+            <span class="badish">(653) 04:06:45</span>
+            <span class="badish">(654) 04:06:46</span>
+            <span class="badish">(655) 04:06:55</span>
+            <span class="badish">(656) 04:06:56</span>
+            <span class="badish">(657) 04:06:57</span>
+            <span class="badish">(658) 04:06:58</span>
+            <span class="badish">(659) 04:06:67</span>
+            <span class="badish">(660) 04:06:68</span>
+            <span class="badish">(661) 04:06:69</span>
+            <span class="badish">(662) 04:07:03</span>
+            <span class="badish">(663) 04:07:04</span>
+            <span class="badish">(664) 04:07:05</span>
+            <span class="badish">(665) 04:07:14</span>
+            <span class="badish">(666) 04:07:15</span>
+            <span class="badish">(667) 04:07:16</span>
+            <span class="badish">(668) 04:07:26</span>
+            <span class="badish">(669) 04:07:27</span>
+            <span class="badish">(670) 04:07:28</span>
+            <span class="badish">(671) 04:07:37</span>
+            <span class="badish">(672) 04:07:38</span>
+            <span class="badish">(673) 04:07:39</span>
+            <span class="badish">(674) 04:07:48</span>
+            <span class="badish">(675) 04:07:49</span>
+            <span class="badish">(676) 04:07:50</span>
+            <span class="badish">(677) 04:07:51</span>
+            <span class="badish">(678) 04:07:60</span>
+            <span class="badish">(679) 04:07:61</span>
+            <span class="badish">(680) 04:07:62</span>
+            <span class="badish">(681) 04:07:71</span>
+            <span class="badish">(682) 04:07:72</span>
+            <span class="badish">(683) 04:07:73</span>
+            <span class="badish">(684) 04:08:07</span>
+            <span class="badish">(685) 04:08:08</span>
+            <span class="badish">(686) 04:08:09</span>
+            <span class="badish">(687) 04:08:18</span>
+            <span class="badish">(688) 04:08:19</span>
+            <span class="badish">(689) 04:08:20</span>
+            <span class="badish">(690) 04:08:21</span>
+            <span class="badish">(691) 04:08:30</span>
+            <span class="badish">(692) 04:08:31</span>
+            <span class="badish">(693) 04:08:32</span>
+            <span class="badish">(694) 04:08:41</span>
+            <span class="badish">(695) 04:08:42</span>
+            <span class="badish">(696) 04:08:43</span>
+            <span class="badish">(697) 04:08:52</span>
+            <span class="badish">(698) 04:08:53</span>
+            <span class="badish">(699) 04:08:54</span>
+            <span class="badish">(700) 04:08:55</span>
+            <span class="badish">(701) 04:08:64</span>
+            <span class="badish">(702) 04:08:65</span>
+            <span class="badish">(703) 04:08:66</span>
+            <span class="badish">(704) 04:09:00</span>
+            <span class="badish">(705) 04:09:01</span>
+            <span class="badish">(706) 04:09:02</span>
+            <span class="badish">(707) 04:09:11</span>
+            <span class="badish">(708) 04:09:12</span>
+            <span class="badish">(709) 04:09:13</span>
+            <span class="badish">(710) 04:09:14</span>
+            <span class="badish">(711) 04:09:23</span>
+            <span class="badish">(712) 04:09:24</span>
+            <span class="badish">(713) 04:09:25</span>
+            <span class="badish">(714) 04:09:34</span>
+            <span class="badish">(715) 04:09:35</span>
+            <span class="badish">(716) 04:09:36</span>
+            <span class="badish">(717) 04:09:45</span>
+            <span class="badish">(718) 04:09:46</span>
+            <span class="badish">(719) 04:09:47</span>
+            <span class="badish">(720) 04:09:48</span>
+            <span class="badish">(721) 04:09:57</span>
+            <span class="badish">(722) 04:09:58</span>
+            <span class="badish">(723) 04:09:59</span>
+            <span class="badish">(724) 04:09:68</span>
+
+<span class="badish">Some inconsistencies found</span>
+
+<span class="good">End of status report</span>
+
+<span class="good">-----BEGIN XLD SIGNATURE-----
+.yIARFqbk3Ub4E6nbUbIkyA32GkuL1ET4L3FF6tG59RXhwJNan_imDRPS8Hcx5z1XSSA21_sXkkN8c.8Ue.vFFdEg5Xrq5hFR6k4F.4
+-----END XLD SIGNATURE-----</span>

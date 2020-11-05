@@ -1,0 +1,219 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 13. October 2014, 14:55</span></span>
+
+<span class="log4">Nick Brignola / Poinciana</span>
+
+<span class="log5">Used drive  </span>: <span class="good">ATAPI   iHAS124   Y   Adapter: 0  ID: 0</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">48</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">896 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">6:20.00</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">28499</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">6:20.00</span> <strong>|</strong>  <span class="log1">8:22.00</span> <strong>|</strong>     <span class="log1">28500</span>    <strong>|</strong>    <span class="log1">66149</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">14:42.00</span> <strong>|</strong>  <span class="log1">5:39.00</span> <strong>|</strong>     <span class="log1">66150</span>    <strong>|</strong>    <span class="log1">91574</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">20:21.00</span> <strong>|</strong>  <span class="log1">5:13.00</span> <strong>|</strong>     <span class="log1">91575</span>    <strong>|</strong>   <span class="log1">115049</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">25:34.00</span> <strong>|</strong>  <span class="log1">6:16.00</span> <strong>|</strong>    <span class="log1">115050</span>    <strong>|</strong>   <span class="log1">143249</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">31:50.00</span> <strong>|</strong>  <span class="log1">8:21.00</span> <strong>|</strong>    <span class="log1">143250</span>    <strong>|</strong>   <span class="log1">180824</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">40:11.00</span> <strong>|</strong>  <span class="log1">8:02.00</span> <strong>|</strong>    <span class="log1">180825</span>    <strong>|</strong>   <span class="log1">216974</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">48:13.00</span> <strong>|</strong>  <span class="log1">5:58.00</span> <strong>|</strong>    <span class="log1">216975</span>    <strong>|</strong>   <span class="log1">243824</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">54:11.00</span> <strong>|</strong>  <span class="log1">4:35.00</span> <strong>|</strong>    <span class="log1">243825</span>    <strong>|</strong>   <span class="log1">264449</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">58:46.00</span> <strong>|</strong>  <span class="log1">6:39.30</span> <strong>|</strong>    <span class="log1">264450</span>    <strong>|</strong>   <span class="log1">294404</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\01 - Poinciana.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">43E07BBB</span></span>
+     <span class="log4">Copy CRC <span class="good">43E07BBB</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [2B132006]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\02 - Well You Needn&#x27;t.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">CD0E49E1</span></span>
+     <span class="log4">Copy CRC <span class="good">CD0E49E1</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [D496DA48]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\03 - Sign Post.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">AA24AE2E</span></span>
+     <span class="log4">Copy CRC <span class="good">AA24AE2E</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [31AFAEA5]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\04 - What&#x27;ll I Do.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="bad">Suspicious position 0:01:53 - 0:01:54</span>
+     <span class="bad">Suspicious position 0:01:58</span>
+     <span class="bad">Suspicious position 0:02:00</span>
+     <span class="bad">Suspicious position 0:02:02</span>
+     <span class="bad">Suspicious position 0:02:51</span>
+     <span class="bad">Suspicious position 0:02:55 - 0:02:56</span>
+     <span class="bad">Suspicious position 0:03:00 - 0:03:01</span>
+     <span class="bad">Suspicious position 0:03:11 - 0:03:12</span>
+     <span class="bad">Suspicious position 0:03:15</span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">0.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">97.3 %</span></span>
+     <span class="log4">Test CRC <span class="bad">CE3DA5DB</span></span>
+     <span class="log4">Copy CRC <span class="bad">B5BCAF5F</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 1)  [34C07EB2], AccurateRip returned [5359A3A7]  (AR v2)</span>
+     <span class="log3">Copy finished</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\05 - April Mist.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">5C7C0596</span></span>
+     <span class="log4">Copy CRC <span class="good">5C7C0596</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [7DD05FF7]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\06 - Ghost of a Chance.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.58</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">559A85B9</span></span>
+     <span class="log4">Copy CRC <span class="good">559A85B9</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [4E6056B3]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\07 - Upper Manhattan Medical Group.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="bad">Suspicious position 0:02:09</span>
+     <span class="bad">Suspicious position 0:07:27</span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.5 %</span></span>
+     <span class="log4">Test CRC <span class="bad">6E2BCC06</span></span>
+     <span class="log4">Copy CRC <span class="bad">A1E4DF9E</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 1)  [3586A7CB], AccurateRip returned [ECF4856A]  (AR v2)</span>
+     <span class="log3">Copy finished</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\08 - Airegin.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">42AC472C</span></span>
+     <span class="log4">Copy CRC <span class="good">42AC472C</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [5A454EA1]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\09 - When You Wish Upon a Star.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.7 %</span></span>
+     <span class="log4">Test CRC <span class="good">C45E0DB9</span></span>
+     <span class="log4">Copy CRC <span class="good">C45E0DB9</span></span>
+     <span class="good">Accurately ripped (confidence 1)  [56E43E08]  (AR v1)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">H:\What.CD Recent Rips\Nick Brignola - Poinciana (FLAC)\10 - Outside In.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.60</span></span>
+
+     <span class="bad">Suspicious position 0:01:45 - 0:01:46</span>
+     <span class="bad">Suspicious position 0:02:53</span>
+     <span class="bad">Suspicious position 0:02:56</span>
+
+     <span class="log4">Peak level <span class="log3">97.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">0.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">98.3 %</span></span>
+     <span class="log4">Test CRC <span class="bad">FBC8E81E</span></span>
+     <span class="log4">Copy CRC <span class="bad">B2A0B89E</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 1)  [14B16726], AccurateRip returned [50F55C9F]  (AR v2)</span>
+     <span class="log3">Copy finished</span>
+
+
+<span class="good"> 7 track(s) accurately ripped</span>
+<span class="badish"> 3 track(s) could not be verified as accurate</span>
+
+<span class="badish">Some tracks could not be verified as accurate</span>
+
+<span class="bad">There were errors</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: V9HsJ2q31O_YP2vn2ZebFaeP8vQ-] disk not present in database, Submit result: insufficient quality
+
+
+==== Log checksum 1391E059BBBAB16B8AE639B2DC72FE13270675E326C9867745ADDF2C3B9D2B6A ====

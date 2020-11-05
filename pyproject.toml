@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "heybrochecklog"
+version = "1.3.2"
+description = "A python tool for evaluating and working with EAC/XLD rip logs."
+authors = ["lights <lights@tutanota.de>"]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/ligh7s/hey-bro-check-log"
+keywords = ["logchecker", "eac", "xld"]
+include = [
+    "heybrochecklog/resources/*",
+    "heybrochecklog/resources/eac/*",
+    "heybrochecklog/resources/eac95/*",
+]
+
+[tool.poetry.scripts]
+heybrochecklog = 'heybrochecklog.__main__:runner'
+
+[tool.poetry.dependencies]
+python = "^3.5"
+chardet = "^3.0.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.3.5"
+
+[tool.black]
+line-length = 88
+target-version = ['py35']
+skip-string-normalization = true
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

@@ -1,0 +1,192 @@
+EAC extraction logfile from 6. September 2006, 16:00 for CD
+The Rolling Stones / Exile On Main Street
+
+Used drive  : PLEXTOR CD-R   PX-W5224A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Program Files\Lame\lame.exe   (User Defined Encoder)
+                     320 kBit/s
+                     Additional command line options : -V 0 --vbr-new --add-id3v2 --pad-id3v2 --ta "%a" --tt "%t" --tl "%g" --ty "%y" --tn "%n" %s %d
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename D:\music files\eac own cd\01 - Rocks Off.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 86.9 %
+     Track quality 99.9 %
+     Test CRC C33FBDE2
+     Copy CRC C33FBDE2
+     Copy OK
+
+Track  2
+     Filename D:\music files\eac own cd\02 - Rip This Joint.wav
+
+     Peak level 91.5 %
+     Track quality 100.0 %
+     Test CRC EFA16E3D
+     Copy CRC EFA16E3D
+     Copy OK
+
+Track  3
+     Filename D:\music files\eac own cd\03 - Shake Your Hips.wav
+
+     Peak level 69.6 %
+     Track quality 100.0 %
+     Test CRC 0656F5A9
+     Copy CRC 0656F5A9
+     Copy OK
+
+Track  4
+     Filename D:\music files\eac own cd\04 - Casino Boogie.wav
+
+     Peak level 99.2 %
+     Track quality 100.0 %
+     Test CRC 9B9404C6
+     Copy CRC 9B9404C6
+     Copy OK
+
+Track  5
+     Filename D:\music files\eac own cd\05 - Tumbling Dice.wav
+
+     Peak level 91.1 %
+     Track quality 100.0 %
+     Test CRC 12CDD644
+     Copy CRC 12CDD644
+     Copy OK
+
+Track  6
+     Filename D:\music files\eac own cd\06 - Sweet Virginia.wav
+
+     Peak level 92.9 %
+     Track quality 100.0 %
+     Test CRC EC0AE46B
+     Copy CRC EC0AE46B
+     Copy OK
+
+Track  7
+     Filename D:\music files\eac own cd\07 - Torn And Frayed.wav
+
+     Pre-gap length  0:00:00.43
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 0712DC72
+     Copy CRC 0712DC72
+     Copy OK
+
+Track  8
+     Filename D:\music files\eac own cd\08 - Sweet Black Angel.wav
+
+     Pre-gap length  0:00:00.15
+
+     Peak level 78.7 %
+     Track quality 100.0 %
+     Test CRC 4CCE79FE
+     Copy CRC 4CCE79FE
+     Copy OK
+
+Track  9
+     Filename D:\music files\eac own cd\09 - Loving Cup.wav
+
+     Pre-gap length  0:00:00.25
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 6687351D
+     Copy CRC 6687351D
+     Copy OK
+
+Track 10
+     Filename D:\music files\eac own cd\10 - Happy.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 1C238B32
+     Copy CRC 1C238B32
+     Copy OK
+
+Track 11
+     Filename D:\music files\eac own cd\11 - Turd On The Run.wav
+
+     Peak level 81.1 %
+     Track quality 99.8 %
+     Test CRC 69D65474
+     Copy CRC 69D65474
+     Copy OK
+
+Track 12
+     Filename D:\music files\eac own cd\12 - Ventilator Blues.wav
+
+     Peak level 89.8 %
+     Track quality 100.0 %
+     Test CRC A78C9318
+     Copy CRC A78C9318
+     Copy OK
+
+Track 13
+     Filename D:\music files\eac own cd\13 - Just Wanna See His Face.wav
+
+     Peak level 68.1 %
+     Track quality 100.0 %
+     Test CRC EE119853
+     Copy CRC EE119853
+     Copy OK
+
+Track 14
+     Filename D:\music files\eac own cd\14 - Let It Loose.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Test CRC BAA80513
+     Copy CRC BAA80513
+     Copy OK
+
+Track 15
+     Filename D:\music files\eac own cd\15 - All Down The Line.wav
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC D3EDE177
+     Copy CRC D3EDE177
+     Copy OK
+
+Track 16
+     Filename D:\music files\eac own cd\16 - Stop Breaking Down.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC BE0BAA8A
+     Copy CRC BE0BAA8A
+     Copy OK
+
+Track 17
+     Filename D:\music files\eac own cd\17 - Shine A Light.wav
+
+     Peak level 77.9 %
+     Track quality 100.0 %
+     Test CRC C698F4EA
+     Copy CRC C698F4EA
+     Copy OK
+
+Track 18
+     Filename D:\music files\eac own cd\18 - Soul Survivor.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 96CCE6EA
+     Copy CRC 96CCE6EA
+     Copy OK
+
+No errors occured
+
+
+End of status report

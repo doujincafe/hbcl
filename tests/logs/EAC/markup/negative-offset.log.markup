@@ -1,0 +1,235 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 4</span> from <span class="log1">23. January 2008</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 1. May 2009, 21:06</span></span>
+
+<span class="log4">Aphrodite&#x27;s Child / 666 (CD1)</span>
+
+<span class="log5">Used drive  </span>:    <span class="good">LG   CD-ROM CRD-8322B   Adapter: 0  ID: 1</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">-24</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">256 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files\FLAC\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -A tukey(0.25) -A gauss(0.1875) -b 4096 -V -T &quot;artist=%a&quot; -T &quot;title=%t&quot; -T &quot;album=%g&quot; -T &quot;date=%y&quot; -T &quot;tracknumber=%n&quot; -T &quot;genre=%m&quot; %s --sector-align</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.33</span> <strong>|</strong>  <span class="log1">0:23.35</span> <strong>|</strong>        <span class="log1">33</span>    <strong>|</strong>     <span class="log1">1792</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">0:23.68</span> <strong>|</strong>  <span class="log1">2:47.40</span> <strong>|</strong>      <span class="log1">1793</span>    <strong>|</strong>    <span class="log1">14357</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">3:11.33</span> <strong>|</strong>  <span class="log1">2:42.50</span> <strong>|</strong>     <span class="log1">14358</span>    <strong>|</strong>    <span class="log1">26557</span>   
+        <span class="log4">4</span>  <strong>|</strong>  <span class="log1">5:54.08</span> <strong>|</strong>  <span class="log1">5:53.32</span> <strong>|</strong>     <span class="log1">26558</span>    <strong>|</strong>    <span class="log1">53064</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">11:47.40</span> <strong>|</strong>  <span class="log1">4:34.55</span> <strong>|</strong>     <span class="log1">53065</span>    <strong>|</strong>    <span class="log1">73669</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">16:22.20</span> <strong>|</strong>  <span class="log1">1:30.50</span> <strong>|</strong>     <span class="log1">73670</span>    <strong>|</strong>    <span class="log1">80469</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">17:52.70</span> <strong>|</strong>  <span class="log1">5:22.50</span> <strong>|</strong>     <span class="log1">80470</span>    <strong>|</strong>   <span class="log1">104669</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">23:15.45</span> <strong>|</strong>  <span class="log1">1:28.73</span> <strong>|</strong>    <span class="log1">104670</span>    <strong>|</strong>   <span class="log1">111342</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">24:44.43</span> <strong>|</strong>  <span class="log1">1:11.52</span> <strong>|</strong>    <span class="log1">111343</span>    <strong>|</strong>   <span class="log1">116719</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">25:56.20</span> <strong>|</strong>  <span class="log1">2:45.13</span> <strong>|</strong>    <span class="log1">116720</span>    <strong>|</strong>   <span class="log1">129107</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">28:41.33</span> <strong>|</strong>  <span class="log1">2:00.37</span> <strong>|</strong>    <span class="log1">129108</span>    <strong>|</strong>   <span class="log1">138144</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">30:41.70</span> <strong>|</strong>  <span class="log1">0:56.00</span> <strong>|</strong>    <span class="log1">138145</span>    <strong>|</strong>   <span class="log1">142344</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">31:37.70</span> <strong>|</strong>  <span class="log1">1:44.00</span> <strong>|</strong>    <span class="log1">142345</span>    <strong>|</strong>   <span class="log1">150144</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">33:21.70</span> <strong>|</strong>  <span class="log1">0:32.25</span> <strong>|</strong>    <span class="log1">150145</span>    <strong>|</strong>   <span class="log1">152569</span>   
+       <span class="log4">15</span>  <strong>|</strong> <span class="log1">33:54.20</span> <strong>|</strong>  <span class="log1">2:26.00</span> <strong>|</strong>    <span class="log1">152570</span>    <strong>|</strong>   <span class="log1">163519</span>   
+       <span class="log4">16</span>  <strong>|</strong> <span class="log1">36:20.20</span> <strong>|</strong>  <span class="log1">0:14.63</span> <strong>|</strong>    <span class="log1">163520</span>    <strong>|</strong>   <span class="log1">164632</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\01 - Aphrodite&#x27;s Child - The System.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.44</span></span>
+
+     <span class="log4">Peak level <span class="log3">72.4 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">218020B3</span></span>
+     <span class="log4">Copy CRC <span class="good">218020B3</span></span>
+     <span class="good">Accurately ripped (confidence 26)  [68A7D430]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\02 - Aphrodite&#x27;s Child - Babylon.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">95.4 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">B226DF5D</span></span>
+     <span class="log4">Copy CRC <span class="good">B226DF5D</span></span>
+     <span class="good">Accurately ripped (confidence 26)  [A8A0CB82]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\03 - Aphrodite&#x27;s Child - Loud, Loud, Loud.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">67.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">44156B1E</span></span>
+     <span class="log4">Copy CRC <span class="good">44156B1E</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [3A405C88]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\04 - Aphrodite&#x27;s Child - The Four Horsemen.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">6564E52F</span></span>
+     <span class="log4">Copy CRC <span class="good">6564E52F</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [E0D434FB]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\05 - Aphrodite&#x27;s Child - The Lamb.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">C12D490B</span></span>
+     <span class="log4">Copy CRC <span class="good">C12D490B</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [F7BD8466]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\06 - Aphrodite&#x27;s Child - The Seventh Seal.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">74.3 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">BCBB84C3</span></span>
+     <span class="log4">Copy CRC <span class="good">BCBB84C3</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [38F82D6B]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\07 - Aphrodite&#x27;s Child - Aegian Sea.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">E051575D</span></span>
+     <span class="log4">Copy CRC <span class="good">E051575D</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [3D25DE32]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\08 - Aphrodite&#x27;s Child - Seven Bowls.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">73.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">791777D7</span></span>
+     <span class="log4">Copy CRC <span class="good">791777D7</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [08DD9B8F]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\09 - Aphrodite&#x27;s Child - The Wakening Beast.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">54.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">AEE40F09</span></span>
+     <span class="log4">Copy CRC <span class="good">AEE40F09</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [F42D848A]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\10 - Aphrodite&#x27;s Child - Lament.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">15.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">66970043</span></span>
+     <span class="log4">Copy CRC <span class="good">66970043</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [D183BC42]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\11 - Aphrodite&#x27;s Child - The Marching Beast.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">87.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">50F1B66E</span></span>
+     <span class="log4">Copy CRC <span class="good">50F1B66E</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [94CB8FDA]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\12 - Aphrodite&#x27;s Child - The Battle Of The Locusts.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">C3090FF6</span></span>
+     <span class="log4">Copy CRC <span class="good">C3090FF6</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [98525B92]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\13 - Aphrodite&#x27;s Child - Do It.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">5060AB59</span></span>
+     <span class="log4">Copy CRC <span class="good">5060AB59</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [398A969B]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\14 - Aphrodite&#x27;s Child - Tribulation.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">87.3 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">CD8C72D6</span></span>
+     <span class="log4">Copy CRC <span class="good">CD8C72D6</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [0E6D75DF]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\15 - Aphrodite&#x27;s Child - The Beast.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">AA06A89D</span></span>
+     <span class="log4">Copy CRC <span class="good">AA06A89D</span></span>
+     <span class="good">Accurately ripped (confidence 27)  [82349135]</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\16 - Aphrodite&#x27;s Child - Ofis.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">70.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D8E45068</span></span>
+     <span class="log4">Copy CRC <span class="good">D8E45068</span></span>
+     <span class="good">Accurately ripped (confidence 25)  [0198A8CF]</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="good">All tracks accurately ripped</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>

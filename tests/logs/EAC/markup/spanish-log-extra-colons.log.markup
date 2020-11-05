@@ -1,0 +1,230 @@
+Exact Audio Copy <span class="log1">V1.3</span> from <span class="log1">2. September 2016</span>
+
+<span class="good">Archivo <span class="log5">Log de extracciones desde 26. Mayo 2018, 13:25</span></span>
+
+<span class="log4">おニャン子クラブ / Circle</span>
+
+<span class="log5">Usar unidad  </span>: <span class="badish">HL-DT-STDVDRAM GH24NS95   Adapter: 1  ID: 0 (not found in database)</span>
+
+<span class="log5">Modo de Lectura   </span>:        <span class="good">: Seguro</span>
+<span class="log5">Utilizar corriente precisa </span>: <span class="good">Sí</span>
+<span class="log5">Caché de audio por defecto </span>: <span class="bad">No</span>
+<span class="log5">Utilizar los punteros C2   </span>: <span class="good">No</span>
+
+<span class="log5">Corrección de Desplazamiento de Lectura </span>:     <span class="good">: 6</span>
+<span class="log5">Sobreleer tanto en Lead-In como en Lead-Out   </span>: <span class="log4">No</span>
+<span class="log5">Rellenar las muestras faltantes con silencios </span>: <span class="good">Sí</span>
+<span class="log5">Eliminar silencios inicial y final            </span>: <span class="good">No</span>
+<span class="log5">Muestras nulas usadas en los calculos de CRC  </span>: <span class="good">Sí</span>
+<span class="log5">Interfaz usada                                </span>: <span class="log4">Interfaz propio de Win32 para Windowns NT y 2000</span>
+<span class="log5">Manejo de huecos                              </span>: <span class="bad">No se detectó, por lo que anexa a la pista anterior</span>
+
+<span class="log5">Formato de Salida utilizado </span>:                <span class="log4">: Compresor definido por el Usuario</span>
+<span class="log5">Velocidad de bits seleccionada               </span>: <span class="log4">768 kBit/s</span>
+<span class="log5">Calidad                                      </span>: <span class="log4">Alta</span>
+<span class="log5">Añadir ID3 tag                               </span>: <span class="good">No</span>
+<span class="log5">linea de comandos del compresor              </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Opciones adicionales en línea de comandos </span>:  <span class="log4">: -6 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;COMMENT=%comment%&quot; -T &quot;BAND=%albuminterpret%&quot; -T &quot;ALBUMARTIST=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; %hascover%--picture=&quot;%coverfile%&quot;%hascover% %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC extraídos del CD</span>
+
+<strong>     Pista |  Inicio  | Longitud | Inicio del sector | Fin del sector </strong>
+    <strong>------------------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">1:34.15</span> <strong>|</strong>           <span class="log1">0</span>       <strong>|</strong>       <span class="log1">7064</span>     
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">1:34.15</span> <strong>|</strong>  <span class="log1">4:08.12</span> <strong>|</strong>        <span class="log1">7065</span>       <strong>|</strong>      <span class="log1">25676</span>     
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">5:42.27</span> <strong>|</strong>  <span class="log1">4:15.73</span> <strong>|</strong>       <span class="log1">25677</span>       <strong>|</strong>      <span class="log1">44874</span>     
+        <span class="log4">4</span>  <strong>|</strong>  <span class="log1">9:58.25</span> <strong>|</strong>  <span class="log1">3:59.50</span> <strong>|</strong>       <span class="log1">44875</span>       <strong>|</strong>      <span class="log1">62849</span>     
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">13:58.00</span> <strong>|</strong>  <span class="log1">3:56.35</span> <strong>|</strong>       <span class="log1">62850</span>       <strong>|</strong>      <span class="log1">80584</span>     
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">17:54.35</span> <strong>|</strong>  <span class="log1">3:49.55</span> <strong>|</strong>       <span class="log1">80585</span>       <strong>|</strong>      <span class="log1">97814</span>     
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">21:44.15</span> <strong>|</strong>  <span class="log1">4:19.50</span> <strong>|</strong>       <span class="log1">97815</span>       <strong>|</strong>     <span class="log1">117289</span>     
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">26:03.65</span> <strong>|</strong>  <span class="log1">4:21.70</span> <strong>|</strong>      <span class="log1">117290</span>       <strong>|</strong>     <span class="log1">136934</span>     
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">30:25.60</span> <strong>|</strong>  <span class="log1">4:15.65</span> <strong>|</strong>      <span class="log1">136935</span>       <strong>|</strong>     <span class="log1">156124</span>     
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">34:41.50</span> <strong>|</strong>  <span class="log1">3:35.45</span> <strong>|</strong>      <span class="log1">156125</span>       <strong>|</strong>     <span class="log1">172294</span>     
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">38:17.20</span> <strong>|</strong>  <span class="log1">3:47.45</span> <strong>|</strong>      <span class="log1">172295</span>       <strong>|</strong>     <span class="log1">189364</span>     
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">42:04.65</span> <strong>|</strong>  <span class="log1">3:18.47</span> <strong>|</strong>      <span class="log1">189365</span>       <strong>|</strong>     <span class="log1">204261</span>     
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">45:23.37</span> <strong>|</strong>  <span class="log1">3:56.25</span> <strong>|</strong>      <span class="log1">204262</span>       <strong>|</strong>     <span class="log1">221986</span>     
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">49:19.62</span> <strong>|</strong>  <span class="log1">1:50.10</span> <strong>|</strong>      <span class="log1">221987</span>       <strong>|</strong>     <span class="log1">230246</span>     
+
+
+<span class="log5">Pista  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\01 サークル (opening).wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">57.5 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.6 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">FE4D6955</span></span>
+     <span class="good">Extraida con precisión (confidencia 1)  [0D9371E1]  (AR v2)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\02 プリズム.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">67.0 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">7.9 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">1C9C8E18</span></span>
+     <span class="good">Extraida con precisión (confidencia 1)  [479F58FC]  (AR v2)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\03 碧いスケッチ.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">72.5 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">5.0 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">99.9 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">DB087B48</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [CD79DE9A]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\04 恋のミスマッチ.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">83.9 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">4.6 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">99.9 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">5C410144</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [88D2FFEE]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\05 圧巻! FLASH UP.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">69.5 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">4.2 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">F0FADD07</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [72D44691]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\06 ONE WAY ROAD.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">70.5 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">5.5 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">99.9 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">C253A0E3</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [9D4FB66F]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\07 寒い8月.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">54.0 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.3 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">B617A28A</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [069BDC28]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\08 こんな空の下で.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">71.9 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">2.8 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">99.9 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">C3A9F462</span></span>
+     <span class="good">Extraida con precisión (confidencia 1)  [40FBAEB7]  (AR v2)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\09 季節のノック.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">68.2 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.0 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">BA04F4AA</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [AFCA1886]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista <span class="log4 log1">10</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\10 次のページを開いて.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">77.7 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.2 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">BCA37D1A</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [DE61605D]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista <span class="log4 log1">11</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\11 風に抱かれて.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">85.9 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.2 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">18905E4E</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [92AF9407]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista <span class="log4 log1">12</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\12 ちょっとほの気のタイミング.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">65.8 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.4 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">64C257B0</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [FA5F2985]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista <span class="log4 log1">13</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\13 雲の上はいつも.wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">63.8 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.4 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">7E3CBDEA</span></span>
+     <span class="good">Extraida con precisión (confidencia 2)  [6BC9586F]  (AR v1)</span>
+     <span class="good">Copia OK</span>
+
+<span class="log5">Pista <span class="log4 log1">14</span></span>
+
+     <span class="log4">Nombre de Archivo <span class="log3">C:\Users\Master\Music\Nueva carpeta\Disc 1\14 サークル (ending).wav</span></span>
+
+     <span class="log4">Nivel Pico <span class="log3">77.2 %</span></span>
+     <span class="log4">Velocidad de extracción <span class="log3">3.4 X</span></span>
+     <span class="log4">Calidad de Pista <span class="log3">100.0 %</span></span>
+     <span class="log4">Copiar CRC <span class="badish">DE017DF0</span></span>
+     <span class="good">Extraida con precisión (confidencia 1)  [ED086BE6]  (AR v2)</span>
+     <span class="good">Copia OK</span>
+
+
+<span class="good">Todas las pistas extraidas con precisión</span>
+
+<span class="good">Sin Errores</span>
+
+<span class="good">Final del Informe</span>
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: jUT2L0Zx9bzGbYG0dtkwwjdoHFI-] found
+Submit result: already submitted
+Track | CTDB Status
+  1   | (7/7) Accurately ripped
+  2   | (7/7) Accurately ripped
+  3   | (7/7) Accurately ripped
+  4   | (7/7) Accurately ripped
+  5   | (7/7) Accurately ripped
+  6   | (7/7) Accurately ripped
+  7   | (7/7) Accurately ripped
+  8   | (7/7) Accurately ripped
+  9   | (7/7) Accurately ripped
+ 10   | (7/7) Accurately ripped
+ 11   | (7/7) Accurately ripped
+ 12   | (7/7) Accurately ripped
+ 13   | (7/7) Accurately ripped
+ 14   | (7/7) Accurately ripped
+

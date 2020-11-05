@@ -1,0 +1,192 @@
+<span class="good">EAC <span class="log5">extraction logfile from 6. September 2006, 16:00 for CD</span></span>
+<span class="log4">The Rolling Stones / Exile On Main Street</span>
+
+<span class="log5">Used drive  </span>: <span class="good">PLEXTOR CD-R   PX-W5224A   Adapter: 1  ID: 0</span>
+<span class="log5">Read mode   </span>: <span class="log4">Secure with C2, accurate stream, disable cache</span>
+<span class="log5">Combined read/write offset correction </span>: <span class="bad">0</span>
+<span class="log5">Overread into Lead-In and Lead-Out </span>: <span class="log4">No</span>
+
+<span class="log5">Used output format </span>: <span class="log4">C:\Program Files\Lame\lame.exe   (User Defined Encoder)</span>
+                     320 kBit/s
+                     <span class="log5">Additional command line options </span>: <span class="log4">-V 0 --vbr-new --add-id3v2 --pad-id3v2 --ta &quot;%a&quot; --tt &quot;%t&quot; --tl &quot;%g&quot; --ty &quot;%y&quot; --tn &quot;%n&quot; %s %d</span>
+
+<span class="log4"></span><span class="log5">Other options      </span>: 
+    <span class="log5">Fill up missing offset samples with silence </span>: <span class="log4">Yes</span>
+    <span class="log5">Delete leading and trailing silent blocks </span>: <span class="log4">No</span>
+    Native Win32 interface for Win NT &amp; 2000
+
+
+<sp<span class="log5">an class="log4 log5">Track  <span class="log4 log1">1</span></span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\01 - Rocks Off.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">86.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">C33FBDE2</span></span>
+     <span class="log4">Copy CRC <span class="good">C33FBDE2</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\02 - Rip This Joint.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">91.5 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EFA16E3D</span></span>
+     <span class="log4">Copy CRC <span class="good">EFA16E3D</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\03 - Shake Your Hips.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">69.6 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0656F5A9</span></span>
+     <span class="log4">Copy CRC <span class="good">0656F5A9</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\04 - Casino Boogie.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.2 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9B9404C6</span></span>
+     <span class="log4">Copy CRC <span class="good">9B9404C6</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\05 - Tumbling Dice.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">91.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">12CDD644</span></span>
+     <span class="log4">Copy CRC <span class="good">12CDD644</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\06 - Sweet Virginia.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">92.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EC0AE46B</span></span>
+     <span class="log4">Copy CRC <span class="good">EC0AE46B</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\07 - Torn And Frayed.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.43</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">0712DC72</span></span>
+     <span class="log4">Copy CRC <span class="good">0712DC72</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\08 - Sweet Black Angel.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.15</span></span>
+
+     <span class="log4">Peak level <span class="log3">78.7 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">4CCE79FE</span></span>
+     <span class="log4">Copy CRC <span class="good">4CCE79FE</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\09 - Loving Cup.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.25</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">6687351D</span></span>
+     <span class="log4">Copy CRC <span class="good">6687351D</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\10 - Happy.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">1C238B32</span></span>
+     <span class="log4">Copy CRC <span class="good">1C238B32</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\11 - Turd On The Run.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">81.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">69D65474</span></span>
+     <span class="log4">Copy CRC <span class="good">69D65474</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\12 - Ventilator Blues.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">89.8 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">A78C9318</span></span>
+     <span class="log4">Copy CRC <span class="good">A78C9318</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\13 - Just Wanna See His Face.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">68.1 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EE119853</span></span>
+     <span class="log4">Copy CRC <span class="good">EE119853</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\14 - Let It Loose.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">BAA80513</span></span>
+     <span class="log4">Copy CRC <span class="good">BAA80513</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\15 - All Down The Line.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">94.4 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D3EDE177</span></span>
+     <span class="log4">Copy CRC <span class="good">D3EDE177</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\16 - Stop Breaking Down.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BE0BAA8A</span></span>
+     <span class="log4">Copy CRC <span class="good">BE0BAA8A</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">17</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\17 - Shine A Light.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">77.9 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">C698F4EA</span></span>
+     <span class="log4">Copy CRC <span class="good">C698F4EA</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">18</span></span>
+     <span class="log4">Filename <span class="log3">D:\music files\eac own cd\18 - Soul Survivor.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">96CCE6EA</span></span>
+     <span class="log4">Copy CRC <span class="good">96CCE6EA</span></span>
+     <span class="good">Copy OK</span>
+
+<span class="good">No errors occured</span>
+
+
+<span class="good">End of status report</span>

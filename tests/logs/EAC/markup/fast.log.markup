@@ -1,0 +1,63 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 31. August 2014, 9:42</span></span>
+
+<span class="log4">Genesis / Abacab [19313-2 800044-2]</span>
+
+<span class="log5">Used drive </span>: <span class="badish">HL-DT-STBD-RE WH14NS40 Adapter: 3 ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode </span>: <span class="bad">Fast</span>
+
+<span class="log5">Read offset correction </span>: <span class="good">6</span>
+<span class="log5">Overread into Lead-In and Lead-Out </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations </span>: <span class="good">Yes</span>
+<span class="log5">Used interface </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+Track | Start | Length | Start sector | End sector
+---------------------------------------------------------
+	1 | 0:00.37 | 6:58.70 | 37 | 31456 
+	2 | 6:59.32 | 4:39.23 | 31457 | 52404 
+	3 | 11:38.55 | 5:59.62 | 52405 | 79391 
+	4 | 17:38.42 | 4:31.25 | 79392 | 99741 
+	5 | 22:09.67 | 7:29.43 | 99742 | 133459 
+	6 | 29:39.35 | 3:24.52 | 133460 | 148811 
+	7 | 33:04.12 | 4:25.13 | 148812 | 168699 
+	8 | 37:29.25 | 4:52.52 | 168700 | 190651 
+	9 | 42:22.02 | 4:21.63 | 190652 | 210289 
+
+
+R<span class="log5">ange status and errors</span>
+
+<span class="badish">Selected range</span>
+
+    <span class="log4">Filename <span class="log3">C:\EAC\Genesis - Abacab [19313-2 800044-2]\Genesis - Abacab [19313-2 800044-2].wav</span></span>
+
+    <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+    <span class="log4">Extraction speed <span class="log3">5.5 X</span></span>
+    <span class="log4">Copy CRC <span class="badish">A4C47653</span></span>
+    <span class="good">Copy OK</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="log4 log5">AccurateRip summary</span>
+Track 1 cannot be verified as accurate (confidence 23) [68C1C10C], AccurateRip returned [42B8A10C] (AR v2)
+Track 2 cannot be verified as accurate (confidence 22) [C0181E28], AccurateRip returned [9A24A648] (AR v2)
+Track 3 cannot be verified as accurate (confidence 22) [5C0A99E8], AccurateRip returned [AFAF005C] (AR v2)
+Track 4 cannot be verified as accurate (confidence 21) [6C1A7CE6], AccurateRip returned [F1085052] (AR v2)
+Track 5 cannot be verified as accurate (confidence 20) [C6FB5E67], AccurateRip returned [ED9EB427] (AR v2)
+Track 6 cannot be verified as accurate (confidence 20) [1200A9FB], AccurateRip returned [022E57DB] (AR v2)
+Track 7 cannot be verified as accurate (confidence 19) [55E9D57F], AccurateRip returned [79DAD723] (AR v2)
+Track 8 cannot be verified as accurate (confidence 19) [3E2AF80F], AccurateRip returned [450721D5] (AR v2)
+Track 9 cannot be verified as accurate (confidence 21) [369B26AF], AccurateRip returned [8515378B] (AR v2)
+<span class="badish">No tracks could be verified as accurate</span>
+<span class="badish">You may have a different pressing from the one(s) in the database</span>
+
+<span class="good">End of status report</span>

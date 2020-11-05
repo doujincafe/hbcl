@@ -1,0 +1,72 @@
+EAC extraction logfile from 29. January 2007, 20:27 for CD
+Luomo / Vocalcity
+
+Used drive  : PIONEER DVD-RW  DVR-106D   Adapter: 1  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Program Files\Exact Audio Copy\lame.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -V 0 --vbr-new --add-id3v2 --pad-id3v2 --ta "%a" --tt "%t" --tl "%g" --ty "%y" --tn "%n" %s %d
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename D:\Music\Luomo\Luomo - Vocalcity\01 Market.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.5 %
+     Track quality 100.0 %
+     Copy CRC 965600D8
+     Copy OK
+
+Track  2
+     Filename D:\Music\Luomo\Luomo - Vocalcity\02 Class.wav
+
+     Peak level 98.4 %
+     Track quality 100.0 %
+     Copy CRC 6CE86AF5
+     Copy OK
+
+Track  3
+     Filename D:\Music\Luomo\Luomo - Vocalcity\03 Synkro.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 623A57EC
+     Copy OK
+
+Track  4
+     Filename D:\Music\Luomo\Luomo - Vocalcity\04 The Right Wing.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC D9B80369
+     Copy OK
+
+Track  5
+     Filename D:\Music\Luomo\Luomo - Vocalcity\05 Tessio.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC F2151670
+     Copy OK
+
+Track  6
+     Filename D:\Music\Luomo\Luomo - Vocalcity\06 She-center.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Copy CRC 822774DA
+     Copy OK
+
+No errors occured
+
+
+End of status report

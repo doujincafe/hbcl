@@ -1,0 +1,98 @@
+X Lossless Decoder version 20170729 (150.3)
+
+XLD extraction logfile from 2017-08-01 14:56:16 -0300
+
+KARA / ジャンピン
+
+Used drive : VBOX CD-ROM (revision 1.0)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:00:27 |         0    |    13526   
+        2  | 03:00:27 | 03:32:48 |     13527    |    29474   
+        3  | 06:33:00 | 02:59:05 |     29475    |    42904   
+
+AccurateRip Summary (DiscID: 00014f93-0004617c-1e023c03)
+    Track 01 : OK (v1+v2, confidence 11/11)
+    Track 02 : OK (v1+v2, confidence 9/9)
+    Track 03 : OK (v1+v2, confidence 9/9)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/dubious/xld rips/01. ジャンピン.flac
+    Album gain               : -11.92 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : F55D3134
+    CRC32 hash               : F55D3134
+    CRC32 hash (skip zero)   : 2154552F
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.95 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 0248840B
+    CRC32 hash               : 0248840B
+    CRC32 hash (skip zero)   : 8DAB64A0
+    AccurateRip v1 signature : AB11CF3F
+    AccurateRip v2 signature : 0021EFA8
+        ->Accurately ripped (v1+v2, confidence 5+6/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    Track gain               : -12.51 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : DB57CD66
+    CRC32 hash               : DB57CD66
+    CRC32 hash (skip zero)   : 15D163C0
+    AccurateRip v1 signature : D627D9F5
+    AccurateRip v2 signature : 689E1528
+        ->Accurately ripped (v1+v2, confidence 3+6/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    Track gain               : -9.38 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 07AB8339
+    CRC32 hash               : 07AB8339
+    CRC32 hash (skip zero)   : 73FCDD4A
+    AccurateRip v1 signature : A61A5EA8
+    AccurateRip v2 signature : 7081171C
+        ->Accurately ripped (v1+v2, confidence 4+5/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+9NvFdxRPNWm8G8dJyzLLbEkLcpVqzExZwC1NJ6OKyjUQNpvIZZ24MD3aoglPsjyU28tRYNsxO11FjHIvl3E1vavNwxiVZ1gT_RhqPDq
+-----END XLD SIGNATURE-----

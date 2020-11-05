@@ -1,0 +1,229 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 21. December 2012, 18:06</span></span>
+
+<span class="log4">Angantyr / Forvist</span>
+
+<span class="log5">Used Drive  </span>: <span class="badish">HL-DT-STDVD-ROM GDRH10N   Adapter: 0  ID: 3 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong> <span class="log1">11:28.66</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">51665</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">11:28.66</span> <strong>|</strong>  <span class="log1">6:06.45</span> <strong>|</strong>     <span class="log1">51666</span>    <strong>|</strong>    <span class="log1">79160</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">17:35.36</span> <strong>|</strong>  <span class="log1">7:40.09</span> <strong>|</strong>     <span class="log1">79161</span>    <strong>|</strong>   <span class="log1">113669</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">25:15.45</span> <strong>|</strong>  <span class="log1">6:29.70</span> <strong>|</strong>    <span class="log1">113670</span>    <strong>|</strong>   <span class="log1">142914</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">31:45.40</span> <strong>|</strong>  <span class="log1">7:08.17</span> <strong>|</strong>    <span class="log1">142915</span>    <strong>|</strong>   <span class="log1">175031</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">38:53.57</span> <strong>|</strong>  <span class="log1">9:05.32</span> <strong>|</strong>    <span class="log1">175032</span>    <strong>|</strong>   <span class="log1">215938</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">47:59.14</span> <strong>|</strong>  <span class="log1">9:15.16</span> <strong>|</strong>    <span class="log1">215939</span>    <strong>|</strong>   <span class="log1">257579</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 01 - Track01.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+
+<span class="badish">No tracks could be verified as accurate</span>
+
+<span class="bad">There were errors</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum A998B759D68762BF728BB2D631F14B995A3B32144E0C517F07488857DBA600C9 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 21. December 2012, 18:55</span></span>
+
+<span class="log4">Angantyr / Forvist</span>
+
+<span class="log5">Used Drive  </span>: <span class="badish">HL-DT-STDVD-ROM GDRH10N   Adapter: 0  ID: 3 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong> <span class="log1">11:28.66</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">51665</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">11:28.66</span> <strong>|</strong>  <span class="log1">6:06.45</span> <strong>|</strong>     <span class="log1">51666</span>    <strong>|</strong>    <span class="log1">79160</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">17:35.36</span> <strong>|</strong>  <span class="log1">7:40.09</span> <strong>|</strong>     <span class="log1">79161</span>    <strong>|</strong>   <span class="log1">113669</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">25:15.45</span> <strong>|</strong>  <span class="log1">6:29.70</span> <strong>|</strong>    <span class="log1">113670</span>    <strong>|</strong>   <span class="log1">142914</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">31:45.40</span> <strong>|</strong>  <span class="log1">7:08.17</span> <strong>|</strong>    <span class="log1">142915</span>    <strong>|</strong>   <span class="log1">175031</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">38:53.57</span> <strong>|</strong>  <span class="log1">9:05.32</span> <strong>|</strong>    <span class="log1">175032</span>    <strong>|</strong>   <span class="log1">215938</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">47:59.14</span> <strong>|</strong>  <span class="log1">9:15.16</span> <strong>|</strong>    <span class="log1">215939</span>    <strong>|</strong>   <span class="log1">257579</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 01 - Lænket.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">16A2A66E</span></span>
+     <span class="log4">Copy CRC <span class="good">16A2A66E</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 02 - I Forfædres Fodspor.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">9E23F45B</span></span>
+     <span class="log4">Copy CRC <span class="good">9E23F45B</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 03 - Vemods Hjemstavn.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">A9E353F4</span></span>
+     <span class="log4">Copy CRC <span class="good">A9E353F4</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 04 - Forvist.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">6FC0B388</span></span>
+     <span class="log4">Copy CRC <span class="good">6FC0B388</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 05 - Fælles Fjende.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">14108AE8</span></span>
+     <span class="log4">Copy CRC <span class="good">14108AE8</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 06 - Stille Skarpe Knive.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">9.6 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">4558051B</span></span>
+     <span class="log4">Copy CRC <span class="good">4558051B</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\uTorrent\Angantyr - Forvist 2012 (FLAC)\ 07 - Skovens Egne Våben.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">97.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">10.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">FC556363</span></span>
+     <span class="log4">Copy CRC <span class="good">FC556363</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">None of the tracks are present in the AccurateRip database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: nP0jqxhne.gdDK2arvj76XjCAOo-] found, Submit result: nP0jqxhne.gdDK2arvj76XjCAOo- has been confirmed
+[55e84e4d] (1/1) Accurately ripped
+
+
+==== Log checksum 8AFCABF3243149A6E0189FA8C285CAD198195EF7378BCB40800B65ACA6C1D4F2 ====

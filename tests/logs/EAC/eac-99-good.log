@@ -1,0 +1,111 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 15. May 2009, 22:21
+
+Above & Beyond  / Far From In Love
+
+Used drive  : Optiarc DVD RW AD-7191A   Adapter: 1  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=ripped by Leontiou" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  7:20.28 |         0    |    33027   
+        2  |  7:20.28 |  8:14.72 |     33028    |    70149   
+        3  | 15:35.25 | 10:02.07 |     70150    |   115306   
+        4  | 25:37.32 |  6:49.34 |    115307    |   146015   
+        5  | 32:26.66 |  5:27.49 |    146016    |   170589   
+
+
+Track  1
+
+     Filename G:\Music\01. Far From In Love [original mix].wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Test CRC 0DDFDEF3
+     Copy CRC 0DDFDEF3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\Music\02. Far From In Love [san francisco mix].wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Test CRC EE2A86D2
+     Copy CRC EE2A86D2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\Music\03. Far From In Love [shane54 on spec remix].wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 9493C6AF
+     Copy CRC 9493C6AF
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename G:\Music\04. Far From In Love [airbase remix].wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.7 %
+     Track quality 99.9 %
+     Test CRC D6E0F8AE
+     Copy CRC D6E0F8AE
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename G:\Music\05. Far From In Love [complexz remix].wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 5B05B9F5
+     Copy CRC 5B05B9F5
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

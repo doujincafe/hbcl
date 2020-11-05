@@ -1,0 +1,38 @@
+{
+    "drive": ["Used [Dd]rive"],
+    "settings": {
+        "Read mode": ["(?:Ripper|Use cdparanoia) mode"],
+        "Audio cache": ["Disable audio cache"],
+        "C2 pointers": ["Make use of C2 pointers"],
+        "Drive offset": ["Read offset correction"],
+        "Gap handling": ["Gap status"]
+    },
+    "proper settings": {
+        "Read mode": ["XLD Secure Ripper"],
+        "Audio cache": ["OK for the drive with(?: a)? cache less than [0-9]+Ki?B"],
+        "C2 pointers": ["NO"],
+        "Gap handling": ["Analyzed, Appended(?: \\(except HTOA\\))?"]
+    },
+    "disc type": ["Media type"],
+    "toc": ["TOC of the extracted CD"],
+    "track": ["Track"],
+    "All Tracks": ["All Tracks"],
+    "track settings": {
+        "gain": ["Track gain"],
+        "filename": ["Filename"],
+        "pregap": ["Pre-gap length"],
+        "peak": ["Peak"],
+        "test crc": ["CRC32 hash \\(test run\\)"],
+        "copy crc": ["CRC32 hash"]
+    },
+    "track errors": {
+        "Read error": ["Read error"],
+        "Damaged sector count": ["Damaged sector count"]
+    },
+    "accuraterip": {
+        "match": ["->Accurately ripped!? \\((?:[v12,+]+ )?confidence ([0-9\\/+]+)\\)"],
+        "no match": ["->Track not present in AccurateRip database"]
+    },
+    "footer": ["End of status report"],
+    "checksum": ["-----BEGIN XLD SIGNATURE-----"]
+}

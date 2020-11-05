@@ -1,0 +1,92 @@
+Exact Audio Copy <span class="log1">V0.99 prebeta 3</span> from <span class="log1">28. July 2007</span>
+
+<span class="good">Отчёт <span class="log5">EAC об извлечении, выполненном 27. января 2010, 17:07</span></span>
+
+<span class="log4">Men At Work / Men At Work   Definitive Collection</span>
+
+<span class="log5">Дисковод</span>: <span class="badish">MATSHITADVD-RAM SW-9573S   Adapter: 1  ID: 0 (not found in database)</span>
+
+<span class="log5">Режим чтения                 </span>: <span class="good">Достоверность</span>
+<span class="log5">Использование точного потока </span>: <span class="good">Да</span>
+<span class="log5">Отключение кэша аудио        </span>: <span class="good">Да</span>
+<span class="log5">Использование указателей C2  </span>: <span class="good">Нет</span>
+
+<span class="log5">Коррекция смещения при чтении                     </span>: <span class="good">102</span>
+<span class="log5">Способность читать области Lead-in и Lead-out     </span>: <span class="log4">Да</span>
+<span class="log5">Заполнение пропущенных сэмплов тишиной            </span>: <span class="good">Да</span>
+<span class="log5">Удаление блоков с тишиной в начале и конце        </span>: <span class="good">Нет</span>
+<span class="log5">При вычислениях CRC использовались нулевые сэмплы </span>: <span class="good">Да</span>
+<span class="log5">Интерфейс                                         </span>: <span class="log4">Установленный внешний ASPI-интерфейс</span>
+
+<span class="log5">Выходной формат          </span>: <span class="log4">Пользовательский кодировщик</span>
+<span class="log5">Выбранный битрейт        </span>: <span class="log4">128 kBit/s</span>
+<span class="log5">Качество                 </span>: <span class="log4">Высокий</span>
+<span class="log5">Добавление ID3-тэга      </span>: <span class="good">Нет</span>
+<span class="log5">Утилита сжатия           </span>: <span class="log4">C:\Program Files\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Дополнительные параметры </span>: <span class="log4">-8 -V -T &quot;ARTIST=%a&quot; -T &quot;TITLE=%t&quot; -T &quot;ALBUM=%g&quot; -T &quot;DATE=%y&quot; -T &quot;TRACKNUMBER=%n&quot; -T &quot;GENRE=%m&quot; -T &quot;COMMENT=EAC FLAC -8&quot; %s</span>
+
+
+<span class="log4 log5">TOC извлечённого CD</span>
+
+<strong>     Трек |   Старт  | Длительность | Начальный сектор | Конечный сектор </strong>
+    <strong>---------------------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>    <span class="log1">3:43.25</span>   <strong>|</strong>           <span class="log1">0</span>      <strong>|</strong>      <span class="log1">16749</span>      
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">3:43.25</span> <strong>|</strong>    <span class="log1">3:22.50</span>   <strong>|</strong>       <span class="log1">16750</span>      <strong>|</strong>      <span class="log1">31949</span>      
+       <span class="log4">3</span>  <strong>|</strong>  <span class="log1">7:06.00</span> <strong>|</strong>    <span class="log1">3:29.50</span>   <strong>|</strong>       <span class="log1">31950</span>      <strong>|</strong>      <span class="log1">47674</span>      
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">10:35.50</span> <strong>|</strong>    <span class="log1">6:51.12</span>   <strong>|</strong>       <span class="log1">47675</span>      <strong>|</strong>      <span class="log1">78511</span>      
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">17:26.62</span> <strong>|</strong>    <span class="log1">3:36.00</span>   <strong>|</strong>       <span class="log1">78512</span>      <strong>|</strong>      <span class="log1">94711</span>      
+       <span class="log4">6</span>  <strong>|</strong> <span class="log1">21:02.62</span> <strong>|</strong>    <span class="log1">3:29.68</span>   <strong>|</strong>       <span class="log1">94712</span>      <strong>|</strong>     <span class="log1">110454</span>      
+       <span class="log4">7</span>  <strong>|</strong> <span class="log1">24:32.55</span> <strong>|</strong>    <span class="log1">3:04.57</span>   <strong>|</strong>      <span class="log1">110455</span>      <strong>|</strong>     <span class="log1">124311</span>      
+       <span class="log4">8</span>  <strong>|</strong> <span class="log1">27:37.37</span> <strong>|</strong>    <span class="log1">3:39.68</span>   <strong>|</strong>      <span class="log1">124312</span>      <strong>|</strong>     <span class="log1">140804</span>      
+       <span class="log4">9</span>  <strong>|</strong> <span class="log1">31:17.30</span> <strong>|</strong>    <span class="log1">3:29.20</span>   <strong>|</strong>      <span class="log1">140805</span>      <strong>|</strong>     <span class="log1">156499</span>      
+      <span class="log4">10</span>  <strong>|</strong> <span class="log1">34:46.50</span> <strong>|</strong>    <span class="log1">3:45.70</span>   <strong>|</strong>      <span class="log1">156500</span>      <strong>|</strong>     <span class="log1">173444</span>      
+      <span class="log4">11</span>  <strong>|</strong> <span class="log1">38:32.45</span> <strong>|</strong>    <span class="log1">4:33.05</span>   <strong>|</strong>      <span class="log1">173445</span>      <strong>|</strong>     <span class="log1">193924</span>      
+      <span class="log4">12</span>  <strong>|</strong> <span class="log1">43:05.50</span> <strong>|</strong>    <span class="log1">4:36.12</span>   <strong>|</strong>      <span class="log1">193925</span>      <strong>|</strong>     <span class="log1">214636</span>      
+      <span class="log4">13</span>  <strong>|</strong> <span class="log1">47:41.62</span> <strong>|</strong>    <span class="log1">4:00.50</span>   <strong>|</strong>      <span class="log1">214637</span>      <strong>|</strong>     <span class="log1">232686</span>      
+      <span class="log4">14</span>  <strong>|</strong> <span class="log1">51:42.37</span> <strong>|</strong>    <span class="log1">6:05.58</span>   <strong>|</strong>      <span class="log1">232687</span>      <strong>|</strong>     <span class="log1">260119</span>      
+      <span class="log4">15</span>  <strong>|</strong> <span class="log1">57:48.20</span> <strong>|</strong>    <span class="log1">3:54.55</span>   <strong>|</strong>      <span class="log1">260120</span>      <strong>|</strong>     <span class="log1">277724</span>      
+      <span class="log4">16</span>  <strong>|</strong> <span class="log1">61:43.00</span> <strong>|</strong>    <span class="log1">3:36.32</span>   <strong>|</strong>      <span class="log1">277725</span>      <strong>|</strong>     <span class="log1">293956</span>      
+      <span class="log4">17</span>  <strong>|</strong> <span class="log1">65:19.32</span> <strong>|</strong>    <span class="log1">3:54.18</span>   <strong>|</strong>      <span class="log1">293957</span>      <strong>|</strong>     <span class="log1">311524</span>      
+      <span class="log4">18</span>  <strong>|</strong> <span class="log1">69:13.50</span> <strong>|</strong>    <span class="log1">3:37.55</span>   <strong>|</strong>      <span class="log1">311525</span>      <strong>|</strong>     <span class="log1">327854</span>      
+      <span class="log4">19</span>  <strong>|</strong> <span class="log1">72:51.30</span> <strong>|</strong>    <span class="log1">3:16.63</span>   <strong>|</strong>      <span class="log1">327855</span>      <strong>|</strong>     <span class="log1">342617</span>      
+
+
+Ха<span class="log5">рактеристики диапазона извлечения и сообщения об ошибках</span>
+
+<span class="badish">Выбранный диапазон</span>
+
+     <span class="log4">Имя файла <span class="log3">C:\Тооренты на раздачу\Музыка на раздачу\Проба флойд\Men At Work   Definitive Collection\Men At Work - Men At Work   Definitive Collection.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Качество диапазона <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC копии <span class="badish">20DC03D2</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="good">Ошибок не произошло</span>
+
+ 
+<span class="log4 log5">AccurateRip: сводка</span>
+ 
+Трек  1  точное извлечение (доверие 16)  [512F2B2A]
+Трек  2  точное извлечение (доверие 17)  [B08B997D]
+Трек  3  точное извлечение (доверие 17)  [1568FA5C]
+Трек  4  точное извлечение (доверие 17)  [BC69B02F]
+Трек  5  точное извлечение (доверие 17)  [762AE42A]
+Трек  6  точное извлечение (доверие 17)  [E24C2B9B]
+Трек  7  точное извлечение (доверие 17)  [98840EB7]
+Трек  8  точное извлечение (доверие 17)  [276302B4]
+Трек  9  точное извлечение (доверие 17)  [BAFD0A16]
+Трек 10  точное извлечение (доверие 17)  [235CA1EB]
+Трек 11  точное извлечение (доверие 17)  [3D287271]
+Трек 12  точное извлечение (доверие 17)  [35E618D8]
+Трек 13  точное извлечение (доверие 17)  [E99C480C]
+Трек 14  точное извлечение (доверие 17)  [38DE4D05]
+Трек 15  точное извлечение (доверие 17)  [AE8207CB]
+Трек 16  точное извлечение (доверие 18)  [DA7C32C1]
+Трек 17  точное извлечение (доверие 18)  [8B087142]
+Трек 18  точное извлечение (доверие 18)  [83FD9E73]
+Трек 19  точное извлечение (доверие 18)  [57737E2F]
+ 
+<span class="good">Все треки извлечены точно</span>
+
+<span class="good">Конец отчёта</span>

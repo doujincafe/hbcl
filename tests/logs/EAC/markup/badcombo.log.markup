@@ -1,0 +1,253 @@
+Exact Audio Copy <span class="log1">V1.1</span> from <span class="log1">23. June 2015</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 10. October 2017, 16:26</span></span>
+
+<span class="log4">The Idol Formerly Known As LADYBABY / Pinky! Pinky!</span>
+
+<span class="log5">Used Drive  </span>: <span class="badish">HL-DT-STDVDRAM GTA0N   Adapter: 0  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -e -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">3:39.38</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">16462</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">3:39.38</span> <strong>|</strong>  <span class="log1">4:26.14</span> <strong>|</strong>     <span class="log1">16463</span>    <strong>|</strong>    <span class="log1">36426</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">8:05.52</span> <strong>|</strong>  <span class="log1">3:50.30</span> <strong>|</strong>     <span class="log1">36427</span>    <strong>|</strong>    <span class="log1">53706</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">11:56.07</span> <strong>|</strong>  <span class="log1">3:39.39</span> <strong>|</strong>     <span class="log1">53707</span>    <strong>|</strong>    <span class="log1">70170</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:35.46</span> <strong>|</strong>  <span class="log1">4:26.13</span> <strong>|</strong>     <span class="log1">70171</span>    <strong>|</strong>    <span class="log1">90133</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">20:01.59</span> <strong>|</strong>  <span class="log1">3:47.60</span> <strong>|</strong>     <span class="log1">90134</span>    <strong>|</strong>   <span class="log1">107218</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\01. The Idol Formerly Known As LADYBABY - Pinky! Pinky!.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BB4D8C98</span></span>
+     <span class="log4">Copy CRC <span class="good">BB4D8C98</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\02. The Idol Formerly Known As LADYBABY - Me! Me! Me!.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.09</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">12883401</span></span>
+     <span class="log4">Copy CRC <span class="good">12883401</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\03. The Idol Formerly Known As LADYBABY - Generation Hard Knocks.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.60</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">C32A98D0</span></span>
+     <span class="log4">Copy CRC <span class="good">C32A98D0</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\04. The Idol Formerly Known As LADYBABY - Pinky! Pinky! -off vocal ver.-.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.60</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.10</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:01.60</span></span>
+
+     <span class="bad">Copy aborted</span>
+
+
+<span class="badish"> 3 track(s) not present in the AccurateRip database</span>
+<span class="bad"> 3 track(s) canceled</span>
+
+<span class="badish">No tracks could be verified as accurate</span>
+
+<span class="bad">There were errors</span>
+
+<span class="good">End of status report</span>
+
+==== Log checksum 9E68AC91D4A02965BCFD28E6435F5FC3B28F3E4B2A63E1BD2DC21AD77401D795 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy <span class="log1">V1.1</span> from <span class="log1">23. June 2015</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 10. October 2017, 17:02</span></span>
+
+<span class="log4">The Idol Formerly Known As LADYBABY / Pinky! Pinky!</span>
+
+<span class="log5">Used Drive  </span>: <span class="badish">HL-DT-STDVDRAM GTA0N   Adapter: 0  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Installed external ASPI interface</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Not detected, thus appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -e -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T</span> 
+&quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">3:39.38</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">16462</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">3:39.38</span> <strong>|</strong>  <span class="log1">4:26.14</span> <strong>|</strong>     <span class="log1">16463</span>    <strong>|</strong>    <span class="log1">36426</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">8:05.52</span> <strong>|</strong>  <span class="log1">3:50.30</span> <strong>|</strong>     <span class="log1">36427</span>    <strong>|</strong>    <span class="log1">53706</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">11:56.07</span> <strong>|</strong>  <span class="log1">3:39.39</span> <strong>|</strong>     <span class="log1">53707</span>    <strong>|</strong>    <span class="log1">70170</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:35.46</span> <strong>|</strong>  <span class="log1">4:26.13</span> <strong>|</strong>     <span class="log1">70171</span>    <strong>|</strong>    <span class="log1">90133</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">20:01.59</span> <strong>|</strong>  <span class="log1">3:47.60</span> <strong>|</strong>     <span class="log1">90134</span>    <strong>|</strong>   <span class="log1">107218</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\01. The Idol Formerly Known As LADYBABY - Pinky! Pinky!.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BB4D8C98</span></span>
+     <span class="log4">Copy CRC <span class="good">BB4D8C98</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\02. The Idol Formerly Known As LADYBABY - Me! Me! Me!.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">12883401</span></span>
+     <span class="log4">Copy CRC <span class="good">12883401</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\03. The Idol Formerly Known As LADYBABY - Generation Hard Knocks.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">C32A98D0</span></span>
+     <span class="log4">Copy CRC <span class="good">C32A98D0</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\04. The Idol Formerly Known As LADYBABY - Pinky! Pinky! -off vocal ver.-.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.6 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">CB740C55</span></span>
+     <span class="log4">Copy CRC <span class="good">CB740C55</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\05. The Idol Formerly Known As LADYBABY - Me! Me! Me! -off vocal ver.-.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">698FA190</span></span>
+     <span class="log4">Copy CRC <span class="good">698FA190</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\06. The Idol Formerly Known As LADYBABY - Generation Hard Knocks -off vocal ver.-.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">98.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">1.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">04963882</span></span>
+     <span class="log4">Copy CRC <span class="good">04963882</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">None of the tracks are present in the AccurateRip database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: mL2SXsLVGnTnvIbRAJlIlIoOYuA-] found
+Submit result: mL2SXsLVGnTnvIbRAJlIlIoOYuA- has been confirmed
+Track | CTDB Status
+  1   | (3/3) Accurately ripped
+  2   | (3/3) Accurately ripped
+  3   | (3/3) Accurately ripped
+  4   | (3/3) Accurately ripped
+  5   | (3/3) Accurately ripped
+  6   | (2/3) Accurately ripped
+
+
+==== Log checksum 226685DE2A99E5B86F5006CE0D85F9781BB9B5AF620C46F4F30E68BFC86029E1 ====

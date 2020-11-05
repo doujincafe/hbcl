@@ -1,0 +1,203 @@
+X Lossless Decoder version 20101010 (123.3)
+
+XLD extraction logfile from 2010-10-19 23:18:43 +0300
+
+Sixtoo / Antagonist Survival Kit Instrumentals
+
+Used drive : TSSTcorp CDDVDW SH-S223L (revision SB02)
+
+Use cdparanoia mode     : YES (CDParanoia III 10.2 engine)
+Disable audio cache     : OK for the drive with cache less than 2750KB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 100
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:09:25 |         0    |    18699   
+        2  | 04:09:25 | 04:05:74 |     18700    |    37148   
+        3  | 08:15:24 | 03:51:69 |     37149    |    54542   
+        4  | 12:07:18 | 04:33:41 |     54543    |    75058   
+        5  | 16:40:59 | 02:29:46 |     75059    |    86279   
+        6  | 19:10:30 | 02:33:61 |     86280    |    97815   
+        7  | 21:44:16 | 03:23:17 |     97816    |   113057   
+        8  | 25:07:33 | 02:49:10 |    113058    |   125742   
+
+
+All Tracks
+    Album gain             : -5.94 dB
+    Peak                   : 1.000000
+
+Track 01
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/01 - A To Zero.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -6.57 dB
+    Peak                   : 0.794312
+    CRC32 hash (test run)  : 92111A53
+    CRC32 hash             : 92111A53
+    CRC32 hash (skip zero) : C2AFBE7B
+    AccurateRip signature  : C4ADA5BB
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 02
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/02 - Fear Of Flying.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -1.50 dB
+    Peak                   : 0.944031
+    CRC32 hash (test run)  : DCD7C6F0
+    CRC32 hash             : DCD7C6F0
+    CRC32 hash (skip zero) : 398F2AFB
+    AccurateRip signature  : A14F3F09
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 03
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/03 - Outremont Mainline Runs Across The Sunset.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -3.06 dB
+    Peak                   : 1.000000
+    CRC32 hash (test run)  : 86132ADB
+    CRC32 hash             : 86132ADB
+    CRC32 hash (skip zero) : 0A27B870
+    AccurateRip signature  : 25B7C623
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 04
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/04 - Daggers On All Corners (Live).wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -6.13 dB
+    Peak                   : 0.595642
+    CRC32 hash (test run)  : CF815FC0
+    CRC32 hash             : CF815FC0
+    CRC32 hash (skip zero) : 376C15A2
+    AccurateRip signature  : 447F99EE
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 05
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/05 - Funny Sticks.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -4.53 dB
+    Peak                   : 0.944061
+    CRC32 hash (test run)  : D965ADAA
+    CRC32 hash             : D965ADAA
+    CRC32 hash (skip zero) : 027C0595
+    AccurateRip signature  : 3D293854
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 06
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/06 - Cup Of Tea.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -2.21 dB
+    Peak                   : 0.891235
+    CRC32 hash (test run)  : A16048CF
+    CRC32 hash             : A16048CF
+    CRC32 hash (skip zero) : F22AB2CE
+    AccurateRip signature  : 0DC80D5E
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 07
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/07 - Perfect Wednesday.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -7.75 dB
+    Peak                   : 0.944061
+    CRC32 hash (test run)  : E70D881A
+    CRC32 hash             : E70D881A
+    CRC32 hash (skip zero) : 0484536E
+    AccurateRip signature  : C33ECCC3
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 08
+    Filename : /Users/sigchill/Music/XLD/Sixtoo/2003 - Antagonist Survival Kit Instrumentals/08 - Workhorse.wav
+    Pre-gap length : 00:02:00
+
+    Track gain             : -3.65 dB
+    Peak                   : 0.891235
+    CRC32 hash (test run)  : 676D59BC
+    CRC32 hash             : 676D59BC
+    CRC32 hash (skip zero) : D4D851BF
+    AccurateRip signature  : EE5DDD5B
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,257 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction log file 11. April 2008, 1:24
+
+Modeselektor / Happy Birthday!
+
+Used drive: PIONEER DVD-RW DVR-K06RS Adapter: 1 ID: 0
+
+Read mode: Secure
+Utilize accurate stream: Yes
+Defeat audio cache: Yes
+Make use of C2 pointers: No
+
+Read offset correction: 48
+Overread into Lead-In and Lead-Out : No
+Fill up missing offset samples with silence: Yes
+Delete leading and trailing silent blocks: No
+Null samples used in CRC calculations: Yes
+Used interface: Installed external ASPI interface
+Gap handling: Appended to previous track
+
+Use edition format by User Certain Comprimeerder
+Selected bitrate: 192 kBit / s
+Quality: High
+ID3 tag: No
+Command line compressor : C: \ Program Files \ Exact Audio Copy \ flac-1.1.4-win \ bin \ flac.exe
+Additional command line settings:-V -8-T "artist =% a"-T "title =% t"-T "album =% g"-T "date =% y"-T "track number =% n"-T "genre =% m"% s
+
+
+TOC of the extracted CD
+
+      Track | Start | Length | Start sector | End sector
+     -------------------------------------------------- ------
+         1 | 0:00.00 | 4:03.45 | 0 | 18269
+         2 | 4:03.45 | 5:46.67 | 18270 | 44286
+         3 | 9:50.37 | 4:11.36 | 44287 | 63147
+         4 | 14:01.73 | 5:25.65 | 63148 | 87587
+         5 | 19:27.63 | 1:54.66 | 87588 | 96203
+         6 | 21:22.54 | 6:10.18 | 96204 | 123971
+         7 | 27:32.72 | 3:53.74 | 123972 | 141520
+         8 | 31:26.71 | 5:17.15 | 141521 | 165310
+         9 | 36:44.11 | 4:29.66 | 165311 | 185551
+        10 | 41:14.02 | 0:52.60 | 185552 | 189511
+        11 | 42:06.62 | 3:34.61 | 189512 | 205622
+        12 | 45:41.48 | 4:23.18 | 205623 | 225365
+        13 | 50:04.66 | 5:41.06 | 225366 | 250946
+        14 | 55:45.72 | 4:39.41 | 250947 | 271912
+        15 | 60:25.38 | 4:49.44 | 271913 | 293631
+        16 | 65:15.07 | 0:38.30 | 293632 | 296511
+        17 | 65:53.37 | 3:53.01 | 296512 | 313987
+        18 | 69:46.38 | 3:32.20 | 313988 | 329907
+
+
+Track 1
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 01 - Modeselektor - Happy Birthday.wav
+
+      Pause length 0:00:02.00
+
+      Peak level 99.9%
+      Track quality 100.0%
+      Test CRC AB5FCDED
+      Copy CRC AB5FCDED
+      Accurately read (reliability 4) [D4671E3B]
+      Copy OK
+
+Track 2
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 02 - Modeselektor - Godspeed.wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC 4FF226C2
+      Copy CRC 4FF226C2
+      Accurately read (reliability 4) [2AAC1155]
+      Copy OK
+
+Track 3
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 03 - Modeselektor - 2000007 (feat. TTC). Wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC BD268B78
+      Copy CRC BD268B78
+      Accurately read (reliability 4) [A3E31CF5]
+      Copy OK
+
+Track 4
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 04 - Modeselektor - Let Your Love Grow (Moderate feat. Paul St. Hilaire). Wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC 109BA123
+      Copy CRC 109BA123
+      Accurately read (reliability 4) [57708BDB]
+      Copy OK
+
+Track 5
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 05 - Modeselektor - Em Ocean.wav
+
+      Peak level 99.6%
+      Track quality 99.9%
+      Test CRC 1D7CD47E
+      Copy CRC 1D7CD47E
+      Accurately read (reliability 4) [8F75D399]
+      Copy OK
+
+Track 6
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 06 - Modeselektor - Sucker Pin.wav
+
+      Peak level 100.0%
+      Track quality 99.9%
+      Test CRC 464B5780
+      Copy CRC 464B5780
+      Accurately read (reliability 4) [1A54D764]
+      Copy OK
+
+Track 7
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 07 - Modeselektor - Edgar.wav
+
+      Peak level 99.6%
+      Track quality 100.0%
+      Test CRC FB5C22A6
+      Copy CRC FB5C22A6
+      Accurately read (reliability 4) [EA2E473F]
+      Copy OK
+
+Track 8
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 08 - Modeselektor - Hyper Hyper (feat. Otto Von Schirach). Wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC A0113BB7
+      Copy CRC A0113BB7
+      Accurately read (reliability 4) [DD96D735]
+      Copy OK
+
+Track 9
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 09 - Modeselektor - BMI.wav
+
+      Peak level 99.9%
+      Track quality 100.0%
+      Test CRC E46DF17F
+      Copy CRC E46DF17F
+      Accurately read (reliability 4) [9ABBA522]
+      Copy OK
+
+Track 10
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 10 - Modeselektor - The Dark Side Of The Frog.wav
+
+      Peak level 60.2%
+      Track quality 99.7%
+      Test CRC 2FA3C801
+      Copy CRC 2FA3C801
+      Accurately read (reliability 4) [EB02A76E]
+      Copy OK
+
+Track 11
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 11 - Modeselektor - The Dark Side Of The Sun (feat. Puppetmastaz). Wav
+
+      Peak level 99.2%
+      Track quality 100.0%
+      Test CRC 36AF9100
+      Copy CRC 36AF9100
+      Accurately read (reliability 4) [33561271]
+      Copy OK
+
+Track 12
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 12 - Modeselektor - Deboutonner (feat. Siriusmo). Wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC 247B4E45
+      Copy CRC 247B4E45
+      Accurately read (reliability 4) [7657D4B8]
+      Copy OK
+
+Track 13
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 13 - Modeselektor - The Black Block.wav
+
+      Peak level 99.8%
+      Track quality 100.0%
+      Test CRC 51A065F1
+      Copy CRC 51A065F1
+      Accurately read (reliability 4) [A1327131]
+      Copy OK
+
+Track 14
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 14 - Modeselektor - The First Rebirth.wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC EB3A4E5E
+      Copy CRC EB3A4E5E
+      Accurately read (reliability 4) [F9E480EE]
+      Copy OK
+
+Track 15
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 15 - Modeselektor - The White Flash (feat. Thom Yorke). Wav
+
+      Peak level 99.9%
+      Track quality 100.0%
+      Test CRC 24BD8945
+      Copy CRC 24BD8945
+      Accurately read (reliability 4) [900AE450]
+      Copy OK
+
+Track 16
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 16 - Modeselektor - Late Check-out.wav
+
+      Peak level 43.1%
+      Track quality 100.0%
+      Test CRC AEC362C4
+      Copy CRC AEC362C4
+      Accurately read (reliability 4) [2F7017F2]
+      Copy OK
+
+Track 17
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 17 - Modeselektor - The Wedding Toccata Theme.wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC 306705F1
+      Copy CRC 306705F1
+      Accurately read (reliability 4) [11066B77]
+      Copy OK
+
+Track 18
+
+      File H: \ Flac Rips \ Modeselektor - 2007 - Happy Birthday! \ 18 - Modeselektor - (I Can not Sleep) Without Music (feat. Maximo Park). Wav
+
+      Peak level 100.0%
+      Track quality 100.0%
+      Test CRC 2CDCE669
+      Copy CRC 2CDCE669
+      Accurately read (reliability 3) [C6BE3A00]
+      Copy OK
+
+
+No errors occurred
+
+End of status report

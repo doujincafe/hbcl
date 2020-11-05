@@ -1,0 +1,235 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 1. May 2009, 21:06
+
+Aphrodite's Child / 666 (CD1)
+
+Used drive  :    LG   CD-ROM CRD-8322B   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : -24
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 256 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\FLAC\flac.exe
+Additional command line options : -8 -A tukey(0.25) -A gauss(0.1875) -b 4096 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s --sector-align
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.33 |  0:23.35 |        33    |     1792   
+        2  |  0:23.68 |  2:47.40 |      1793    |    14357   
+        3  |  3:11.33 |  2:42.50 |     14358    |    26557   
+        4  |  5:54.08 |  5:53.32 |     26558    |    53064   
+        5  | 11:47.40 |  4:34.55 |     53065    |    73669   
+        6  | 16:22.20 |  1:30.50 |     73670    |    80469   
+        7  | 17:52.70 |  5:22.50 |     80470    |   104669   
+        8  | 23:15.45 |  1:28.73 |    104670    |   111342   
+        9  | 24:44.43 |  1:11.52 |    111343    |   116719   
+       10  | 25:56.20 |  2:45.13 |    116720    |   129107   
+       11  | 28:41.33 |  2:00.37 |    129108    |   138144   
+       12  | 30:41.70 |  0:56.00 |    138145    |   142344   
+       13  | 31:37.70 |  1:44.00 |    142345    |   150144   
+       14  | 33:21.70 |  0:32.25 |    150145    |   152569   
+       15  | 33:54.20 |  2:26.00 |    152570    |   163519   
+       16  | 36:20.20 |  0:14.63 |    163520    |   164632   
+
+
+Track  1
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\01 - Aphrodite's Child - The System.wav
+
+     Pre-gap length  0:00:02.44
+
+     Peak level 72.4 %
+     Track quality 100.0 %
+     Test CRC 218020B3
+     Copy CRC 218020B3
+     Accurately ripped (confidence 26)  [68A7D430]
+     Copy OK
+
+Track  2
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\02 - Aphrodite's Child - Babylon.wav
+
+     Peak level 95.4 %
+     Track quality 100.0 %
+     Test CRC B226DF5D
+     Copy CRC B226DF5D
+     Accurately ripped (confidence 26)  [A8A0CB82]
+     Copy OK
+
+Track  3
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\03 - Aphrodite's Child - Loud, Loud, Loud.wav
+
+     Peak level 67.7 %
+     Track quality 100.0 %
+     Test CRC 44156B1E
+     Copy CRC 44156B1E
+     Accurately ripped (confidence 27)  [3A405C88]
+     Copy OK
+
+Track  4
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\04 - Aphrodite's Child - The Four Horsemen.wav
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC 6564E52F
+     Copy CRC 6564E52F
+     Accurately ripped (confidence 27)  [E0D434FB]
+     Copy OK
+
+Track  5
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\05 - Aphrodite's Child - The Lamb.wav
+
+     Peak level 97.6 %
+     Track quality 100.0 %
+     Test CRC C12D490B
+     Copy CRC C12D490B
+     Accurately ripped (confidence 27)  [F7BD8466]
+     Copy OK
+
+Track  6
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\06 - Aphrodite's Child - The Seventh Seal.wav
+
+     Peak level 74.3 %
+     Track quality 99.8 %
+     Test CRC BCBB84C3
+     Copy CRC BCBB84C3
+     Accurately ripped (confidence 27)  [38F82D6B]
+     Copy OK
+
+Track  7
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\07 - Aphrodite's Child - Aegian Sea.wav
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC E051575D
+     Copy CRC E051575D
+     Accurately ripped (confidence 27)  [3D25DE32]
+     Copy OK
+
+Track  8
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\08 - Aphrodite's Child - Seven Bowls.wav
+
+     Peak level 73.8 %
+     Track quality 99.8 %
+     Test CRC 791777D7
+     Copy CRC 791777D7
+     Accurately ripped (confidence 27)  [08DD9B8F]
+     Copy OK
+
+Track  9
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\09 - Aphrodite's Child - The Wakening Beast.wav
+
+     Peak level 54.1 %
+     Track quality 99.8 %
+     Test CRC AEE40F09
+     Copy CRC AEE40F09
+     Accurately ripped (confidence 27)  [F42D848A]
+     Copy OK
+
+Track 10
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\10 - Aphrodite's Child - Lament.wav
+
+     Peak level 15.6 %
+     Track quality 99.9 %
+     Test CRC 66970043
+     Copy CRC 66970043
+     Accurately ripped (confidence 27)  [D183BC42]
+     Copy OK
+
+Track 11
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\11 - Aphrodite's Child - The Marching Beast.wav
+
+     Peak level 87.6 %
+     Track quality 100.0 %
+     Test CRC 50F1B66E
+     Copy CRC 50F1B66E
+     Accurately ripped (confidence 27)  [94CB8FDA]
+     Copy OK
+
+Track 12
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\12 - Aphrodite's Child - The Battle Of The Locusts.wav
+
+     Peak level 97.5 %
+     Track quality 99.8 %
+     Test CRC C3090FF6
+     Copy CRC C3090FF6
+     Accurately ripped (confidence 27)  [98525B92]
+     Copy OK
+
+Track 13
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\13 - Aphrodite's Child - Do It.wav
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC 5060AB59
+     Copy CRC 5060AB59
+     Accurately ripped (confidence 27)  [398A969B]
+     Copy OK
+
+Track 14
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\14 - Aphrodite's Child - Tribulation.wav
+
+     Peak level 87.3 %
+     Track quality 100.0 %
+     Test CRC CD8C72D6
+     Copy CRC CD8C72D6
+     Accurately ripped (confidence 27)  [0E6D75DF]
+     Copy OK
+
+Track 15
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\15 - Aphrodite's Child - The Beast.wav
+
+     Peak level 97.6 %
+     Track quality 100.0 %
+     Test CRC AA06A89D
+     Copy CRC AA06A89D
+     Accurately ripped (confidence 27)  [82349135]
+     Copy OK
+
+Track 16
+
+     Filename D:\MP3 Temp\Aphrodites Child\666 (1 of 2)\16 - Aphrodite's Child - Ofis.wav
+
+     Peak level 70.7 %
+     Track quality 100.0 %
+     Test CRC D8E45068
+     Copy CRC D8E45068
+     Accurately ripped (confidence 25)  [0198A8CF]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

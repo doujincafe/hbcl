@@ -1,0 +1,112 @@
+EAC extraction logfile from 29. September 2006, 23:18 for CD
+Four Tet / Rounds
+
+Used drive  : TEAC    CD-W524E   Adapter: 1  ID: 1
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Read offset correction : 685
+Overread into Lead-In and Lead-Out : No
+
+Used output format : G:\Program Files\Lame\Lame 3.97\lame.exe   (User Defined Encoder)
+                     192 kBit/s
+                     Additional command line options : -V 0 --vbr-new --add-id3v2 --pad-id3v2 --ta "%a" --tt "%t" --tl "%g" --ty "%y" --tn "%n" %s %d
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\01 - Hands.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 0759E4F7
+     Copy CRC 0759E4F7
+     Copy OK
+
+Track  2
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\02 - She Moves She.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC F799C261
+     Copy CRC F799C261
+     Copy OK
+
+Track  3
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\03 - First Thing.wav
+
+     Peak level 36.9 %
+     Track quality 100.0 %
+     Test CRC DD981688
+     Copy CRC DD981688
+     Copy OK
+
+Track  4
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\04 - My Angel Rocks Back And Forth.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 0589EFDD
+     Copy CRC 0589EFDD
+     Copy OK
+
+Track  5
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\05 - Spirit Fingers.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 19CBEFDB
+     Copy CRC 19CBEFDB
+     Copy OK
+
+Track  6
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\06 - Unspoken.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 503DB496
+     Copy CRC 503DB496
+     Copy OK
+
+Track  7
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\07 - Chia.wav
+
+     Peak level 99.5 %
+     Track quality 100.0 %
+     Test CRC B7EB0820
+     Copy CRC B7EB0820
+     Copy OK
+
+Track  8
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\08 - As Serious As Your Life.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 475B8166
+     Copy CRC 475B8166
+     Copy OK
+
+Track  9
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\09 - And They All Look Broken Hearted.wav
+
+     Peak level 89.1 %
+     Track quality 100.0 %
+     Test CRC 8FD7D3E1
+     Copy CRC 8FD7D3E1
+     Copy OK
+
+Track 10
+     Filename F:\Audio\Four Tet\Four Tet - [2003.05.05] Rounds\10 - Slow Jam.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC D1C15DB9
+     Copy CRC D1C15DB9
+     Copy OK
+
+No errors occured
+
+
+End of status report

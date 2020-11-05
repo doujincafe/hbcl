@@ -1,0 +1,253 @@
+Exact Audio Copy V1.1 from 23. June 2015
+
+EAC extraction logfile from 10. October 2017, 16:26
+
+The Idol Formerly Known As LADYBABY / Pinky! Pinky!
+
+Used Drive  : HL-DT-STDVDRAM GTA0N   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -8 -e -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:39.38 |         0    |    16462   
+        2  |  3:39.38 |  4:26.14 |     16463    |    36426   
+        3  |  8:05.52 |  3:50.30 |     36427    |    53706   
+        4  | 11:56.07 |  3:39.39 |     53707    |    70170   
+        5  | 15:35.46 |  4:26.13 |     70171    |    90133   
+        6  | 20:01.59 |  3:47.60 |     90134    |   107218   
+
+
+Track  1
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\01. The Idol Formerly Known As LADYBABY - Pinky! Pinky!.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 98.5 %
+     Extraction speed 1.2 X
+     Track quality 100.0 %
+     Test CRC BB4D8C98
+     Copy CRC BB4D8C98
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\02. The Idol Formerly Known As LADYBABY - Me! Me! Me!.wav
+
+     Pre-gap length  0:00:02.09
+
+     Peak level 98.5 %
+     Extraction speed 1.4 X
+     Track quality 100.0 %
+     Test CRC 12883401
+     Copy CRC 12883401
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\03. The Idol Formerly Known As LADYBABY - Generation Hard Knocks.wav
+
+     Pre-gap length  0:00:01.60
+
+     Peak level 98.5 %
+     Extraction speed 1.3 X
+     Track quality 99.9 %
+     Test CRC C32A98D0
+     Copy CRC C32A98D0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\04. The Idol Formerly Known As LADYBABY - Pinky! Pinky! -off vocal ver.-.wav
+
+     Pre-gap length  0:00:02.60
+
+     Copy aborted
+
+Track  5
+
+     Pre-gap length  0:00:02.10
+
+     Copy aborted
+
+Track  6
+
+     Pre-gap length  0:00:01.60
+
+     Copy aborted
+
+
+ 3 track(s) not present in the AccurateRip database
+ 3 track(s) canceled
+
+No tracks could be verified as accurate
+
+There were errors
+
+End of status report
+
+==== Log checksum 9E68AC91D4A02965BCFD28E6435F5FC3B28F3E4B2A63E1BD2DC21AD77401D795 ====
+
+------------------------------------------------------------
+
+Exact Audio Copy V1.1 from 23. June 2015
+
+EAC extraction logfile from 10. October 2017, 17:02
+
+The Idol Formerly Known As LADYBABY / Pinky! Pinky!
+
+Used Drive  : HL-DT-STDVDRAM GTA0N   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files (x86)\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -8 -e -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T 
+"DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:39.38 |         0    |    16462   
+        2  |  3:39.38 |  4:26.14 |     16463    |    36426   
+        3  |  8:05.52 |  3:50.30 |     36427    |    53706   
+        4  | 11:56.07 |  3:39.39 |     53707    |    70170   
+        5  | 15:35.46 |  4:26.13 |     70171    |    90133   
+        6  | 20:01.59 |  3:47.60 |     90134    |   107218   
+
+
+Track  1
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\01. The Idol Formerly Known As LADYBABY - Pinky! Pinky!.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.2 X
+     Track quality 100.0 %
+     Test CRC BB4D8C98
+     Copy CRC BB4D8C98
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\02. The Idol Formerly Known As LADYBABY - Me! Me! Me!.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.4 X
+     Track quality 100.0 %
+     Test CRC 12883401
+     Copy CRC 12883401
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\03. The Idol Formerly Known As LADYBABY - Generation Hard Knocks.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.3 X
+     Track quality 99.9 %
+     Test CRC C32A98D0
+     Copy CRC C32A98D0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\04. The Idol Formerly Known As LADYBABY - Pinky! Pinky! -off vocal ver.-.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.6 X
+     Track quality 100.0 %
+     Test CRC CB740C55
+     Copy CRC CB740C55
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\05. The Idol Formerly Known As LADYBABY - Me! Me! Me! -off vocal ver.-.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.7 X
+     Track quality 100.0 %
+     Test CRC 698FA190
+     Copy CRC 698FA190
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename F:\Emprunt\The Idol Formerly Known As LADYBABY – Pinky! Pinky! (2017) – FLAC\06. The Idol Formerly Known As LADYBABY - Generation Hard Knocks -off vocal ver.-.wav
+
+     Peak level 98.5 %
+     Extraction speed 1.8 X
+     Track quality 100.0 %
+     Test CRC 04963882
+     Copy CRC 04963882
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: mL2SXsLVGnTnvIbRAJlIlIoOYuA-] found
+Submit result: mL2SXsLVGnTnvIbRAJlIlIoOYuA- has been confirmed
+Track | CTDB Status
+  1   | (3/3) Accurately ripped
+  2   | (3/3) Accurately ripped
+  3   | (3/3) Accurately ripped
+  4   | (3/3) Accurately ripped
+  5   | (3/3) Accurately ripped
+  6   | (2/3) Accurately ripped
+
+
+==== Log checksum 226685DE2A99E5B86F5006CE0D85F9781BB9B5AF620C46F4F30E68BFC86029E1 ====
