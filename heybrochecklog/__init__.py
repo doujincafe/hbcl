@@ -33,6 +33,13 @@ def parse_args():
         help='Only print the score of the log.',
         action='store_true',
     )
+    parser.add_argument(
+        '-v',
+        '--version',
+        help='Print version info.',
+        action='version',
+        version='1.2.1-doujinmusicdiscord'
+    )
 
     return parser.parse_args()
 
