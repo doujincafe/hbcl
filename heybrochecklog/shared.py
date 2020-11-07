@@ -4,7 +4,7 @@ import codecs
 import json
 import os
 
-import chardet
+import cchardet as chardet
 
 
 def get_log_contents(log_file):
