@@ -84,9 +84,6 @@ def check_integrity(text):
     text = text.replace('\n', '\r\n')  # dunno
     old_signature, actual_signature = eac_verify(text)
 
-    print(old_signature)
-    print(actual_signature)
-
     if old_signature is None:
         return "LOG_CHECKSUM_NOT_PRESENT"
 
