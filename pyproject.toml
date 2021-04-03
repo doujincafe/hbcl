@@ -19,6 +19,7 @@ heybrochecklog = 'heybrochecklog.__main__:runner'
 [tool.poetry.dependencies]
 python = "^3.5"
 cchardet = "^2.1.7"
+pprp = "^0.2.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3.5"

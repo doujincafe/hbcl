@@ -24,7 +24,7 @@ setup(
     long_description=readme,
     long_description_content_type='text/markdown',
     name='heybrochecklog',
-    version='1.3.3',
+    version='1.4.0',
     description='A python tool for evaluating and working with EAC/XLD rip logs.',
     python_requires='==3.*,>=3.5.0',
     project_urls={"repository": "https://github.com/ligh7s/hey-bro-check-log"},
@@ -46,6 +46,6 @@ setup(
             "*.db", "*.json", "eac/*.json", "eac95/*.json"
         ]
     },
-    install_requires=['cchardet>=2.1.7'],
+    install_requires=['cchardet>=2.1.7', 'pprp>=0.2.7'],
     extras_require={"dev": ["pytest==5.*,>=5.3.5"]},
 )
