@@ -37,13 +37,25 @@ def eac_checksum(text):
         signature = cipher.encrypt(cbc_plaintext)
 
     # Textual signature is just the hex representation
-    return bytes(signature, "utf-16-le").hex().upper().replace('00', '')
+    chunks = chunk_string((bytes(signature, "utf-16-le").hex().upper()), 4)
+    chunk_result = list()
+    for i in chunks:
+        if i.endswith('00'):
+            chunk_result.append(i[:-2])
+
+    return str.join("", chunk_result)
+
+
+def chunk_string(string, length):
+    return (string[0 + i:length + i] for i in range(0, len(string), length))
+
 
 def ord_or_int(data):
     if type(data) is int:
         return data
 
     return ord(data)
+
 
 def extract_info(text):
     if '\r\n\r\n==== Log checksum' not in text:
@@ -69,7 +81,7 @@ def eac_verify(text):
 
 
 def check_integrity(text):
-    text = text.replace('\n', '\r\n') # dunno
+    text = text.replace('\n', '\r\n')  # dunno
     old_signature, actual_signature = eac_verify(text)
 
     print(old_signature)
