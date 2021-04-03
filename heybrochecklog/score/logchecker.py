@@ -175,5 +175,5 @@ class LogChecker:
         )
 
         if log.raw_cock:
-            log.add_deduction('Invalid Checksum Retard. (All Points)')
+            log.add_deduction('Invalid Checksum. (All Points)')
             log.score = 0
