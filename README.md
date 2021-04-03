@@ -17,6 +17,7 @@ in CD ripping logs.
   - Irregular AR results
   - Hidden tracks and extraction
 - Foreign language support (temperamental, as it's based on the most recent translation files).
+- Checks integrity of EAC logs.
 
 ## Running CLI
 
