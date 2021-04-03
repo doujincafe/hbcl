@@ -93,4 +93,4 @@ def check_integrity(text):
     if old_signature == actual_signature:
         return "LOG_OK"
 
-    return "LOG_NOT_OK_RETARD"
+    return "LOG_NOT_OK"

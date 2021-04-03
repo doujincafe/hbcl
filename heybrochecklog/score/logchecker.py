@@ -174,6 +174,6 @@ class LogChecker:
             [de[1] for de in log.deductions.values() if isinstance(de[1], int)]
         )
 
-        if log.raw_cock:
+        if log.invalid_checksum:
             log.add_deduction('Invalid Checksum. (All Points)')
             log.score = 0

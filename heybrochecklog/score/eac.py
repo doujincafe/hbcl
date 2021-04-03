@@ -153,8 +153,8 @@ class EACChecker(LogChecker):
     def validate_integrity(self, log):
         log_concat = str.join("", log.full_contents)
         result = check_integrity(log_concat)
-        if result == "LOG_NOT_OK_RETARD":
-            log.raw_cock = True
+        if result == "LOG_NOT_OK":
+            log.invalid_checksum = True
 
     def deduct_and_score(self, log):
         """Process the accumulated deductions and score the log file."""
