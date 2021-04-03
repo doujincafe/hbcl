@@ -173,3 +173,7 @@ class LogChecker:
         log.score -= sum(
             [de[1] for de in log.deductions.values() if isinstance(de[1], int)]
         )
+
+        if log.raw_cock:
+            log.add_deduction('Invalid Checksum Retard. (All Points)')
+            log.score = 0

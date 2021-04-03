@@ -9,3 +9,4 @@ translation-files
 build/
 dist/
 *.egg-info
+venv/

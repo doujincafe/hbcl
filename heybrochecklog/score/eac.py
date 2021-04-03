@@ -7,6 +7,7 @@ from heybrochecklog.markup import markup
 from heybrochecklog.score.logchecker import LogChecker
 from heybrochecklog.score.modules import combined, parsers, validation
 from heybrochecklog.shared import format_pattern as fmt_ptn
+from heybrochecklog.score.integrity import check_integrity
 
 
 class EACChecker(LogChecker):
@@ -28,6 +29,7 @@ class EACChecker(LogChecker):
             parsers.index_toc(log)
             self.is_there_a_htoa(log)
             self.check_tracks(log)
+            self.validate_integrity(log)
             parsers.parse_checksum(
                 log, self.patterns['checksum'], 'V1.0 beta 1', 'EAC <1.0'
             )
@@ -147,6 +149,12 @@ class EACChecker(LogChecker):
                 log.add_deduction('Range rip')
             # Check AccurateRip - Mismatching AR results can indicate problems even with T&C
             validation.analyze_accuraterip(log)
+
+    def validate_integrity(self, log):
+        log_concat = str.join("", log.full_contents)
+        result = check_integrity(log_concat)
+        if result == "LOG_NOT_OK_RETARD":
+            log.raw_cock = True
 
     def deduct_and_score(self, log):
         """Process the accumulated deductions and score the log file."""
