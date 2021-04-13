@@ -36,6 +36,9 @@ jobs:
 
       - name: Run poetry install
         run: poetry install
+        
+      - name: Run setup.py
+        run: python setup.py install
 
       - name: Run pytest
         run: pytest
