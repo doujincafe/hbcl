@@ -3,7 +3,7 @@
 [![Come on Join us!](https://img.shields.io/badge/Discord-Come%20on%20Join%20us!-7289da)](https://discord.gg/mC4Yp6J)
 ![Github Actions Badge](https://github.com/doujinmusic/hbcl/actions/workflows/main.yml/badge.svg)
 
-This version of hey-bro-check-log is maintained by doujin music discord community.
+This version of hey-bro-check-log is maintained by doujin café discord community.
 
 A python tool which analyzes and verifies good ripping practices and potential inaccuracies
 in CD ripping logs.
