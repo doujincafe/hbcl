@@ -4,7 +4,8 @@ import codecs
 import json
 import os
 
-import cchardet as chardet
+import cchardet
+import chardet
 
 
 def get_log_contents(log_file):
@@ -16,14 +17,29 @@ def get_log_contents(log_file):
     return contents
 
 
+def detect_chardet(log_data):
+    cchardet_detection = cchardet.detect(log_data)
+    chardet_detection = chardet.detect(log_data)
+
+    """In cases chardet spews out Windows-1252 as encoding, switch over to cchardet."""
+    if chardet_detection['encoding'] == "Windows-1252":
+        return cchardet_detection
+
+    """When chardet has higher confidence than cchardet, then we will use chardet."""
+    if (chardet_detection['confidence'] or 0) > (cchardet_detection['confidence'] or 0):
+        return chardet_detection
+
+    return cchardet_detection
+
+
 def get_log_encoding(log_file):
     """Get the encoding of the log file with the chardet library."""
     raw = log_file.read_bytes()
     if raw.startswith(codecs.BOM_UTF8):
         return 'utf-8-sig'
     else:
-        result = chardet.detect(raw)
-        return result['encoding'] if result['confidence'] > 0.7 else 'utf-8-sig'
+        result = detect_chardet(raw)
+        return result['encoding'] if (result['confidence'] or 0) > 0.7 else 'utf-8-sig'
 
 
 def format_pattern(pattern, append=None):
