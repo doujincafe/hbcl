@@ -31,7 +31,7 @@ jobs:
           python-version: '3.7'
       
       - name: Install pytest
-        run: python -m pip install -U pytest
+        run: python -m pip install -U pytest cchardet chardet
 
       - name: Install poetry
         run: python -m pip install poetry
@@ -39,8 +39,5 @@ jobs:
       - name: Run poetry install
         run: poetry install
         
-      - name: Run setup.py
-        run: python setup.py install
-
-      - name: Run pytest
-        run: pytest
+      - name: Run poetry pytest
+        run: poetry run pytest
