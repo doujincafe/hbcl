@@ -38,7 +38,7 @@ def parse_args():
         '--version',
         help='Print version info.',
         action='version',
-        version='1.3.3-doujinmusicdiscord'
+        version='1.3.5-doujinmusicdiscord'
     )
 
     return parser.parse_args()
