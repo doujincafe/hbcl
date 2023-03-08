@@ -35,3 +35,10 @@ optional arguments:
   -m, --markup      print the marked up version of the log after analyzing
   -s, --score-only  Only print the score of the log.
 ```
+## Downloads
+
+You can download pre-built artifacts for each workflow [here](https://github.com/doujincafe/hbcl/actions/workflows/github_artifact.yml)
+
+These artifacts have at least 30 days retention.
+
+
