@@ -89,7 +89,11 @@ class EACChecker(LogChecker):
         """Check rip for Hidden Track One Audio."""
         # 6 second minimum for HTOA per EAC standards
         # Only accepted HTOA extraction technique for EAC is range-based
-        if log.toc[1][0] < 450 or not log.range:
+        
+        # When first track is not on the dictionary, it will fail to check the
+        # log. This will attempt to look for the first item in the toc dict
+        # and check for HTOA
+        if log.toc[list(log.toc)[0]][0] < 450 or not log.range:
             return
 
         for line in log.contents[log.index_tracks + 1 :]:
