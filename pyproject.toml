@@ -22,7 +22,7 @@ cchardet = "^2.1.7"
 chardet = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.3.5"
+pytest = "^7.2.0"
 
 [tool.black]
 line-length = 88
