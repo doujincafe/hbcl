@@ -29,5 +29,5 @@ jobs:
         uses: actions/upload-artifact@v3.1.2
         with:
           name: hbcl-release
-          path: dist/heybrochecklog-.*.[tar.gz]
+          path: dist/*.*
           retention-days: 30
