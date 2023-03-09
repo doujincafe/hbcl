@@ -81,7 +81,7 @@ class XLDChecker(LogChecker):
         # 450 sectors or 6 seconds minimum, one track rip with pregap (containing HTOA)
         # appended to the first track. It is then split from the first track with
         # Audacity/Audition.
-        if len(log.tracks) == 1 and log.toc[1][0] >= 450:
+        if len(log.tracks) == 1 and log.toc[list(log.toc)[0]][0] >= 450:
             for line in log.contents[log.index_settings : log.index_toc]:
                 if re.match(r'Gap status +: Analyzed, Appended$', line):
                     log.add_deduction('HTOA extracted')
