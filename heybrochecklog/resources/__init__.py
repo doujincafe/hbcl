@@ -63,6 +63,7 @@ DEDUCTIONS = {
     ],
     'Normalization': ['Destructive normalization used', 100],
     'Compression offset': ['Ripped with compression offset', 100],
+    'Log Checksum Not Match': ['Log checksum does not match', 100]
 }
 
 VERSIONS = {

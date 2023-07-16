@@ -33,6 +33,12 @@ def parse_args():
         help='Only print the score of the log.',
         action='store_true',
     )
+    parser.add_argument(
+        '-ei',
+        '--experimental-integrity',
+        help='Enable Log Integrity Checking (Experimental, EAC only)',
+        action='store_true'
+    )
 
     return parser.parse_args()
 
@@ -51,7 +57,7 @@ def runner():
 
 
 def score_(args, log_file, log_path):
-    log = score_log(log_file, args.markup)
+    log = score_log(log_file, args.markup, args.experimental_integrity)
     if args.score_only:
         if not log['unrecognized']:
             print(log['score'])

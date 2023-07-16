@@ -12,7 +12,7 @@ from heybrochecklog.shared import format_pattern as fmt_ptn
 class XLDChecker(LogChecker):
     """This class analyzes XLD Log Files."""
 
-    def check(self, log):
+    def check(self, log, integrity=False):
         """Checks the XLD logs."""
         if len(log.contents) < 25:
             raise UnrecognizedException('Cannot parse log file; log file too short')

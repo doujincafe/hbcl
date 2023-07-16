@@ -12,7 +12,7 @@ from heybrochecklog.shared import format_pattern as fmt_ptn
 class EAC95Checker(LogChecker):
     """This class analyzes <=0.95 EAC Log Files."""
 
-    def check(self, main_log):
+    def check(self, main_log, integrity=False):
         """Checks the EAC logs."""
         logs = combined.split_combined(main_log)
         for log in logs:

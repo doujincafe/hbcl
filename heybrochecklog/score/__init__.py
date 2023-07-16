@@ -9,11 +9,11 @@ from heybrochecklog.score import eac, eac95, xld
 from heybrochecklog.shared import get_log_contents, open_json
 
 
-def score_log(log_file, markup=False):
+def score_log(log_file, markup=False, integrity=False):
     try:
         contents = get_log_contents(log_file)
         log = LogFile(contents)
-        log = score_wrapper(log, markup)
+        log = score_wrapper(log, markup, integrity)
     except UnicodeDecodeError:
         log = LogFile('')
         log.unrecognized = 'Could not decode log file.'
@@ -30,7 +30,7 @@ def score_log_from_contents(contents):
     return log.to_dict()
 
 
-def score_wrapper(log, markup=False):
+def score_wrapper(log, markup=False, integrity=False):
     """Determine the type of log file and passes the log to the appropriate logchecker."""
 
     try:
@@ -55,7 +55,7 @@ def score_wrapper(log, markup=False):
         )
 
     try:
-        log = logchecker.check(log)
+        log = logchecker.check(log, integrity)
     except UnrecognizedException as exception:
         log.unrecognized = str(exception)
         log.full_contents = [html.escape(line) for line in log.full_contents]

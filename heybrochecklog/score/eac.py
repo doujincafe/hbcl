@@ -7,12 +7,13 @@ from heybrochecklog.markup import markup
 from heybrochecklog.score.logchecker import LogChecker
 from heybrochecklog.score.modules import combined, parsers, validation
 from heybrochecklog.shared import format_pattern as fmt_ptn
+from heybrochecklog.score.integrity import check_integrity
 
 
 class EACChecker(LogChecker):
     """This class analyzes >0.95 EAC Log Files."""
 
-    def check(self, main_log):
+    def check(self, main_log, integrity=False):
         """Checks the EAC logs."""
         logs = combined.split_combined(main_log)
         for log in logs:
@@ -28,6 +29,10 @@ class EACChecker(LogChecker):
             parsers.index_toc(log)
             self.is_there_a_htoa(log)
             self.check_tracks(log)
+
+            if integrity:
+                self.validate_integrity(log)
+
             parsers.parse_checksum(
                 log, self.patterns['checksum'], 'V1.0 beta 1', 'EAC <1.0'
             )
@@ -152,11 +157,21 @@ class EACChecker(LogChecker):
             # Check AccurateRip - Mismatching AR results can indicate problems even with T&C
             validation.analyze_accuraterip(log)
 
+    def validate_integrity(self, log):
+        data = str.join("", log.full_contents)
+        integrity_result = check_integrity(data)
+
+        log.integrity_failing = integrity_result == "LOG_NOT_OK"
+
     def deduct_and_score(self, log):
         """Process the accumulated deductions and score the log file."""
         # Deduct for all the per-track accumulated deductions.
         for error in log.track_errors:
             if log.track_errors[error]:
                 log.add_deduction(error, len(log.track_errors[error]))
+
+        """When integrity fails, deduct the log file automatically by 100."""
+        if log.integrity_failing:
+            log.add_deduction('Log Checksum Not Match', 1)
 
         super().deduct_and_score(log)
