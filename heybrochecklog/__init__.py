@@ -36,7 +36,7 @@ def parse_args():
     parser.add_argument(
         '-ei',
         '--experimental-integrity',
-        help='Enable Log Integrity Checking (Experimental, EAC only)',
+        help='Enable Log Integrity Checking (Experimental, EAC & XLD only)',
         action='store_true'
     )
 

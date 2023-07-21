@@ -10,7 +10,6 @@ class LogFile:
 
     def __init__(self, contents, ripper=None):
 
-        self.integrity_failing = False
         self.full_contents = contents
         self.contents = format_full_contents(contents)
         self.concat_contents = [line for line in self.contents if line.strip()]

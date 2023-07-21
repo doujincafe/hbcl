@@ -164,7 +164,7 @@ class LogChecker:
         """
         pass
 
-    def deduct_and_score(self, log):
+    def deduct_and_score(self, log, integrity=False):
         """Process the accumulated deductions and score the log file."""
         if log.crc_mismatch:
             log.add_deduction('CRC mismatch', len(log.crc_mismatch))

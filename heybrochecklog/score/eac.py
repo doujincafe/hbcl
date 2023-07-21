@@ -30,9 +30,6 @@ class EACChecker(LogChecker):
             self.is_there_a_htoa(log)
             self.check_tracks(log)
 
-            if integrity:
-                self.validate_integrity(log)
-
             parsers.parse_checksum(
                 log, self.patterns['checksum'], 'V1.0 beta 1', 'EAC <1.0'
             )
@@ -42,7 +39,7 @@ class EACChecker(LogChecker):
         main_log = combined.defragment(logs)
         validation.validate_track_count(main_log)
         validation.validate_track_settings(main_log)
-        self.deduct_and_score(main_log)
+        self.deduct_and_score(main_log, integrity)
 
         return main_log
 
@@ -94,14 +91,14 @@ class EACChecker(LogChecker):
         """Check rip for Hidden Track One Audio."""
         # 6 second minimum for HTOA per EAC standards
         # Only accepted HTOA extraction technique for EAC is range-based
-        
+
         # When first track is not on the dictionary, it will fail to check the
         # log. This will attempt to look for the first item in the toc dict
         # and check for HTOA
         if log.toc[list(log.toc)[0]][0] < 450 or not log.range:
             return
 
-        for line in log.contents[log.index_tracks + 1 :]:
+        for line in log.contents[log.index_tracks + 1:]:
             if line.strip():
                 result = re.search(fmt_ptn(self.patterns['htoa']), line)
                 if result:
@@ -157,13 +154,13 @@ class EACChecker(LogChecker):
             # Check AccurateRip - Mismatching AR results can indicate problems even with T&C
             validation.analyze_accuraterip(log)
 
-    def validate_integrity(self, log):
+    def is_log_integrity_valid(self, log):
         data = str.join("", log.full_contents)
         integrity_result = check_integrity(data)
 
-        log.integrity_failing = integrity_result == "LOG_NOT_OK"
+        return integrity_result != "LOG_NOT_OK"
 
-    def deduct_and_score(self, log):
+    def deduct_and_score(self, log, integrity=False):
         """Process the accumulated deductions and score the log file."""
         # Deduct for all the per-track accumulated deductions.
         for error in log.track_errors:
@@ -171,7 +168,7 @@ class EACChecker(LogChecker):
                 log.add_deduction(error, len(log.track_errors[error]))
 
         """When integrity fails, deduct the log file automatically by 100."""
-        if log.integrity_failing:
+        if integrity and not self.is_log_integrity_valid(log):
             log.add_deduction('Log Checksum Not Match', 1)
 
         super().deduct_and_score(log)

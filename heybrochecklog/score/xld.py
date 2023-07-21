@@ -7,6 +7,7 @@ from heybrochecklog.markup import markup
 from heybrochecklog.score.logchecker import LogChecker
 from heybrochecklog.score.modules import parsers, validation
 from heybrochecklog.shared import format_pattern as fmt_ptn
+from heybrochecklog.score.xld_integrity import xld_verify
 
 
 class XLDChecker(LogChecker):
@@ -33,7 +34,7 @@ class XLDChecker(LogChecker):
             log, self.patterns['checksum'], '20121222', 'XLD pre-142.2'
         )
 
-        self.deduct_and_score(log)
+        self.deduct_and_score(log, integrity)
         if self.markup:
             markup(log, self.patterns, self.translation)
 
@@ -128,7 +129,7 @@ class XLDChecker(LogChecker):
         # Check AccurateRip - Mismatching AR results can indicate problems even with T&C
         validation.analyze_accuraterip(log)
 
-    def deduct_and_score(self, log):
+    def deduct_and_score(self, log, integrity=False):
         """Process the accumulated deductions and score the log file."""
         # Check for presence of Track gain in the tracks.
         if not all('gain' in log.tracks[track] for track in log.tracks):
@@ -140,5 +141,11 @@ class XLDChecker(LogChecker):
         for error in log.track_errors:
             for each in log.track_errors[error]:
                 log.add_deduction(error, multiplier=each[1], track=each[0], cap_10=True)
+
+        if integrity:
+            log_text = str.join("", log.full_contents)
+            data, version, old_signature, actual_signature = xld_verify(log_text)
+            if actual_signature != old_signature:
+                log.add_deduction('Log Checksum Not Match', 1)
 
         super().deduct_and_score(log)

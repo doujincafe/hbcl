@@ -22,23 +22,25 @@ in CD ripping logs.
 ## Running CLI
 
 ```
-usage: heybrochecklog [-h] [-t] [-m] [-s] log
+usage: heybrochecklog [-h] [-t] [-m] [-s] [-ei] log [log ...]
 
 Tool to analyze, translate, and score a CD Rip Log.
 
 positional arguments:
-  log               log file to check.
+  log                   log file to check.
 
 optional arguments:
-  -h, --help        show this help message and exit
-  -t, --translate   translate a foreign log to English
-  -m, --markup      print the marked up version of the log after analyzing
-  -s, --score-only  Only print the score of the log.
+  -h, --help            show this help message and exit
+  -t, --translate       translate a foreign log to English
+  -m, --markup          print the marked up version of the log after analyzing
+  -s, --score-only      Only print the score of the log.
+  -ei, --experimental-integrity
+                        Enable Log Integrity Checking (Experimental, EAC & XLD only)
+
 ```
-## Downloads
 
-You can download pre-built artifacts for each workflow [here](https://github.com/doujincafe/hbcl/actions/workflows/github_artifact.yml)
+## Acknowledgements
 
-These artifacts have at least 30 days retention.
-
-
+- [Original hey-bro-check-log by ligh7s](https://github.com/ligh7s/hey-bro-check-log)
+- [EAC checksum check implementation on eac_logsigner by puddly](https://github.com/puddly/eac_logsigner/blob/master/eac.py)
+- [XLD checksum check implementation](https://github.com/OPSnet/xld_logchecker.py/blob/master/xld_logchecker.py)
