@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "heybrochecklog"
-version = "1.4.0"
+version = "1.4.1"
 description = "A python tool for evaluating and working with EAC/XLD rip logs."
 authors = ["lights <lights@tutanota.de>"]
 license = "Apache-2.0"
