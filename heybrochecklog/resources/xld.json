@@ -31,7 +31,7 @@
     },
     "accuraterip": {
         "match": [
-            "->Accurately ripped!? \\((?:[v12,+]+ )?confidence ([0-9\\/+]+)\\)",
+            "->Accurately ripped!? \\((?:(AR)?[v12,+]+ )?confidence ([0-9\\/+]+)\\)",
             "->Accurately ripped!? (with different offset \\(v\\d, confidence \\d\\/\\d, offset -?\\d+\\))"
         ],
         "no match": ["->Track not present in AccurateRip database"]
