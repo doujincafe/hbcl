@@ -7,7 +7,7 @@ import re
 from heybrochecklog import UnrecognizedException
 from heybrochecklog.resources import VERSIONS
 from heybrochecklog.score.modules import drives, parsers, validation
-from heybrochecklog.shared import format_pattern as fmt_ptn
+from heybrochecklog.shared import format_pattern as fmt_ptn, format_pattern_for_setting_evaluation as fmt_ptn_setting
 
 
 class LogChecker:
@@ -93,7 +93,7 @@ class LogChecker:
         settings = {}
         colon = r' : (.*)' if log.language == 'english' else r'(?: :)? : (.*)'
         for key, setting in psettings.items():
-            settings[key] = re.compile(fmt_ptn(setting) + colon)
+            settings[key] = re.compile(fmt_ptn_setting(setting) + colon)
 
         # Iterate through line in the settings, and verify each setting in `sets` dict
         for line in log.contents[log.index_settings : log.index_toc]:

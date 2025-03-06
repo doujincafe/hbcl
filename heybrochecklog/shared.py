@@ -48,6 +48,10 @@ def format_pattern(pattern, append=None):
     return '|'.join(pattern)
 
 
+def format_pattern_for_setting_evaluation(pattern):
+    return '(?:{})'.format('|'.join(pattern))
+
+
 def open_json(*paths):
     """Open the language JSON patterns file and return it."""
     basepath = get_path()
