@@ -155,7 +155,7 @@ class EACChecker(LogChecker):
             validation.analyze_accuraterip(log)
 
     def is_log_integrity_valid(self, log):
-        data = str.join("", log.full_contents)
+        data = str.join("", log.contents)
         integrity_result = check_integrity(data)
 
         return integrity_result != "LOG_NOT_OK"
