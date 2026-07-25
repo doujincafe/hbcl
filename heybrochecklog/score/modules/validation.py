@@ -33,7 +33,8 @@ def validate_track_count(log):
             log.add_deduction('Data track detected')
         elif len(log.tracks) != len(log.toc):
             if not log.ripper == 'XLD' or not log.has_deduction('HTOA extracted'):
-                raise UnrecognizedException('Not all tracks are represented in the log')
+                # instead of raising an exception, a 0 deduction should be alright
+                log.add_deduction('Not all tracks are represented in the log')
 
 
 def validate_track_settings(log, xld=False):

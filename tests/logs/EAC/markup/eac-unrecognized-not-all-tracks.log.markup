@@ -1,0 +1,279 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 20. July 2014, 20:13</span></span>
+
+<span class="log4">Various Artists / Murmurs Of Earth (disc 1)</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVDRAM GH24LS70   Adapter: 3  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="good">Yes</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">667</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">No</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="good">Yes</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="good">Appended to previous track</span>
+
+<span class="log5">Used output format              </span>: <span class="log4">User Defined Encoder</span>
+<span class="log5">Selected bitrate                </span>: <span class="log4">128 kBit/s</span>
+<span class="log5">Quality                         </span>: <span class="log4">High</span>
+<span class="log5">Add ID3 tag                     </span>: <span class="good">No</span>
+<span class="log5">Command line compressor         </span>: <span class="log4">C:\Program Files\FLAC\flac.exe</span>
+<span class="log5">Additional command line options </span>: <span class="log4">-8 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;PERFORMER=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;ALBUMARTIST=%albumartist%&quot; -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; -T &quot;COMMENT=%comment%&quot; %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">5:29.40</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">24714</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">5:29.40</span> <strong>|</strong>  <span class="log1">0:46.47</span> <strong>|</strong>     <span class="log1">24715</span>    <strong>|</strong>    <span class="log1">28211</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">6:16.12</span> <strong>|</strong>  <span class="log1">4:25.08</span> <strong>|</strong>     <span class="log1">28212</span>    <strong>|</strong>    <span class="log1">48094</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">10:41.20</span> <strong>|</strong>  <span class="log1">4:05.02</span> <strong>|</strong>     <span class="log1">48095</span>    <strong>|</strong>    <span class="log1">66471</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">14:46.22</span> <strong>|</strong> <span class="log1">12:26.28</span> <strong>|</strong>     <span class="log1">66472</span>    <strong>|</strong>   <span class="log1">122449</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">27:12.50</span> <strong>|</strong>  <span class="log1">4:44.37</span> <strong>|</strong>    <span class="log1">122450</span>    <strong>|</strong>   <span class="log1">143786</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">31:57.12</span> <strong>|</strong>  <span class="log1">4:51.08</span> <strong>|</strong>    <span class="log1">143787</span>    <strong>|</strong>   <span class="log1">165619</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">36:48.20</span> <strong>|</strong>  <span class="log1">2:12.35</span> <strong>|</strong>    <span class="log1">165620</span>    <strong>|</strong>   <span class="log1">175554</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">39:00.55</span> <strong>|</strong>  <span class="log1">1:00.35</span> <strong>|</strong>    <span class="log1">175555</span>    <strong>|</strong>   <span class="log1">180089</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">40:01.15</span> <strong>|</strong>  <span class="log1">1:29.70</span> <strong>|</strong>    <span class="log1">180090</span>    <strong>|</strong>   <span class="log1">186834</span>   
+       <span class="log4">11</span>  <strong>|</strong> <span class="log1">41:31.10</span> <strong>|</strong>  <span class="log1">3:24.20</span> <strong>|</strong>    <span class="log1">186835</span>    <strong>|</strong>   <span class="log1">202154</span>   
+       <span class="log4">12</span>  <strong>|</strong> <span class="log1">44:55.30</span> <strong>|</strong>  <span class="log1">2:43.00</span> <strong>|</strong>    <span class="log1">202155</span>    <strong>|</strong>   <span class="log1">214379</span>   
+       <span class="log4">13</span>  <strong>|</strong> <span class="log1">47:38.30</span> <strong>|</strong>  <span class="log1">1:25.47</span> <strong>|</strong>    <span class="log1">214380</span>    <strong>|</strong>   <span class="log1">220801</span>   
+       <span class="log4">14</span>  <strong>|</strong> <span class="log1">49:04.02</span> <strong>|</strong>  <span class="log1">5:07.70</span> <strong>|</strong>    <span class="log1">220802</span>    <strong>|</strong>   <span class="log1">243896</span>   
+       <span class="log4">15</span>  <strong>|</strong> <span class="log1">54:11.72</span> <strong>|</strong>  <span class="log1">3:01.15</span> <strong>|</strong>    <span class="log1">243897</span>    <strong>|</strong>   <span class="log1">257486</span>   
+       <span class="log4">16</span>  <strong>|</strong> <span class="log1">57:13.12</span> <strong>|</strong>  <span class="log1">2:55.33</span> <strong>|</strong>    <span class="log1">257487</span>    <strong>|</strong>   <span class="log1">270644</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\02 - NASA - Greetings From The Secretary General Of The UN.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.00</span></span>
+
+     <span class="log4">Peak level <span class="log3">50.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">3CF12793</span></span>
+     <span class="log4">Copy CRC <span class="good">3CF12793</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [03934CBF], AccurateRip returned [5C65EA4D]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\03 - Various Artists - Greetings In 56 Languages.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:03.62</span></span>
+
+     <span class="log4">Peak level <span class="log3">58.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">F0504950</span></span>
+     <span class="log4">Copy CRC <span class="good">F0504950</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [80BFA0A8], AccurateRip returned [557265A2]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\04 - Various Artists - UN Greetings &amp; Whale Greetings.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:03.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">67.6 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.9 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">69896D34</span></span>
+     <span class="log4">Copy CRC <span class="good">69896D34</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [0FB0CDC1], AccurateRip returned [769C4B74]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\05 - NASA - The Sounds Of Earth.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.29</span></span>
+
+     <span class="log4">Peak level <span class="log3">70.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.9 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">EE692E27</span></span>
+     <span class="log4">Copy CRC <span class="good">EE692E27</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [4BAF508B], AccurateRip returned [A7A14B27]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\06 - Johann Sebastian Bach - Brandenburg Concerto No. 2, in F - 1. Allegro.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:00.04</span></span>
+
+     <span class="log4">Peak level <span class="log3">71.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.4 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">62977BE7</span></span>
+     <span class="log4">Copy CRC <span class="good">62977BE7</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [8C7345F2], AccurateRip returned [0B8A54E9]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\07 - Robert Brown - Kinds Of Flowers.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.62</span></span>
+
+     <span class="log4">Peak level <span class="log3">70.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.9 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">FCAD71B8</span></span>
+     <span class="log4">Copy CRC <span class="good">FCAD71B8</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [639A553B], AccurateRip returned [BFFD5173]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\08 - Charles Duvelle - Tchenhoukoumen.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">79.9 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">E221A353</span></span>
+     <span class="log4">Copy CRC <span class="good">E221A353</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [AD728621], AccurateRip returned [032703D7]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\09 - Colin Turnbull - Pygmy Girl&#x27;s Initiation Song.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">62.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">497EB8E8</span></span>
+     <span class="log4">Copy CRC <span class="good">497EB8E8</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [C5523B3B], AccurateRip returned [1B9B5A5F]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\10 - Sandra LeBrun Holmes - Morning Star And Devil Bird.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">39.7 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.6 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">76BD0943</span></span>
+     <span class="log4">Copy CRC <span class="good">76BD0943</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [4B4F8FCE], AccurateRip returned [4497F022]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">11</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\11 - Lorenzo Barcelata and the Mariachi Mexico - El Cascabel.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">64.5 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">7.3 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">09894ADF</span></span>
+     <span class="log4">Copy CRC <span class="good">09894ADF</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [F3CABDCE], AccurateRip returned [CBB32C63]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">12</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\12 - Chuck Berry - Johnny B. Goode.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">66.3 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">6.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.9 %</span></span>
+     <span class="log4">Test CRC <span class="good">AA0D6841</span></span>
+     <span class="log4">Copy CRC <span class="good">AA0D6841</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [1BAA729C], AccurateRip returned [715BDCB7]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">13</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\13 - Robert MacLennan - Men&#x27;s House Song.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.64</span></span>
+
+     <span class="log4">Peak level <span class="log3">47.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">99.8 %</span></span>
+     <span class="log4">Test CRC <span class="good">CEFA5FE6</span></span>
+     <span class="log4">Copy CRC <span class="good">CEFA5FE6</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [57ED676B], AccurateRip returned [A4B90B0D]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">14</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\14 - Coro Yamaguchi - Cranes In Their Nest.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.62</span></span>
+
+     <span class="log4">Peak level <span class="log3">39.8 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">36941902</span></span>
+     <span class="log4">Copy CRC <span class="good">36941902</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [FD87D88D], AccurateRip returned [E54D491F]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">15</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\15 - Johann Sebastian Bach - The Partita No. 3, in E major - Gavotte En Rondeaux.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.62</span></span>
+
+     <span class="log4">Peak level <span class="log3">68.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">F41BDC9F</span></span>
+     <span class="log4">Copy CRC <span class="good">F41BDC9F</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [BD6F6685], AccurateRip returned [9FCBA2A6]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">16</span></span>
+
+     <span class="log4">Filename <span class="log3">D:\mus\Various Artists\Murmurs Of Earth (disc 1)\16 - Wolfgang Amadeus Mozart - The Magic Flute - 14. Queen Of The Night Aria.wav</span></span>
+
+     <span class="log4">Pre-gap length  <span class="log3">0:00:02.56</span></span>
+
+     <span class="log4">Peak level <span class="log3">91.1 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">8.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">770FFEC9</span></span>
+     <span class="log4">Copy CRC <span class="good">770FFEC9</span></span>
+     <span class="badish">Track not present in AccurateRip database</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">14 track(s) could not be verified as accurate</span>
+<span class="badish"> 1 track(s) not present in the AccurateRip database</span>
+
+<span class="badish">No tracks could be verified as accurate</span>
+<span class="badish">You may have a different pressing from the one(s) in the database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: zunXym1g4xbdS4FfH6mABeSJonM-] found, Submit result: zunXym1g4xbdS4FfH6mABeSJonM- has been confirmed
+[f929b2f2] (3/3) Accurately ripped
+
+
+==== Log checksum B62B554BB0A667D3D2336B5372448A469C40E22B4E7391642EA86F07C52C04B3 ====

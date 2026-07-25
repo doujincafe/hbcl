@@ -144,6 +144,12 @@ LOGS = [
             'Could not verify gap handling',
             'Range rip detected (-20 points)'
         }
+    ),
+    (
+        'eac-unrecognized-not-all-tracks.log',
+        {
+            'Not all tracks are represented in the log'
+        }
     )
 ]
 

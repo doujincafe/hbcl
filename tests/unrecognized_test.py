@@ -8,10 +8,6 @@ LOGS = [
     ('eac-edited-at-top-extra-spaces.log', 'Unrecognized ripper'),
     ('eac-edited-wrongly-split-combined.log', 'Unrecognized ripper'),
     ('eac-failed-to-properly-forge-a.log', 'Unrecognized/unsupported language'),
-    (
-        'eac-unrecognized-not-all-tracks.log',
-        'Not all tracks are represented in the log',
-    ),
     ('eac-wrong-date.log', 'Unrecognized EAC version'),
 ]
 
