@@ -1,4 +1,4 @@
-from heybrochecklog import runner
+import heybrochecklog
 
 if __name__ == '__main__':
-    runner()
+    heybrochecklog.main()

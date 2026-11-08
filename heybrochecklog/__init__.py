@@ -11,9 +11,10 @@ from heybrochecklog.translate import translate_log  # noqa: E402
 
 def parse_args():
     """Parse arguments."""
-    description = 'Tool to analyze, translate, and score a CD Rip Log.'
-
-    parser = argparse.ArgumentParser(description=description)
+    parser = argparse.ArgumentParser(
+        prog='heybrochecklog',
+        description='Tool to analyze, translate, and score a CD Rip Log.'
+    )
     parser.add_argument('log', help='log file to check.', nargs='+')
     parser.add_argument(
         '-t',
@@ -41,19 +42,6 @@ def parse_args():
     )
 
     return parser.parse_args()
-
-
-def runner():
-    """Main function to handle command line usage of the heybrochecklog package."""
-    args = parse_args()
-    for log_path in args.log:
-        log_file = Path(log_path)
-        if not log_file.is_file():
-            print('{} does not exist.'.format(log_path))
-        elif args.translate:
-            translate_(args, log_file, log_path)
-        elif args.log:
-            score_(args, log_file, log_path)
 
 
 def score_(args, log_file, log_path):
@@ -116,3 +104,16 @@ def format_translation(logpath, log):
         output.append('\n' + log['log'])
 
     return '\n'.join(output)
+
+
+def main():
+    """Main function to handle command line usage of the heybrochecklog package."""
+    args = parse_args()
+    for log_path in args.log:
+        log_file = Path(log_path)
+        if not log_file.is_file():
+            print(f'{log_path} does not exist.'.format(log_path))
+        elif args.translate:
+            translate_(args, log_file, log_path)
+        elif args.log:
+            score_(args, log_file, log_path)
