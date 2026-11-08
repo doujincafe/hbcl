@@ -11,7 +11,7 @@ EAC_RIPLINES = {
     'russian': 'Отчёт EAC об извлечении, выполненном',
     'french': 'Journal d\'extraction EAC depuis',
     'uzbek': 'EAC ajratish logfayli',
-    'chinese': 'EAC 抓取日志文件从',
+    'chinese (simplified)': 'EAC 抓取日志文件从',
     'polish': 'Sprawozdanie ze zgrywania programem EAC z',
     'czech': 'Protokol extrakce EAC z',
 }

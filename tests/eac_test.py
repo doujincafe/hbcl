@@ -150,7 +150,8 @@ LOGS = [
         {
             'Not all tracks are represented in the log'
         }
-    )
+    ),
+    ('chinese.log', {'Could not verify presence of ID3 tags'}),
 ]
 
 

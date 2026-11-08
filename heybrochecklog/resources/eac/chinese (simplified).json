@@ -51,7 +51,7 @@
             "no match": ["不能准确地校验 \\(确认 ([0-9]+)\\) \\[[A-Z0-9]{8}\\]"],
             "bad match": ["无精确校准抓取 ([0-9]+)\\) \\[[A-Z0-9]{8}\\]"],
             "no result": ["音轨在 AccurateRip 数据库中无记录"],
-            "not ripped": ["音轨未被完整抓取\\(经 AccurateRip 核查)"]
+            "not ripped": ["音轨未被完整抓取\\(经 AccurateRip 核查\\)"]
         },
         "range accuraterip": {
             "match": ["音轨 [0-9]+ 精确地校准抓取 ([0-9]+)\\) \\[[A-Z0-9]{8}]"],

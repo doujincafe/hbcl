@@ -50,7 +50,7 @@ class EACChecker(LogChecker):
 
     def check_drive(self, log):
         """Check the drive of the log and verify it is an allowed drive."""
-        regex = r' ?: (.*) Adapter:[ 0-9]+ID:[ 0-9]+$'
+        regex = r' ?: ?(.*) Adapter:[ 0-9]+ID:[ 0-9]+$'
         return self.get_drive(regex, log.concat_contents[3])
 
     def all_range_index(self, log, line):

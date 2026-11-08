@@ -91,7 +91,7 @@ class LogChecker:
 
         # Compile regex beforehand
         settings = {}
-        colon = r' : (.*)' if log.language == 'english' else r'(?: :)? : (.*)'
+        colon = r' : (.*)' if log.language == 'english' else r'(?: ?:)? ?: (.*)'
         for key, setting in psettings.items():
             settings[key] = re.compile(fmt_ptn_setting(setting) + colon)
 
