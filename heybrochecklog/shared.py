@@ -11,8 +11,14 @@ import chardet
 def get_log_contents(log_file):
     """Open a log file and return its contents."""
     encoding = get_log_encoding(log_file)
-    with log_file.open(encoding=encoding) as log:
-        contents = log.readlines()
+
+    # always try detected encoding first regardless of confidence
+    try:
+        with log_file.open(encoding=encoding) as log:
+            contents = log.readlines()
+    except UnicodeDecodeError:
+        with log_file.open(encoding='utf-8-sig') as log:
+            contents = log.readlines()
 
     return contents
 
@@ -39,7 +45,7 @@ def get_log_encoding(log_file):
         return 'utf-8-sig'
     else:
         result = detect_chardet(raw)
-        return result['encoding'] if (result['confidence'] or 0) > 0.7 else 'utf-8-sig'
+        return result['encoding']
 
 
 def format_pattern(pattern, append=None):
