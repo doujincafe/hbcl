@@ -19,6 +19,12 @@ in CD ripping logs.
   - Hidden tracks and extraction
 - Foreign language support (temperamental, as it's based on the most recent translation files).
 
+## Installation
+```
+uv tool install git+https://github.com/doujincafe/hbcl
+```
+Then use `heybrochecklog` or `hbcl` anywhere on your system.
+
 ## Running CLI
 
 ```
