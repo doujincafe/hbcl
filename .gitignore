@@ -2,11 +2,8 @@ __pycache__
 
 .*
 !.gitignore
-!.flake8
-!.travis.yml
+!.github
 
 translation-files
 build/
 dist/
-*.egg-info
-*.spec
