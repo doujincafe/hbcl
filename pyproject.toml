@@ -1,35 +1,48 @@
-[tool.poetry]
+[project]
 name = "heybrochecklog"
 version = "1.4.9"
 description = "A python tool for evaluating and working with EAC/XLD rip logs."
-authors = ["lights <lights@tutanota.de>"]
-license = "Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/ligh7s/hey-bro-check-log"
+license = "Apache-2.0"
+authors = [
+    {name = "lights", email = "lights@tutanota.de"}
+]
 keywords = ["logchecker", "eac", "xld"]
-include = [
-    "heybrochecklog/resources/*",
-    "heybrochecklog/resources/eac/*",
-    "heybrochecklog/resources/eac95/*",
+requires-python = ">=3.12"
+dependencies = [
+    "chardet>=7.7.0",
+    "faust-cchardet>=3.2.0",
+    "pprp>=0.2.7",
 ]
 
-[tool.poetry.scripts]
-heybrochecklog = 'heybrochecklog.__main__:runner'
+[project.urls]
+GitHub = "https://github.com/doujincafe/hbcl"
 
-[tool.poetry.dependencies]
-python = "^3.10"
-faust-cchardet = "^2.1.19"
-chardet = "^5.1.0"
-pprp = "^0.2.7"
+[project.scripts]
+heybrochecklog = "heybrochecklog:main"
+hbcl = "heybrochecklog:main"
 
-[tool.poetry.dev-dependencies]
-pytest = "^7.2.0"
-
-[tool.black]
-line-length = 88
-target-version = ['py310']
-skip-string-normalization = true
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.4",
+]
 
 [build-system]
-requires = ["poetry>=0.12"]
-build-backend = "poetry.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["heybrochecklog"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 88
+exclude = ["resources"]
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I"]
+ignore = ["E203"]
+
+[tool.ruff.format]
+quote-style = "preserve"
