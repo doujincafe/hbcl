@@ -57,7 +57,7 @@ def test_markup(filename):
     markup_path = os.path.join(
         os.path.dirname(__file__), 'logs', 'XLD', 'markup', '{}.markup'.format(filename)
     )
-    with open(markup_path, 'r') as markup_file:
+    with open(markup_path, 'r', encoding='utf-8') as markup_file:
         markup_contents = markup_file.read()
 
     assert log['contents'] == markup_contents
