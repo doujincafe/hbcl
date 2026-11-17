@@ -8,7 +8,7 @@ authors = [
     {name = "lights", email = "lights@tutanota.de"}
 ]
 keywords = ["logchecker", "eac", "xld"]
-requires-python = ">=3.12"
+requires-python = ">=3.12, <3.15"
 dependencies = [
     "chardet>=7.7.0",
     "faust-cchardet>=3.2.0",
